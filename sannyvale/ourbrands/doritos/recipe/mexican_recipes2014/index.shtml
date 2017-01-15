@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <title>マイクポップコーン｜OUR BRANDS｜ジャパンフリトレー株式会社</title>
+    <meta property="og:title" content="マイクポップコーン｜OUR BRANDS｜ジャパンフリトレー株式会社" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.fritolay.co.jp/index.html" />
+    <meta property="og:site_name" content="マイクポップコーン｜OUR BRANDS｜ジャパンフリトレー株式会社" />
+    <meta property="og:description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <meta property="og:image" content="http://www.fritolay.co.jp/common/img/fb/tn_jfl.jpg" />
+    <meta name="keywords" content="フリトレー, ジャパンフリトレー, frito-lay, ドリトス, チートス, 元祖たこやき亭, リッチギザ, マイクポップコーン, ポップコーン" />
+    <meta name="description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.fritolay.co.jp/favicon.ico" />
+    <link rel="stylesheet" href="/shared/css/layout/layout.css"/>
+    <link rel="stylesheet" href="/shared/css/components/components.css"/>
+    <link rel="stylesheet" href="/shared/css/cmn_layout.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <!--#include virtual="/inc/head-script.html" -->
+  </head>
+  <body class="page-ourbrands">
+    <div class="g-outer is-rwd-def"><!--#include virtual="../../../../inc/g-header.html" -->
+      <div class="g-layout with-rwd">
+        <article class="g-layout_main">
+          <div class="page-header">
+            <div class="page-header_inner">
+              <div class="breadcrumb">
+                <ul>
+                  <li class="breadcrumb_home"><a href="/">TOP</a></li>
+                  <li><a href="/ourbrands/">OUR BRANDS</a></li>
+					<li><a href="/ourbrands/doritos/">ドリトス</a></li>
+					<li>メキシカンレシピ</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <section class="page-main">
+            <div class="page-main_inner">
+				<div class="mainImgWrap01">
+					<h2 id="mainimg"><img src="img/logo.png" class="wMax" alt="ドリトス × カゴメサルサ"></h2>
+					<h3><img src="img/h3_main_text01.png" class="wMax" alt="ドリトス × カゴメサルサ コラボレーション メキシカンレシピ　MEXICAN RECIPES"></h3>
+					<p>世界で愛されるトルティーヤチップ「ドリトス」を使った<br />おいしいメキシカンレシピをご紹介します。<br />仲間でワイワイ集まるパーティーや<br class="hidePc"/>ビールのおつまみにピッタリの<br />お手軽・簡単メニューです。</p>
+				</div>
+				<div class="section01">
+					<div class="blockWrap01">
+						<div class="flR">
+							<h2><img src="img/tit01.jpg" class="wMax" alt="パーティーでもう1品！　ワカモレ＆サルサ"></h2>
+						</div>
+						<div class="flL blockLeft01">
+							<p class="photo01"><img src="img/pic01.jpg" class="wMax" alt="GUACAMOLE &amp; SALSA"></p>
+							<p class="listTitle01">材料（4人分）</p>
+							<ul class="recipeList01">
+								<li class="first"><span class="flR">2個</span><span class="L">アボカド</span></li>
+								<li><span class="flR">1/2個</span><span class="L">玉ねぎ</span></li>
+								<li><span class="flR">20g（お好みで辛さを調節）</span><span class="L">ハラペーニョ</span></li>
+								<li><span class="flR">2本</span><span class="L">コリアンダー</span></li>
+								<li><span class="flR">1/2個</span><span class="L">ライム又はレモン</span></li>
+								<li><span class="flR">少々</span><span class="L">塩こしょう</span></li>
+								<li><span class="flR">1袋</span><span class="L">ドリトス（メキシカン・タコス味）</span></li>
+								<li class="last"><span class="flR">1/2瓶</span><span class="L">カゴメサルサ</span></li>
+							<!--recipeList01 --></ul></div>
+						<div class="flL">
+								<p class="howTitle01">作り方</p>
+								<ul class="howList01 sz_L">
+									<li class="first"><span class="num">①</span><p class="txt">アボカドの果肉をボールに取り出し、荒くつぶす。</p></li>
+									<li><span class="num">②</span><p class="txt">みじん切りにした玉ねぎ、ハラペーニョを①に入れ、ライムを絞り混ぜ合わせる。</p></li>
+									<li><span class="num">③</span><p class="txt">みじん切りにしたコリアンダーを加えさっくりと混ぜ、塩こしょうで味を整える。</p></li>
+									<li><span class="num">④</span><p class="txt">カゴメサルサはそのまま別の容器にあける。</p></li>
+									<li class="last"><span class="num">⑤</span><p class="txt">ドリトスを③④にディップして食べる。</p></li>
+								</ul>
+								<div class="radBox01 clearfix">
+									<p class="subTitle01"><img src="img/txt_sub_title01.gif" class="wMax" alt="ONE POINT"></p>
+									<p class="icoImg"><img src="img/img01.png" class="wMax" alt=""></p>
+									<p class="txt">ナワトル語（メキシコの原住民の言葉）でアボカドは”アグ<span class="red">ワカ</span>テ” 、<br>ソースは”モレ”。合体して”<span class="red">ワカモレ</span>” となりました。</p>
+								<!--radBox01 clearfix --></div></div>
+					</div>
+					<p class="bottom_label"><img src="img/bg_bottom_line01.png" class="wMax" alt=""></p>
+				</div>
+				<div class="section01">
+					<div class="blockWrap01">
+						<div class="flR">
+								<h2><img src="img/tit02.jpg" class="wMax" alt="ビールに合う！メキシカンの定番！　ナチョス"></h2>
+						</div>
+						<div class="flL blockLeft01">
+								<p class="photo01"><img src="img/pic02.jpg" class="wMax" alt="NACHOS"></p>
+								<p class="listTitle01">材料（4人分）</p>
+								<ul class="recipeList01">
+									<li class="first"><span class="flR">200g</span><span class="L">挽肉</span></li>
+									<li><span class="flR">1/4個</span><span class="L">玉ねぎ</span></li>
+									<li><span class="flR">少々（お好みで）</span><span class="L">にんにくパウダー</span></li>
+									<li><span class="flR">50g</span><span class="L">とろけるチーズ</span></li>
+									<li><span class="flR">少々</span><span class="L">塩こしょう</span></li>
+									<li><span class="flR">少々</span><span class="L">オレガノ</span></li>
+									<li><span class="flR">少々</span><span class="L">サラダ油</span></li>
+									<li><span class="flR">1袋</span><span class="L">ドリトス（メキシカン・タコス味）</span></li>
+									<li class="last"><span class="flR">1/2瓶</span><span class="L">カゴメサルサ</span></li>
+								<!--recipeList01 --></ul></div>
+						<div class="flL">
+								<p class="howTitle01">作り方</p>
+								<ul class="howList01">
+									<li class="first"><span class="num">①</span><p class="txt">フライパンにサラダ油を入れ、挽肉に塩こしょうをかけて炒める。</p></li>
+									<li><span class="num">②</span><p class="txt">①にカゴメサルサとにんにくパウダー少々を入れて混ぜ、オレガノを入れ、玉ねぎのみじん切りを加える。</p></li>
+									<li class="last"><span class="num">③</span><p class="txt">ドリトスをお皿に入れ、②をかけその上にチーズをのせ、チーズがとろけるまで電子レンジで温める。</p></li>
+								</ul>
+								<div class="radBox01 clearfix">
+									<p class="subTitle01"><img src="img/txt_sub_title01.gif" class="wMax" alt="ONE POINT"></p>
+									<p class="txt">ナチョスを考えたイグナシオさんのニックネームが”ナチョ”だったのでこの名前が付きました。</p>
+								<!--radBox01 clearfix --></div></div>
+					</div>
+					<p class="bottom_label"><img src="img/bg_bottom_line02.png" class="wMax" alt=""></p>
+				</div>
+				<div class="section01">
+					<div class="blockWrap01">
+						<div class="flR">
+								<h2><img src="img/tit03.jpg" class="wMax" alt="お手軽でおいしい！　セビッチェ コン ドリトス"></h2></div>
+						<div class="flL blockLeft01">
+								<p class="photo01"><img src="img/pic03.jpg" class="wMax" alt="CEVICHE CON DORITOS"></p>
+								<p class="listTitle01">材料（4人分）</p>
+								<ul class="recipeList01">
+									<li class="first"><span class="flR">1缶</span><span class="L">ツナ缶（80g）</span></li>
+									<li><span class="flR">1/4個</span><span class="L">玉ねぎ</span></li>
+									<li><span class="flR">小さじ1</span><span class="L">オリーブオイル</span></li>
+									<li><span class="flR">適量</span><span class="L">アボカド</span></li>
+									<li><span class="flR">1枚</span><span class="L">コリアンダーの葉</span></li>
+									<li><span class="flR">少々</span><span class="L">塩こしょう</span></li>
+									<li><span class="flR">1/2個</span><span class="L">ライム又はレモン</span></li>
+									<li><span class="flR">1袋</span><span class="L">ドリトス（メキシカン・タコス味）</span></li>
+									<li class="last"><span class="flR">1/2瓶</span><span class="L">カゴメサルサ</span></li>
+								<!--recipeList01 --></ul></div>
+						<div class="flL">
+								<p class="howTitle01">作り方</p>
+								<ul class="howList01">
+									<li class="first"><span class="num">①</span><p class="txt">ツナの油を切りサルサと玉ねぎのみじん切り、オリーブオイルを入れ混ぜ合わせる。</p></li>
+									<li><span class="num">②</span><p class="txt">ライムを絞り、塩こしょうで味を整え、飾りで櫛切りにしたアボカドと、コリアンダーの葉をのせる。</p></li>
+									<li class="last"><span class="num">③</span><p class="txt">ドリトスにのせて食べる。</p></li>
+								</ul>
+								<div class="radBox01 clearfix">
+									<p class="subTitle01"><img src="img/txt_sub_title01.gif" class="wMax" alt="ONE POINT"></p>
+									<p class="icoImg02"><img src="img/img02.png" class="wMax" alt=""></p>
+									<p class="txt">スペイン語のconは英語のwith。「一緒に」という意味です。</p>
+								<!--radBox01 clearfix --></div></div>
+					</div>
+					<p class="bottom_label"><img src="img/bg_bottom_line03.png" class="wMax" alt=""></p>
+				</div>
+				<div class="section01">
+					<div class="blockWrap01">
+						<div class="flR">
+								<h2><img src="img/tit04.jpg" class="wMax" alt="サルサソース味が絶妙！　トルティーヤジャスープ"></h2></div>
+						<div class="flL blockLeft01">
+								<p class="photo01"><img src="img/pic04.jpg" class="wMax" alt="SOPA DE TORTILLA"></p>
+								<p class="listTitle01">材料（4人分）</p>
+								<ul class="recipeList01">
+									<li class="first"><span class="flR">500CC</span><span class="L">水</span></li>
+									<li><span class="flR">2個</span><span class="L">固形コンソメ</span></li>
+									<li><span class="flR">少々（お好みで）</span><span class="L">にんにくパウダー</span></li>
+									<li><span class="flR">少々</span><span class="L">オレガノ</span></li>
+									<li><span class="flR">適量</span><span class="L">塩こしょう</span></li>
+									<li><span class="flR">適量（1本〜2本程度）</span><span class="L">コリアンダー</span></li>
+									<li><span class="flR">大さじ4</span><span class="L">サワークリーム</span></li>
+									<li><span class="flR">1/2個</span><span class="L">アボカド</span></li>
+									<li><span class="flR">1袋</span><span class="L">ドリトス（ナチョチーズ味）</span></li>
+									<li class="last"><span class="flR">2瓶</span><span class="L">カゴメサルサ</span></li>
+								<!--recipeList01 --></ul></div>
+						<div class="flL">
+								<p class="howTitle01">作り方</p>
+								<ul class="howList01">
+									<li class="first"><span class="num">①</span><p class="txt">カゴメサルサとにんにくパウダーをミキサーにかける。</p></li>
+									<li><span class="num">②</span><p class="txt">水を鍋で沸騰させ、そこに①とコンソメを入れ、オレガノを少々ふり、塩こしょうで味を整える。</p></li>
+									<li class="last"><span class="num">③</span><p class="txt">②にドリトスを入れ、みじん切りにしたコリアンダーと櫛切りにしたアボカド、サワークリームで飾る。</p></li>
+								</ul>
+								<div class="radBox01">
+									<div class="inner">
+										<div class="box">
+											<p class="subTitle01"><img src="img/txt_sub_title01.gif" class="wMax" alt="ONE POINT"></p>
+											<p class="txt">玉ねぎのみじん切りを少し足して、アボカドとスープで赤、白、緑のメキシコの国旗の色になるよ！</p>
+										</div>
+										<p class="img"><img src="img/img03.png" class="wMax" alt=""></p>							
+									</div>
+								<!--radBox01 clearfix --></div></div>
+					</div>
+					<p class="bottom_label"><img src="img/bg_bottom_line04.png" class="wMax" alt=""></p>
+				</div>
+				<div id="dorotosArea">
+					<div class="hideSp"><img src="img/pic_doritos01.jpg" alt="ドリトス 「味・生地・パッケージ」がリニューアル！"></div>
+					<div class="hidePc"><img src="img/pic_doritos01_sp.jpg" class="wMax" alt="ドリトス 「味・生地・パッケージ」がリニューアル！"></div>
+					<p class="btn"><a href="http://www.fritolay.co.jp/ourbrands/doritos/" target="_blank">詳しくはこちら</a></p>
+				</div>
+            </div>
+          </section>
+        </article>
+        <p class="pageTop"><a href="#">PageTop</a></p>
+      </div>
+      <!--#include virtual="../../../../inc/g-footer.html" -->
+    </div>
+    <script src="/shared/js/jquery.min.js"></script>
+    <script src="/shared/js/script.min.js"></script>
+    <script src="/shared/js/common.js"></script>
+  </body>
+</html>

@@ -1,0 +1,23 @@
+.comp-table {
+  width: 99.98%;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  border-collapse: separate;
+  th,
+  td {
+    border-left: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    padding: 3px 5px 2px;
+    width: 12.5%;
+    font-size: 12px;
+    vertical-align: middle;
+  }
+  th {
+    font-weight: normal;
+    background-color: #f2f1de;
+    text-align: left;
+  }
+  td {
+    text-align: center;
+  }
+}

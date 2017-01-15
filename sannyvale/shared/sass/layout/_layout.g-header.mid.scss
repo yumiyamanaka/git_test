@@ -1,0 +1,268 @@
+.is-rwd-mid .g-header {
+//  @include g-header-box-shadow();
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  min-width: 1024px;
+  height: 60px;
+  background-color: #ffffff;
+
+  .g-header_inner {
+    @include g-header-box-shadow();
+    background-color: #ffffff;
+    height: 60px;
+  }
+
+  .g-header_nav-handle {
+    display: none;
+  }
+
+  .g-header_logo {
+    span {
+      position: relative;
+      float: left;
+      top: 3px;
+      margin-left: 10px;
+      background: url(/shared/img/logo2.png) no-repeat 0 0;
+      width: 244px;
+      height: 51px;
+    }
+  }
+
+  .g-header-social {
+    overflow: hidden;
+    position: absolute;
+    right: 18px;
+    top: 19px;
+    display: block;
+    width: 25px;
+    height: 25px;
+    a {
+      display: block;
+      width: 25px;
+      height: 25px;
+      text-indent: -9999px;
+      background: url(/shared/img/icon/sns_facebook_03.png) no-repeat 0 0;
+    }
+  }
+}
+
+.is-rwd-mid .g-header-nav {
+  float: left;
+  margin-left: 40px;
+  a {
+    display: block;
+    span {
+      overflow: hidden;
+      display: block;
+      text-indent: -9999px;
+    }
+  }
+  .g-header-nav_items {
+  }
+}
+
+.is-rwd-mid .g-header-nav-item {
+  $prefix: g-header-nav-item;
+
+  @mixin foo ($x, $y){
+    .#{$prefix}_name {
+      a:focus,
+      a:hover {
+        span { background-position: $x $y; }
+      }
+    }
+  }
+
+  @mixin foo2 ($x, $y){
+    .#{$prefix}_name {
+      a {
+        background-image: none;
+        span {
+          background-position: $x $y;
+        }
+      }
+    }
+  }
+
+  float: left;
+
+  .#{$prefix}_name {
+    i {
+      display: none;
+      position: absolute;
+      left: 50%;
+      bottom: 5px;
+      margin-left: -6px;
+      width: 12px;
+      height: 8px;
+      background: url(/shared/img/arrow/red_02.png) no-repeat 0 0;
+    }
+    span {
+      position: relative;
+      top: 25px;
+      margin: 0 auto;
+      height: 12px;
+      background-image: url(/shared/img/menu/g_header_nav_02.png);
+      background-repeat: no-repeat;
+    }
+    a {
+      position: relative;
+      height: 60px;
+      &:focus,
+      &:hover {
+        i {
+          display: block;
+        }
+      }
+    }
+  }
+
+  .#{$prefix}_handle {
+    display: none;
+  }
+
+  .#{$prefix}_content {
+    display: none;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: 60px;
+    width: 100%;
+    zoom: 1;
+    font-size: 13px;
+    background-color: #cc000e;
+    ul {
+      overflow: hidden;
+      zoom: 1;
+    }
+    li {
+      float: left;
+    }
+    i {
+      display: none;
+      position: absolute;
+      left: 50%;
+      bottom: 5px;
+      margin-left: -6px;
+      width: 12px;
+      height: 8px;
+      background: url(/shared/img/arrow/red_02.png) no-repeat 0 0;
+    }
+    span {
+      display: block;
+      height: 14px;
+      background: url(/shared/img/gnav-sub_01.png);
+    }
+    a {
+      position: relative;
+      padding: 15px 15px;
+      &:focus,
+      &:hover {
+        i {
+          display: block;
+        }
+        background-color: #a6010d;
+      }
+    }
+  }
+
+  &.has-top {
+    width: 54px;
+    .#{$prefix}_name span { width: 30px; background-position: 0 0; }
+    @include foo(-400px, 0);
+  }
+
+  &.has-product {
+    width: 75px;
+    ul { padding-left: 348px; }
+    .#{$prefix}_name span { width: 50px; background-position: 0 -20px; }
+    @include foo(-400px, -20px);
+    .g-nav_01 span { width: 39px; background-position: 0 0; }
+    .g-nav_02 span { width: 78px; background-position: 0 -20px; }
+  }
+
+  &.has-brand {
+    width: 68px;
+    ul { padding-left: 423px; }
+    .#{$prefix}_name span { width: 50px; background-position: 0 -40px; }
+    @include foo(-400px, -40px);
+    .g-nav_01 span { width: 83px; background-position: 0 -60px; }
+    .g-nav_02 span { width: 111px; background-position: 0 -80px; }
+    .g-nav_03 span { width: 47px; background-position: 0 -100px; }
+    .g-nav_04 span { width: 49px; background-position: 0 -120px; }
+    .g-nav_05 span { width: 65px; background-position: 0 -140px; }
+  }
+
+  &.has-special {
+    width: 145px;
+    ul { padding-left: 491px; }
+    .#{$prefix}_name span { width: 119px; background-position: 0 -60px; }
+    @include foo(-400px, -60px);
+    .g-nav_01 span { width: 108px; background-position: 0 -180px; }
+  }
+
+  &.has-campaign {
+    width: 94px;
+    ul { padding-left: 614px; }
+    .#{$prefix}_name span { width: 71px; background-position: 0 -80px; }
+    @include foo(-400px, -80px);
+    .g-nav_01 span { width: 109px; background-position: 0 -220px; }
+  }
+
+  &.has-news {
+    width: 117px;
+    ul { padding-left: 628px; }
+    .#{$prefix}_name span { width: 94px; background-position: 0 -100px; }
+    @include foo(-400px, -100px);
+    .g-nav_01 span { width: 132px; background-position: 0 -260px; }
+  }
+
+  &.has-company {
+    width: 73px;
+    ul { padding-left: 367px; }
+    .#{$prefix}_name span { width: 51px; background-position: 0 -120px; }
+    @include foo(-400px, -120px);
+    .g-nav_01 span { width: 139px; background-position: 0 -300px; }
+    .g-nav_02 span { width: 53px; background-position: 0 -320px; }
+    .g-nav_03 span { width: 53px; background-position: 0 -340px; }
+    .g-nav_04 span { width: 105px; background-position: 0 -360px; }
+    .g-nav_05 span { width: 53px; background-position: 0 -380px; }
+  }
+
+  &.is-current {
+    .#{$prefix}_name {
+      a {
+        background-color: #e4001f;
+      }
+    }
+    &.has-top {
+      @include foo2(-200px, 0);
+    }
+    &.has-product {
+      @include foo2(-200px, -20px);
+    }
+    &.has-brand {
+      @include foo2(-200px, -40px);
+    }
+    &.has-special {
+      @include foo2(-200px, -60px);
+    }
+    &.has-campaign {
+      @include foo2(-200px, -100px);
+    }
+    &.has-news {
+      @include foo2(-200px, -80px);
+    }
+    &.has-company {
+      @include foo2(-200px, -120px);
+    }
+  }
+
+  &.is-show-content {
+    .#{$prefix}_content {
+      display: block;
+    }
+  }
+}

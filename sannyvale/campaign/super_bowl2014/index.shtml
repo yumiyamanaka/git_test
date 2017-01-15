@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <title>ドリトス・クラッシュ・ザ・スーパーボウルキャンペーン｜ジャパンフリトレー株式会社</title>
+    <meta property="og:title" content="ドリトス・クラッシュ・ザ・スーパーボウルキャンペーン｜ジャパンフリトレー株式会社" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.fritolay.co.jp/index.html" />
+    <meta property="og:site_name" content="ドリトス・クラッシュ・ザ・スーパーボウルキャンペーン｜ジャパンフリトレー株式会社" />
+    <meta property="og:description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <meta property="og:image" content="http://www.fritolay.co.jp/common/img/fb/tn_jfl.jpg" />
+    <meta name="keywords" content="フリトレー, ジャパンフリトレー, frito-lay, ドリトス, チートス, 元祖たこやき亭, リッチギザ, マイクポップコーン, ポップコーン" />
+    <meta name="description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.fritolay.co.jp/favicon.ico" />
+    <link rel="stylesheet" href="/shared/css/layout/layout.css"/>
+    <link rel="stylesheet" href="/shared/css/components/components.css"/>
+    <link rel="stylesheet" href="/shared/css/cmn_layout.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <!--#include virtual="/inc/head-script.html" -->
+  </head>
+  <body class="page-campaign">
+    <div class="g-outer is-rwd-def"><!--#include virtual="../../inc/g-header.html" -->
+      <div class="g-layout with-rwd">
+        <article class="g-layout_main">
+          <div class="page-header">
+            <div class="page-header_inner">
+              <div class="breadcrumb">
+                <ul>
+                  <li class="breadcrumb_home"><a href="/">TOP</a></li>
+				  <li class="campaign"><a href="/campaign/">キャンペーン</a></li>
+                  <li>ドリトス・クラッシュ・ザ・スーパーボール</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <section class="page-main">
+			<div class="page-main_inner">
+				<div id="mainimg">
+					<img src="img/mainimg01.jpg" alt="賞金1億円 ドリトス・クラッシュ・ザ・スーパーボウルキャンペーン "/>
+					<div class="term"><img src="img/img_term01.png" alt="ドリトスの宣伝動画を作り、投稿 投稿期間：2014年9月4日-11月9日 最優秀作品に選ばれた人に 賞金US$1,000,000（約1億円）を贈呈"/></div>	
+					<div class="note">※「賞金1億円」は、2014年9月1日の為替レートからおよその金額換算</div>
+				</div>
+				<div id="schedule">
+					<p class="pic"><img src="img/img_schedule01.png" alt="キャンペーンスケジュール"/></p>
+					<p class="btn pc"><a href="http://www.doritos.com" target="_blank"><img src="img/btn_winner01.png" alt="入賞作品はこちら"/></a></p>
+					<div class="btn sp">
+						<div class="inner">
+							<a href="http://www.doritos.com" target="_blank">
+								<span><img src="img/txt_btnwinner01.png" width="136" height="15" alt="入賞作品はこちら"/></span>
+							</a>
+						</div>
+					</div>
+				</div>
+				<div id="dorotosArea">
+					<div class="pic pc"><img src="img/pic_doritos01.jpg" alt="Doritos IGNITE YOU アソビゴコロに火を点けろ。"/></div>
+					<div class="pic sp"><img src="img/pic_doritos01_sp.jpg" alt="Doritos IGNITE YOU アソビゴコロに火を点けろ。"/></div>
+					<p class="btn"><a href="http://www.fritolay.co.jp/ourbrands/doritos/">詳しくはこちら</a></p>
+				</div>
+            </div>
+          </section>
+        </article>
+        <p class="pageTop"><a href="#">PageTop</a></p>
+      </div><!--#include virtual="../../inc/g-footer.html" -->
+    </div>
+    <script src="/shared/js/jquery.min.js"></script>
+    <script src="/shared/js/script.min.js"></script>
+	<script src="/shared/js/common.js"></script>
+  </body>
+</html>

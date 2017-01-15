@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <title>マイクポップコーン｜OUR BRANDS｜ジャパンフリトレー株式会社</title>
+    <meta property="og:title" content="マイクポップコーン｜OUR BRANDS｜ジャパンフリトレー株式会社" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.fritolay.co.jp/index.html" />
+    <meta property="og:site_name" content="マイクポップコーン｜OUR BRANDS｜ジャパンフリトレー株式会社" />
+    <meta property="og:description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <meta property="og:image" content="http://www.fritolay.co.jp/common/img/fb/tn_jfl.jpg" />
+    <meta name="keywords" content="フリトレー, ジャパンフリトレー, frito-lay, ドリトス, チートス, 元祖たこやき亭, リッチギザ, マイクポップコーン, ポップコーン" />
+    <meta name="description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.fritolay.co.jp/favicon.ico" />
+    <link rel="stylesheet" href="/shared/css/layout/layout.css"/>
+    <link rel="stylesheet" href="/shared/css/components/components.css"/>
+    <link rel="stylesheet" href="/shared/css/cmn_layout.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <!--#include virtual="/inc/head-script.html" -->
+  </head>
+<body class="page-ourbrands">
+<div class="g-outer is-rwd-mid"><!--#include virtual="../../inc/g-header.html" -->
+	<div class="g-layout with-rwd">
+		<article class="g-layout_main">
+			<div class="page-header">
+				<div class="page-header_inner">
+					<div class="breadcrumb">
+						<ul>
+							<li class="breadcrumb_home"><a href="/">TOP</a></li>
+							<li><a href="../">ブランド</a></li>
+							<li>マイクポップコーン</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<section class="page-main">
+				<div class="page-main_inner">
+					<div id="section01" class="section01 autoHeight section_basic01">
+						<div class="pc popcornBg01 autoHeight"></div>
+						<div class="contentWrap01 autoHeight">
+							<div class="mainimgwrap01">
+								<img class="pc" src="img/mainimg01.png" alt="マイクポップコーン mike POPCORN"/>							
+								<img class="sp" src="img/mainimg01_sp.jpg" alt="マイクポップコーン mike POPCORN"/>
+							</div>							
+						</div>
+						<div class="ulWrap01">
+							<ul>
+								<li class="list01"><a class="scroll" href="#section02">チェスター・チーター劇場</a></li>
+								<li class="list02"><a class="scroll" href="#section06">チートスとは</a></li>
+								<li class="list03"><a class="scroll" href="#section07">ラインナップ</a></li>
+							</ul>
+						</div>
+					</div>
+					<div id="section02" class="section02 section_basic01 noSpace">
+						<div class="contentWrap01">
+							<h2></h2>
+							<div class="ulWrap01">
+								<ul>
+									<li class="list01"><a class="scroll" href="#point01"><img src="img/thumb_point01.jpg" alt="Point1"/>ポップコーンブランドNo.1 </a></li>
+									<li class="list02"><a class="scroll" href="#point02"><img src="img/thumb_point02.jpg" alt="Point2"/>優れた栄養バランス  </a></li>
+									<li class="list03"><a class="scroll" href="#point03"><img src="img/thumb_point03.jpg" alt="Point3"/>世界が認めた高品質  </a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div id="point01" class="section03 section_basic01 noSpace">
+						<div class="bgBlend01"></div>
+						<div class="contentWrap01">
+							<div class="txtWrap01">
+								<h3>Point1 50年の歴史を誇るポップコーンブランドNo.1</h3>
+								<p>マイクポップコーンは何と言ってもポップコーンの日本№1ブランド。1957年、日本初となる袋入りポップコーンとして発売されれてから積み重ねた歴史は、マイクのポップコーンの歴史でもあり、日本のポップコーンの歴史でもあります。
+								<span class="caution">※インテージSRI全国・全業態、期間2001年4月～2012年3月<br>ポップコーン市場、ベース：累計販売金額</span></p>
+								<img id="point01img" class="img01" src="img/pic_point01.png" alt="Point1 50年の歴史を誇るポップコーンブランドNo.1"/>
+								<a href="history/">ポップコーンの歴史をみる</a>
+							</div>
+						</div>
+					</div>
+					<div id="point02" class="section04 section_basic01 noSpace">
+						<div id="point02img" class="point02Bg"></div>
+						<div class="contentWrap01">
+							<div class="txtWrap01">
+								<h3>Point2 栄養士さんもオススメ優れた栄養バランス</h3>
+								<p>マイクポップコーンの原材料は,皮をまるごと食べられるとうもろこし。食物繊維やポリフェノールが豊富で、食パンや塩おにぎりよりも優れた栄養バランスといわれています。<br>
+									しかもノンフライなので、他のスナックや菓子と比べてもヘルシーで健康的なおやつなんです。</p>
+<!--								<a href="nutrition/">食べて得するポップコーンの栄養のヒミツ</a>
+-->							</div>
+						</div>
+					</div>
+					<div id="point03" class="section05 section_basic01 noSpace">
+						<div class="bgBlend01"></div>
+						<div class="contentWrap01">
+							<div class="txtWrap01">
+								<h3>Point3 モンドセレクション金賞世界が認めた高品質</h3>
+								<p>マイクポップコーンの看板商品である「マイクポップコーンバターしょうゆ味」は2009年に食品の品質向上を目的としたモンドセレクションの金賞を初めて受賞して以来、5年連続で金賞を受賞。世界が認めた高品質なポップコーンです。</p>
+								<img id="point03img" class="img01" src="img/pic_point03.png" alt="Point3 モンドセレクション金賞世界が認めた高品質"/>
+								<div class="box01">
+									<a href="#">モンドセレクションとは？</a>
+									<p class="detail">1961年にベルギー政府主導の下、食品の品質向上を目的として始まったモンドセレクション。商品の品質に関するコンクールとしては、世界で最も歴史のある代表的なものです。</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="section06" class="section06 section_basic01 noSpace">
+						<div id="snack01" class="snack01"> </div>
+						<div id="snack02" class="snack02"> </div>						
+							<div class="ttlWrap01">
+								<h2 id="lineup">ラインナップ</h2>
+								<h3>Line Up</h3>
+							</div>
+							<div class="contentWrap01">
+								<h4>定番商品</h4>
+								<ul class="lineupList01">
+									<li id="shoyu" class="snacks-item">
+                                        <a href="../../products/mike/">
+											<figure><img src="img/pic_snack01.png" class="" alt="バターしょうゆ味"></figure>
+											<p>バターしょうゆ味</p>
+											<h5>バターとしょうゆの<br>おいしいハーモニー </h5>
+											<div><span class="snacks-item_mroe">詳細を見る</span></div>
+										</a>
+                                    </li>
+									<li class="snacks-item">
+                                        <a href="../../products/mike_cheese_1503/">
+											<figure><img src="img/pic_snack02.png" class="" alt="チーズ味"></figure>
+											<p>チーズ味</p>
+											<h5>こくのある豊かなチーズ味わいが<br>後をひくおいしさ</h5>
+											<div><span class="snacks-item_mroe">詳細を見る</span></div>
+										</a>
+                                    </li>
+									<li class="snacks-item">
+                                        <a href="../../products/mike_kyushushoyu_1403/">
+											<figure><img src="img/pic_snack03.png" class="" alt="九州しょうゆ味"></figure>
+											<p>九州しょうゆ味</p>
+											<h5>コクのある甘口しょうゆの味わ<br>いと鶏だしの旨味</h5>
+											<div><span class="snacks-item_mroe">詳細を見る</span></div>
+                                        </a>
+                                    </li>
+<!--									<li id="richcaramel" class="snacks-item">
+                                        <a href="../../products/mike_richcaramel_1409/">
+											<figure><img src="img/pic_snack04.png" class="" alt="マイクポップコーンキャラメル リッチキャラメル味"></figure>
+											<p>マイクポップコーンキャラメル<br>リッチキャラメル味</p>
+											<h5>濃厚リッチな味わい<br>食べやすいカップタイプ</h5>
+											<div><span class="snacks-item_mroe">詳細を見る</span></div>
+                                        </a>
+                                    </li>-->
+									<li class="snacks-item">
+                                        <a href="../../products/mike_richcaramel_1504/">
+											<figure><img src="img/pic_snack05.png" class="" alt="マイクポップコーンキャラメル リッチキャラメル味"></figure>
+											<p>マイクポップコーンキャラメル<br>リッチキャラメル味</p>
+											<h5>濃厚リッチな味わい<br>定番のレギュラーサイズ</h5>
+											<div><span class="snacks-item_mroe">詳細を見る</span></div>
+                                        </a>
+                                    </li>
+									<li class="snacks-item">
+                                        <a href="../../products/mike_caramel_1509/">
+											<figure><img src="img/pic_snack06.png" class="" alt="塩キャラメル味"></figure>
+											<p class="oneLine01">塩キャラメル味</p>
+											<h5>甘じょっぱい塩キャラメルの<br>新しいテイストのポップコーン </h5>
+											<div><span class="snacks-item_mroe">詳細を見る</span></div>
+                                        </a>
+                                    </li>
+									<li class="snacks-item"></li>
+								</ul>
+							<h4 class="newItem01">新商品</h4>
+							<div class="snackWrap01 snacks-lineup_items">
+<!--#include virtual="/products/mike.html" -->
+								<div class="snacks-newsnack-more"><a href="#"><i></i><span>もっとみる</span></a></div>
+							</div>
+						</div>
+					</div>
+					<div id="section07" class="section07 section_basic01 noSpace">
+						<div class="contentWrap01">
+							<h2 class="h2_special01"><img src="/special/img/img_special_title01.png" alt="POPCORN LIFE 生活を楽しくする ポップコーンマガジン BY MIKE POPCORN"/></h2>
+							<div class="popcornLifeArea">
+<!--#include virtual="/special/popcorn/partial.html" -->
+						</div>
+					</div>
+				</div>
+          </section>
+        </article>
+        <p class="pageTop"><a href="#">PageTop</a></p>
+      </div>
+      <!--#include virtual="../../inc/g-footer.html" -->
+    </div>
+    <script src="/shared/js/jquery.min.js"></script>
+    <script src="/shared/js/script.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script src="/shared/js/common.js"></script>
+    <script src="js/ScrollMagic.js"></script>
+    <script src="js/TweenMax.min.js"></script>
+    <script src="js/debug.addIndicators.js"></script>
+    <script src="plugins/animation.gsap.js"></script>
+     <script src="/shared/js/jQueryAutoHeight.js"></script>
+    <script src="js/mike.js"></script>
+  </body>
+</html>

@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <title>元祖たこやき亭｜OUR BRANDS｜ジャパンフリトレー株式会社</title>
+    <meta property="og:title" content="元祖たこやき亭｜OUR BRANDS｜ジャパンフリトレー株式会社" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.fritolay.co.jp/index.html" />
+    <meta property="og:site_name" content="元祖たこやき亭｜OUR BRANDS｜ジャパンフリトレー株式会社" />
+    <meta property="og:description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <meta property="og:image" content="http://www.fritolay.co.jp/common/img/fb/tn_jfl.jpg" />
+    <meta name="keywords" content="フリトレー, ジャパンフリトレー, frito-lay, ドリトス, チートス, 元祖たこやき亭, リッチギザ, マイクポップコーン, ポップコーン" />
+    <meta name="description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.fritolay.co.jp/favicon.ico" />
+    <link rel="stylesheet" href="/shared/css/layout/layout.css"/>
+    <link rel="stylesheet" href="/shared/css/components/components.css"/>
+    <link rel="stylesheet" href="/shared/css/cmn_layout.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <!--#include virtual="/inc/head-script.html" -->
+  </head>
+  <body class="page-ourbrands">
+    <div class="g-outer is-rwd-def"><!--#include virtual="/inc/g-header.html" -->
+      <div class="g-layout with-rwd">
+        <article class="g-layout_main">
+          <div class="page-header">
+            <div class="page-header_inner">
+              <div class="breadcrumb">
+                <ul>
+                  <li class="breadcrumb_home"><a href="/">TOP</a></li>
+                  <li><a href="../../">ブランド</a></li>
+                  <li><a href="../">元祖たこやき亭</a></li>
+                  <li>おたのしみコンテンツ</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <section class="page-main">
+            <div class="page-main_inner">
+				<div class="mainImgWrap01">
+					<h1><img src="img/logo_takoyaki01.png" class="wMax" alt=""/>
+					<span><img src="img/pic_takoyaki01.png" class="wMax" alt=""/></span></h1>
+					<h2><img src="img/h2_main01.png" class="wMax" alt=""/></h2>
+				</div>
+              	<div class="mainContent">
+					<h3 class="h3_basic txtTtl01"><img src="img/h3_title01.png" alt=""/></h3>
+					<div class="slideWrap">
+						<div class="h4_basic txtSub01"><table>
+							<tr>
+								<td>
+									<img src="img/h4_title01.gif" alt="ゆうえんち"/>
+								</td>
+								<td>
+									<span>下の二つの絵をくらべてみよう。ちがっているところが3つあるよ。</span>
+								</td>
+							</tr>
+						</table></div>
+						<div class="slide_basic slide01">
+							<ul>
+								<li><img src="img/pic_slide01.gif" alt=""/></li>
+								<li><img src="img/pic_slide02.gif" alt=""/></li>
+								<li><img src="img/pic_slide03.gif" alt=""/></li>
+								<li><img src="img/pic_slide04.gif" alt=""/></li>
+								<li><img src="img/pic_slide05.gif" alt=""/></li>
+								<li><img src="img/pic_slide06.gif" alt=""/></li>
+								<li><img src="img/pic_slide07.gif" alt=""/></li>
+								<li><img src="img/pic_slide08.gif" alt=""/></li>
+								<li><img src="img/pic_slide09.gif" alt=""/></li>
+								<li><img src="img/pic_slide10.gif" alt=""/></li>
+							</ul>
+							<div class="btnControl">
+								<a class="prev" href="#"></a>
+								<a class="next" href="#"></a>
+							</div>
+						</div>
+              			<p class="hintBtn hint01"><a href="img/pic_answer01.jpg"></a></p>
+					</div>
+					<div class="slideWrap">
+						<div class="h4_basic txtSub02"><table>
+							<tr>
+								<td>
+									<img src="img/h4_title02.gif" alt="みなみの島（しま）"/>
+								</td>
+								<td>
+									<span>下の二つの絵をくらべてみよう。ちがっているところが3つあるよ。</span>
+								</td>
+							</tr>
+						</table></div>
+						<div class="slide_basic slide02">
+							<ul>
+								<li><img src="img/pic_slide2_01.gif" alt=""/></li>
+								<li><img src="img/pic_slide2_02.gif" alt=""/></li>
+								<li><img src="img/pic_slide2_03.gif" alt=""/></li>
+								<li><img src="img/pic_slide2_04.gif" alt=""/></li>
+								<li><img src="img/pic_slide2_05.gif" alt=""/></li>
+								<li><img src="img/pic_slide2_06.gif" alt=""/></li>
+								<li><img src="img/pic_slide2_07.gif" alt=""/></li>
+								<li><img src="img/pic_slide2_08.gif" alt=""/></li>
+								<li><img src="img/pic_slide2_09.gif" alt=""/></li>
+							</ul>
+							<div class="btnControl">
+								<a class="prev" href="#"></a>
+								<a class="next" href="#"></a>
+							</div></div>
+              			<p class="hintBtn hint02"><a href="img/pic_answer02.jpg"></a></p>
+					</div>
+					<div class="slideWrap">
+						<div class="h4_basic txtSub03"><table>
+							<tr>
+								<td>
+									<img src="img/h4_title03.gif" alt="どうぶつえん"/>
+								</td>
+								<td><span>下の二つの絵をくらべてみよう。ちがっているところが3つあるよ。</span></td>
+							</tr>
+						</table></div>
+						<div class="slide_basic slide03">
+							<ul>
+								<li><img src="img/pic_slide3_01.gif" alt=""/></li>
+								<li><img src="img/pic_slide3_02.gif" alt=""/></li>
+								<li><img src="img/pic_slide3_03.gif" alt=""/></li>
+								<li><img src="img/pic_slide3_04.gif" alt=""/></li>
+								<li><img src="img/pic_slide3_05.gif" alt=""/></li>
+								<li><img src="img/pic_slide3_06.gif" alt=""/></li>
+								<li><img src="img/pic_slide3_07.gif" alt=""/></li>
+								<li><img src="img/pic_slide3_08.gif" alt=""/></li>
+								<li><img src="img/pic_slide3_09.gif" alt=""/></li>
+								<li><img src="img/pic_slide3_10.gif" alt=""/></li>								
+								<li><img src="img/pic_slide3_11.gif" alt=""/></li>
+								<li><img src="img/pic_slide3_12.gif" alt=""/></li>
+								<li><img src="img/pic_slide3_13.gif" alt=""/></li>
+								<li><img src="img/pic_slide3_14.gif" alt=""/></li>
+								<li><img src="img/pic_slide3_15.gif" alt=""/></li>
+								<li><img src="img/pic_slide3_16.gif" alt=""/></li>
+								<li><img src="img/pic_slide3_17.gif" alt=""/></li>
+								<li><img src="img/pic_slide3_18.gif" alt=""/></li>
+							</ul>
+							<div class="btnControl">
+								<a class="prev" href="#"></a>
+								<a class="next" href="#"></a>
+							</div>
+						</div>
+              			<p class="hintBtn hint01"><a href="img/pic_answer03.jpg"></a></p>
+					</div>
+					<div class="slideWrap">
+						<div class="h4_basic txtSub04"><table>
+							<tr>
+								<td>
+									<img src="img/h4_title04.gif" alt="にゅうがくしき"/>
+								</td><td>
+									<span>下の二つの絵をくらべてみよう。ちがっているところが3つあるよ。</span>
+								</td>
+							</tr>
+						</table></div>
+						<div class="slide_basic slide04">
+							<ul>
+								<li><img src="img/pic_slide4_01.gif" alt=""/></li>
+								<li><img src="img/pic_slide4_02.gif" alt=""/></li>
+								<li><img src="img/pic_slide4_03.gif" alt=""/></li>
+								<li><img src="img/pic_slide4_04.gif" alt=""/></li>
+								<li><img src="img/pic_slide4_05.gif" alt=""/></li>
+								<li><img src="img/pic_slide4_06.gif" alt=""/></li>
+								<li><img src="img/pic_slide4_07.gif" alt=""/></li>
+								<li><img src="img/pic_slide4_08.gif" alt=""/></li>
+								<li><img src="img/pic_slide4_09.gif" alt=""/></li>
+								<li><img src="img/pic_slide4_10.gif" alt=""/></li>								
+								<li><img src="img/pic_slide4_11.gif" alt=""/></li>
+								<li><img src="img/pic_slide4_12.gif" alt=""/></li>
+							</ul>
+							<div class="btnControl">
+								<a class="prev" href="#"></a>
+								<a class="next" href="#"></a>
+							</div>
+						</div>
+              			<p class="hintBtn hint02"><a href="img/pic_answer04.jpg"></a></p>
+					</div>
+					<div class="slideWrap">
+						<div class="h4_basic txtSub05"><table>
+							<tr>
+								<td>
+									<img src="img/h4_title05.gif" alt="えんそく"/>
+								</td><td>
+									<span>下の二つの絵をくらべてみよう。ちがっているところが3つあるよ。</span>
+								</td>
+							</tr>
+						</table></div>
+						<div class="slide_basic slide05">
+							<ul>
+								<li><img src="img/pic_slide5_01.gif" alt=""/></li>
+								<li><img src="img/pic_slide5_02.gif" alt=""/></li>
+								<li><img src="img/pic_slide5_03.gif" alt=""/></li>
+								<li><img src="img/pic_slide5_04.gif" alt=""/></li>
+								<li><img src="img/pic_slide5_05.gif" alt=""/></li>
+								<li><img src="img/pic_slide5_06.gif" alt=""/></li>
+								<li><img src="img/pic_slide5_07.gif" alt=""/></li>
+								<li><img src="img/pic_slide5_08.gif" alt=""/></li>
+								<li><img src="img/pic_slide5_09.gif" alt=""/></li>
+								<li><img src="img/pic_slide5_10.gif" alt=""/></li>								
+								<li><img src="img/pic_slide5_11.gif" alt=""/></li>
+								<li><img src="img/pic_slide5_12.gif" alt=""/></li>
+								<li><img src="img/pic_slide5_13.gif" alt=""/></li>
+							</ul>
+							<div class="btnControl">
+								<a class="prev" href="#"></a>
+								<a class="next" href="#"></a>
+							</div>
+						</div>
+              			<p class="hintBtn hint01"><a href="img/pic_answer05.jpg"></a></p>
+					</div>
+					<div class="slideWrap">
+						<div class="h4_basic txtSub06"><table>
+							<tr>
+								<td>
+									<img src="img/h4_title06.gif" alt="秋の行楽"/>
+								</td><td>
+									<span>下の二つの絵をくらべてみよう。ちがっているところが3つあるよ。</span>
+								</td>
+							</tr>
+						</table></div>
+						<div class="slide_basic slide06">
+							<ul>
+								<li><img src="img/pic_slide6_01.gif" alt=""/></li>
+								<li><img src="img/pic_slide6_02.gif" alt=""/></li>
+								<li><img src="img/pic_slide6_03.gif" alt=""/></li>
+								<li><img src="img/pic_slide6_04.gif" alt=""/></li>
+								<li><img src="img/pic_slide6_05.gif" alt=""/></li>
+								<li><img src="img/pic_slide6_06.gif" alt=""/></li>
+								<li><img src="img/pic_slide6_07.gif" alt=""/></li>
+								<li><img src="img/pic_slide6_08.gif" alt=""/></li>
+								<li><img src="img/pic_slide6_09.gif" alt=""/></li>
+								<li><img src="img/pic_slide6_10.gif" alt=""/></li>								
+								<li><img src="img/pic_slide6_11.gif" alt=""/></li>
+								<li><img src="img/pic_slide6_12.gif" alt=""/></li>
+								<li><img src="img/pic_slide6_13.gif" alt=""/></li>
+								<li><img src="img/pic_slide6_14.gif" alt=""/></li>
+								<li><img src="img/pic_slide6_15.gif" alt=""/></li>
+							</ul>
+							<div class="btnControl">
+								<a class="prev" href="#"></a>
+								<a class="next" href="#"></a>
+							</div>
+						</div>
+              			<p class="hintBtn hint02"><a href="img/pic_answer06.jpg"></a></p>
+					</div>
+					<div class="slideWrap">
+						<div class="h4_basic txtSub07"><table>
+							<tr>
+								<td>
+									<img src="img/h4_title07.gif" alt="クリスマス"/>
+								</td><td>
+									<span>下の二つの絵をくらべてみよう。ちがっているところが3つあるよ。</span>
+								</td>
+							</tr>
+						</table></div>
+						<div class="slide_basic slide07">
+							<ul>
+								<li><img src="img/pic_slide7_01.gif" alt=""/></li>
+								<li><img src="img/pic_slide7_02.gif" alt=""/></li>
+								<li><img src="img/pic_slide7_03.gif" alt=""/></li>
+								<li><img src="img/pic_slide7_04.gif" alt=""/></li>
+								<li><img src="img/pic_slide7_05.gif" alt=""/></li>
+								<li><img src="img/pic_slide7_06.gif" alt=""/></li>
+								<li><img src="img/pic_slide7_07.gif" alt=""/></li>
+								<li><img src="img/pic_slide7_08.gif" alt=""/></li>
+								<li><img src="img/pic_slide7_09.gif" alt=""/></li>
+								<li><img src="img/pic_slide7_10.gif" alt=""/></li>								
+								<li><img src="img/pic_slide7_11.gif" alt=""/></li>
+								<li><img src="img/pic_slide7_12.gif" alt=""/></li>
+								<li><img src="img/pic_slide7_13.gif" alt=""/></li>
+								<li><img src="img/pic_slide7_14.gif" alt=""/></li>
+								<li><img src="img/pic_slide7_15.gif" alt=""/></li>
+								<li><img src="img/pic_slide7_16.gif" alt=""/></li>
+								<li><img src="img/pic_slide7_17.gif" alt=""/></li>
+							</ul>
+							<div class="btnControl">
+								<a class="prev" href="#"></a>
+								<a class="next" href="#"></a>
+							</div>
+						</div>
+              			<p class="hintBtn hint01"><a href="img/pic_answer07.jpg"></a></p>
+					</div>
+					<h3 class="h3_basic txtTtl02"><img src="img/h3_title02.png" alt="元祖 たこやき亭（てい）のぬりえ"/></h3>		
+					<div class="boxWrap">
+							<p class="txtIntro01">元祖 たこやき亭のキャラクターに自分で色をぬってみよう。うまくぬれるかな？</p>
+							<ul>
+								<li class="clearfix">
+									<div class="exampleWrap01 flL">
+										<h4><img src="img/txt_example01.gif" class="wMax" alt="みほん"/></h4>
+										<p><img src="img/pic_example01.jpg" class="wMax" alt="たこやきのかずだけ、いろをぬってみよう"/></p>
+									<!-- /exampleWrap01 --></div>
+									<div class="outlineWrap01 flL">
+										<h4><img src="img/txt_outline01.gif" class="wMax" alt="ぬりえ"/></h4>
+										<p class="img"><img src="img/pic_outline01.jpg" class="wMax" alt="たこやきのかずだけ、いろをぬってみよう"/></p>
+										<p class="btn"><a href="data/nurie01.pdf" target="_blank"></a></p>
+									<!-- /outlineWrap01 --></div>
+								</li>
+								<li class="clearfix">
+									<div class="exampleWrap01 flL">
+										<h4><img src="img/txt_example01.gif" class="wMax" alt="みほん"/></h4>
+										<p><img src="img/pic_example02.jpg" class="wMax" alt="いろをぬって、せりふをつけて、おはなしをつくってみよう。"/></p>
+									<!-- /exampleWrap01 --></div>
+									<div class="outlineWrap01 flL">
+										<h4><img src="img/txt_outline01.gif" class="wMax" alt="ぬりえ"/></h4>
+										<p class="img"><img src="img/pic_outline02.jpg" class="wMax" alt="いろをぬって、せりふをつけて、おはなしをつくってみよう。"/></p>
+										<p class="btn"><a href="data/nurie01.pdf" target="_blank"></a></p>
+									<!-- /outlineWrap01 --></div>
+								</li>
+							</ul>
+							<p class="notice01">※クレヨンなど小さなお子様が誤って飲み込まないよう、保護者の方はお子様から目を離さないでください。</p>
+							<dl>
+								<dt><a href="http://get.adobe.com/jp/reader/" target="_blank"><img src="img/pic_adobe01.gif" alt="Get Adobe Reader"/></a></dt>
+								<dd>ぬりえはPDFファイルをダウンロードし、プリントアウトしてお使いください。<br>
+								PDFファイルのダウンロードには、Adobe Acrobat Readerが必要です。<a href="http://get.adobe.com/jp/reader/" target="_blank">こちら</a>からダウンロードできます。</dd>
+							</dl>
+					</div>	
+					<p class="btnTop01"><a href="/ourbrands/takoyakitei/"></a></p>
+              	</div>
+            </div>
+          </section>
+        </article>
+        <p class="pageTop"><a href="#">PageTop</a></p>
+      </div>
+      <!--#include virtual="/inc/g-footer.html" -->
+    </div>
+    <script src="/shared/js/jquery.min.js"></script>
+    <script src="/shared/js/script.min.js"></script>
+    <script src="/shared/js/jquery.colorbox.js"></script>
+    <script src="/shared/js/common.js"></script>
+    <script type="text/javascript">
+		$('.hintBtn a').colorbox({ maxWidth: "100%" });
+		$('.slide_basic ul').each(function() {
+			if($(window).width()<481){
+			var list = $(this).children('li').length+1;
+			var slide_width = 100;				
+			var l_margin = ((($(this).width()/2)-(slide_width*list)/2));
+			$(this).css('margin-left',l_margin);
+		}
+		});
+		$('.slide_basic a.prev').each(function() {
+			$(this).bind("click keypress",function(e){
+				e.preventDefault();
+				var step = $(this).parents('.slide_basic').children('ul').children('li').width();
+				if($(window).width()<481){
+					step = 100;
+				}
+				var old_margin = parseInt($(this).parents('.slide_basic').children('ul').css('margin-left'));
+				var new_margin = old_margin+step;				
+				if(old_margin>=(-Math.abs(step))){
+					new_margin = 0;
+				}
+				$(this).parents('.slide_basic').children('ul').animate({marginLeft: new_margin}, 500);
+			});
+		});
+		$('.slide_basic a.next').each(function() {
+			$(this).bind("click keypress",function(e){
+				e.preventDefault();
+				var step = $(this).parents('.slide_basic').children('ul').children('li:first-child').width();
+				if($(window).width()<481){
+					step = 100;
+				}
+				var old_margin = parseInt($(this).parents('.slide_basic').children('ul').css('margin-left'));
+				var new_margin = old_margin-step;	
+				var slide_width = ((($(this).parents('.slide_basic').children('ul').children('li').length)*step)-$(this).parents('.slide_basic').width());
+				if((Math.abs(old_margin-step))>=slide_width){
+					new_margin = -Math.abs(slide_width);
+				}
+				$(this).parents('.slide_basic').children('ul').animate({marginLeft: new_margin}, 500);
+			});
+		});
+    </script>
+  </body>
+</html>

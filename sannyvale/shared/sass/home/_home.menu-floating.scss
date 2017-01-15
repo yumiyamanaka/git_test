@@ -1,0 +1,101 @@
+.home-menu-floating {
+  $prefix: home-menu-floating;
+  position: fixed;
+  display: none;
+  z-index: 4;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+  .#{$prefix}_inner {
+    margin-left: 200px;
+    background: #000;
+    height: 50px;
+  }
+  ul {
+    @include clearfix();
+    margin: 0 auto;
+    width: 480px;
+  }
+  li {
+    float: left;
+  }
+  span {
+    overflow: hidden;
+    display: block;
+    margin: 0 auto;
+    height: 50px;
+    background: url(/shared/img/menu/home_menu.png) no-repeat 0 0;
+    text-indent: -9999px;
+    cursor: pointer;
+  }
+  li {
+    &.home-menu-floating_mike span    { width: 152px; background-position: 0 0; }
+    &.home-menu-floating_doritos span { width: 96px;  background-position: -152px 0; }
+    &.home-menu-floating_cheetos span { width: 92px;  background-position: -248px 0; }
+    &.home-menu-floating_all span     { width: 140px; background-position: -340px 0; }
+  }
+
+  &.is-visible {
+    display: block;
+  }
+
+  @include applyDeviceWidth1280 {
+    top: 60px;
+    .#{$prefix}_inner {
+      margin-left: 0;
+    }
+  }
+
+  @include applyDeviceWidth480 {
+    top: 40px;
+    .#{$prefix}_inner {
+      height: 40px;
+    }
+    ul {
+      width: 320px;
+    }
+    span {
+      height: 40px;
+      -webkit-background-size: 320px auto;
+      background-size: 320px auto;
+    }
+    li {
+      &.home-menu-floating_mike span    { width: 105px; background-position: 0 -50px; }
+      &.home-menu-floating_doritos span { width: 61px;  background-position: -105px -50px; }
+      &.home-menu-floating_cheetos span { width: 58px;  background-position: -166px -50px; }
+      &.home-menu-floating_all span     { width: 96px; background-position: -224px -50px; }
+    }
+  }
+}
+
+.home-menu {
+  $prefix: home-menu-floating;
+
+  &.is-mike {
+    .home-menu-floating .home-menu-floating_mike span { background-position: 0 -50px; }
+  }
+  &.is-doritos {
+    .home-menu-floating .home-menu-floating_doritos span { background-position: -152px -50px; }
+  }
+  &.is-cheetos {
+    .home-menu-floating .home-menu-floating_cheetos span { background-position: -248px -50px; }
+  }
+  &.is-all {
+    .home-menu-floating .home-menu-floating_all span { background-position: -340px -50px; }
+  }
+  @include applyDeviceWidth480 {
+    &.is-mike {
+      .home-menu-floating .home-menu-floating_mike span { background-position: 0 -90px; }
+    }
+    &.is-doritos {
+      .home-menu-floating .home-menu-floating_doritos span { background-position: -105px -90px; }
+    }
+    &.is-cheetos {
+      .home-menu-floating .home-menu-floating_cheetos span { background-position: -166px -90px; }
+    }
+    &.is-all {
+      .home-menu-floating .home-menu-floating_all span { background-position: -224px -90px; }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+div{
+	color:#FFFFFF;
+}
+
+@media only screen and (max-width: 767px){
+	div{
+		background-color:#FF0000; 
+}
+}
+
+@media only screen and (min-width: 768px){
+	div{
+		background-color:#00FF00; 
+}
+}
+
+@media only screen and (min-width: 960px){
+	div{
+		background-color:#0000FF; 
+}
+}

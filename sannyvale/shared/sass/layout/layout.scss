@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+@import "../libs/require";
+@import "../libs/normalize";
+@import "layout.layout";
+@import "layout.g-header";
+@import "layout.g-footer";
+
+.breakpoints {
+  overflow: hidden;
+  height: 0;
+  span {
+    display: block;
+  }
+}
+
+// 共通
+.breakpoints {
+  @include applyDeviceWidth1280 {
+    .breakpoint-0 { display: none; }
+    .breakpoint-1 { display: block; }
+  }
+  @include applyDeviceWidth480 {
+    .breakpoint-0 { display: none; }
+    .breakpoint-1 { display: none; }
+  }
+}
+
+// TOPページ用
+body.page-home .breakpoints {
+  @include applyDeviceWidth1280 {
+    .breakpoint-0 { display: none; }
+    .breakpoint-1 { display: block; }
+    .breakpoint-2 { display: block; }
+  }
+  @include applyDeviceWidth1100 {
+    .breakpoint-0 { display: none; }
+    .breakpoint-1 { display: none; }
+    .breakpoint-2 { display: block; }
+  }
+  @include applyDeviceWidth480 {
+    .breakpoint-0 { display: none; }
+    .breakpoint-1 { display: none; }
+    .breakpoint-2 { display: none; }
+  }
+}
+
+// ブランドページ用、縦ナビゲーションなし
+body.page-ourbrands .breakpoints {
+  @include applyDeviceWidth1280 {
+    .breakpoint-0 { display: block; }
+    .breakpoint-1 { display: block; }
+  }
+  @include applyDeviceWidth480 {
+    .breakpoint-0 { display: none; }
+    .breakpoint-1 { display: block; }
+  }
+}

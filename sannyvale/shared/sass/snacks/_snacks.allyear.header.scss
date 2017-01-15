@@ -1,0 +1,156 @@
+.allyear-section-header {
+  position: relative;
+  padding: 60px 0;
+
+  @mixin half($w, $h, $src) {
+    margin-top: 0;
+    margin-left: -$w/4;
+    width: $w/2;
+    height: $h/2;
+    background: url($src);
+    -webkit-background-size: $w/2 $h/2;
+    background-size: $w/2 $h/2;
+  }
+
+  h2 {
+    height: 6px;
+    background-color: #e5e5e5;
+
+    span {
+      display: block;
+      overflow: hidden;
+      position: absolute;
+      top: 0;
+      left: 50%;
+    }
+  }
+
+  .allyear-mike & h2 span {
+    margin-top: 13px;
+    margin-left: -90px;
+  }
+
+  .allyear-doritos & h2 span {
+    margin-top: 2px;
+    margin-left: -85px;
+  }
+
+  .allyear-cheetos & h2 span {
+      margin-top: 15px;
+      margin-left: -89px;
+  }
+
+  .allyear-takoyaki & h2 span {
+      margin-top: 23px;
+      margin-left: -95px;
+  }
+
+  .allyear-tortilla & h2 span {
+      margin-top: 30px;
+      margin-left: -95px;
+  }
+
+  .allyear-gizakkuru & h2 span {
+      margin-top: 11px;
+      margin-left: -84px;
+  }
+
+  @include applyDeviceWidth480 {
+    padding: 0 0;
+    text-align: center;
+
+    h2 {
+      background-color: transparent;
+      &:before {
+        display: block;
+        content: "";
+        background-color: #e5e5e5;
+        height: 4px;
+      }
+      img {
+        display: none;
+      }
+    }
+
+    .allyear-mike & h2 {
+      padding: 31px 0;
+      span {
+        @include half(226px, 132px, "../../../products/img/allyear_logo01_sp.jpg");
+      }
+    }
+
+    .allyear-doritos & h2 {
+      padding: 41px 0;
+      span {
+        @include half(216px, 170px, "../../../products/img/allyear_logo02_sp.jpg");
+      }
+    }
+
+    .allyear-cheetos & h2 {
+      padding: 29px 0;
+      span {
+        @include half(226px, 124px, "../../../products/img/allyear_logo03_sp.jpg");
+      }
+    }
+
+    .allyear-takoyaki & h2 {
+      padding: 30px 0;
+      span {
+        @include half(248px, 128px, "../../../products/img/allyear_logo04_sp.jpg");
+      }
+    }
+
+    .allyear-tortilla & h2 {
+      padding: 23px 0;
+      span {
+        @include half(250px, 100px, "../../../products/img/allyear_logo05_sp.jpg");
+      }
+    }
+
+    .allyear-gizakkuru & h2 {
+      padding: 31px 0;
+      span {
+        @include half(206px, 132px, "../../../products/img/allyear_logo06_sp.png");
+      }
+    }
+  }
+}
+
+.allyear-section-header {
+  a {
+    position: absolute;
+    right: 0;
+    top: 76px;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.2;
+    text-decoration: none;
+    padding-left: 16px;
+    color: #000;
+
+    &:before {
+      position: absolute;
+      display: block;
+      content: "";
+      left: 0;
+      top: 0;
+      width: 14px;
+      height: 14px;
+      background: url(../../../products/img/arrow.png);
+    }
+  }
+
+  @include applyDeviceWidth480 {
+    a {
+      display: inline-block;
+      position: relative;
+      right: inherit;
+      top: inherit;
+      margin-top: 10px;
+      font-size: 12px;
+      br {
+        display: none;
+      }
+    }
+  }
+}

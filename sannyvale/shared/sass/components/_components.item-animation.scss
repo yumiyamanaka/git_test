@@ -1,0 +1,50 @@
+@mixin frames {
+  $deg: 2deg;
+
+  0%   { transform: rotate(0deg); }
+  1%   { transform: rotate($deg); }
+  2%   { transform: rotate(0deg); }
+  3%   { transform: rotate(-$deg); }
+  4%   { transform: rotate(0deg); }
+  5%   { transform: rotate($deg); }
+  6%   { transform: rotate(0deg); }
+  7%   { transform: rotate(-$deg); }
+  8%   { transform: rotate(0deg); }
+  100% { transform: rotate(0deg); }
+}
+
+.snacks-related_items,
+.snacks-newsnack-items,
+.home-menu-items {
+  .is-including,
+  .run-animate {
+    $duration: 4s;
+    $repeat: infinite;
+
+    -webkit-animation: animationFrames linear $duration;
+    -webkit-animation-iteration-count: $repeat;
+    -webkit-transform-origin: 50% 100%;
+
+    -moz-animation: animationFrames linear $duration;
+    -moz-animation-iteration-count: $repeat;
+    -moz-transform-origin: 50% 100%;
+
+    -ms-animation: animationFrames linear $duration;
+    -ms-animation-iteration-count: $repeat;
+    -ms-transform-origin: 50% 100%;
+
+    -o-animation: animationFrames linear $duration;
+    -o-animation-iteration-count: $repeat;
+    -o-transform-origin: 50% 100%;
+
+    animation: animationFrames linear $duration;
+    animation-iteration-count: $repeat;
+    transform-origin: 50% 100%;
+  }
+}
+
+@-webkit-keyframes animationFrames { @include frames; }
+@-moz-keyframes animationFrames{ @include frames; }
+@-ms-keyframes animationFrames { @include frames; }
+@-o-keyframes animationFrames { @include frames; }
+@keyframes animationFrames{ @include frames; }

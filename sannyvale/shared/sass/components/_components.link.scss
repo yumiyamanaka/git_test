@@ -1,0 +1,107 @@
+.snacks-brand-link {
+  position: relative;
+  display: block;
+  box-sizing: border-box;
+  font-weight: bold;
+  font-size: 14px;
+  color: #333333;
+  text-decoration: none;
+  line-height: 48px;
+
+  i {
+    display: block;
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    content: "";
+    margin-top: -7px;
+    width: 9px;
+    height: 14px;
+    background: url(/shared/img/arrow/black_01.png);
+  }
+
+  &.is-brand-mike,
+  &.is-brand-doritos,
+  &.is-brand-cheetos,
+  &.is-brand-takoyakitei {
+    padding-left: 64px;
+    background-image: url(/shared/img/icon/brands_03.png);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+  }
+
+  &.is-brand-mike {
+    background-position: 0 0;
+    background-color: #c2deeb;
+    &:hover,
+    &:focus {
+      background-color: #008cd6;
+    }
+  }
+  &.is-brand-doritos {
+    background-position: 0 -100px;
+    background-color: #f4cccc;
+    &:hover,
+    &:focus {
+      background-color: #c40e0e;
+    }
+  }
+  &.is-brand-cheetos {
+    background-position: 0 -200px;
+    background-color: #ffb044;
+    &:hover,
+    &:focus {
+      background-color: #fe9300;
+    }
+  }
+  &.is-brand-takoyakitei {
+    background-position: 0 -300px;
+    background-color: #cbe5d2;
+    &:hover,
+    &:focus {
+      background-color: #199b3c;
+    }
+  }
+
+  &:hover,
+  &:focus {
+    color: #ffffff;
+    i {
+      background-position: 0 -14px;
+    }
+  }
+
+  @include applyDeviceWidth480 {
+    font-size: 12px;
+
+    div {
+      min-height: 40px;
+      line-height: 40px;
+    }
+
+    &.is-brand-mike,
+    &.is-brand-doritos,
+    &.is-brand-cheetos,
+    &.is-brand-takoyakitei {
+      background-image: url(/shared/img/icon/brands_03_sp.png);
+      -webkit-background-size: 60px auto;
+      background-size: 60px auto;
+      height: 40px;
+      line-height: 40px;
+    }
+
+    &.is-brand-mike {
+      background-position: 0 0;
+    }
+    &.is-brand-doritos {
+      background-position: 0 -60px;
+    }
+    &.is-brand-cheetos {
+      background-position: 0 -120px;
+    }
+    &.is-brand-takoyakitei {
+      background-position: 0 -180px;
+    }
+  }
+}
+

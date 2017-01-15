@@ -1,0 +1,142 @@
+@import "snacks.allyear.header";
+@import "snacks.allyear.item";
+
+.allyear-items {
+
+  .allyear-items_inner {
+    @include clearfix();
+    text-align: center;
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  .allyear-item {
+    margin-top: 20px;
+    margin-left: 16px;
+    width: 280px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    &.is-triplet {
+      margin-left: 0;
+    }
+  }
+
+  @include applyDeviceWidth480 {
+    .allyear-item {
+      margin-left: 0;
+      width: 49%;
+    }
+  }
+}
+
+.allyear-mike {
+  margin-top: 15px;
+  @include applyDeviceWidth480 {
+    margin-top: 5px;
+  }
+}
+
+.allyear-doritos {
+  margin-top: 40px;
+}
+
+.allyear-cheetos {
+  margin-top: 20px;
+}
+
+.allyear-takoyaki {
+  float: left;
+  margin-top: 20px;
+  width: 420px;
+  @include applyDeviceWidth480 {
+    float: none;
+    width: auto;
+  }
+}
+
+.allyear-tortilla {
+  float: right;
+  margin-top: 20px;
+  width: 420px;
+  @include applyDeviceWidth480 {
+    float: none;
+    width: auto;
+  }
+}
+
+.allyear-gizakkuru {
+  clear: both;
+  padding-top: 25px;
+}
+
+.allyear-banner {
+  margin-top: 50px;
+
+  &:before {
+    display: block;
+    content: "";
+    height: 6px;
+    background-color: #e5e5e5;
+  }
+
+  .banner_pc {
+    position: relative;
+    width: 100%;
+    height: 194px;
+    padding-top: 40px;
+    background: url(../../../products/img/bnr_allyear01.jpg) left bottom no-repeat;
+
+    a {
+      position: absolute;
+      overflow: hidden;
+      display: block;
+      margin-top: 4px;
+      width: 90px;
+      height: 22px;
+      left: 50%;
+      bottom: 35px;
+      margin-left: -45px;
+      background: url(/shared/img/button/more_01.png) no-repeat 0 0;
+      text-indent: -9999px;
+
+      &:focus,
+      &:hover {
+        background-position: 0 -22px;
+      }
+    }
+  }
+
+  .banner_sp {
+    display: none;
+  }
+
+  @include applyDeviceWidth480 {
+    margin-top: 30px;
+
+    &:before {
+      height: 3px;
+    }
+
+    .banner_pc {
+      display: none;
+    }
+
+    .banner_sp {
+      display: block;
+      width: 100%;
+      padding-top: 20px;
+
+      a {
+        display: block;
+        width: 100%;
+
+        img {
+          width: 100%;
+        }
+      }
+    }
+  }
+}
+

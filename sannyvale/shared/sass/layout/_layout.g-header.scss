@@ -1,0 +1,25 @@
+/**
+ * g-header
+ */
+.g-header {
+  .g-header_logo {
+    span {
+      overflow: hidden;
+      text-indent: -9999px;
+    }
+  }
+  a {
+    outline: 0;
+  }
+}
+
+@mixin g-header-box-shadow {
+  -webkit-box-shadow: 0 0 4px #999;
+  -moz-box-shadow:  0 0 4px #999;
+  box-shadow:  0 0 4px #999;
+}
+
+@import "layout.g-header.def";
+@import "layout.g-header.mid";
+@import "layout.g-header.mid2small";
+@import "layout.g-header.small";

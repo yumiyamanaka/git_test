@@ -1,0 +1,38 @@
+.g-outer {
+  .g-header {
+    z-index: 3;
+  }
+
+  .g-layout {
+    position: relative;
+    z-index: 0;
+  }
+
+  .g-footer {
+    z-index: 2;
+  }
+
+  &.is-rwd-def {
+    position: relative;
+    overflow: hidden;
+    padding-left: 200px;
+    zoom: 1;
+  }
+
+  &.is-rwd-mid {
+    position: relative;
+    min-width: 1024px;
+    padding-top: 60px;
+  }
+
+  &.is-rwd-mid2small {
+    position: relative;
+    padding-top: 60px;
+  }
+
+  &.is-rwd-small {
+    position: relative;
+    padding-top: 40px;
+  }
+}
+

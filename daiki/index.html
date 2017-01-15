@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>大樹建設</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="index.js"></script>
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="js/jquery.bxslider.min.js"></script>
+<link href="jquery.bxslider.css" rel="stylesheet" />
+<script type="text/javascript">
+        $(document).ready(function(){
+            $('.bxslider').bxSlider({
+                auto: true,
+				pause: 5000,
+				speed: 2000,
+            });
+        });
+</script>
+</head>
+<body>
+<div id="header">
+  <div id="headerInner">
+   <div id="navi">
+  　<h1 id="logo">
+     <a href="index.html"><img src="images/logo_footer1.png" alt="大樹建設株式会社" /> </a>
+    </h1>
+  	<h1 id="design">
+    大樹建設｜横浜、川崎エリアを中心にデザイン住宅を多数手がけております。<br>光を感じ、風を感じ、居心地の良さを追求します。
+    </h1>
+   <div id="fixedBox">
+     <img src="images/inquiry.png" width="200" height="50" alt="お問い合わせ" />
+   </div>   
+  </div>
+  </div>
+   <div id="g-nabi">
+    <ul>
+  	 <li><a href="works.html">施工実績</a></li>
+     <li><a href="sale.html">販売物件</a></li>
+     <li><a href="http://www.drapery-yokohama.com/">インテリア</a></li>
+     <li><a href="company.html">会社概要</a></li>
+     <li><a href="access.html">アクセス</a></li>
+    </ul>
+   </div>
+  </div>
+ <div id="contents">
+ <div class="bx-wrapper">
+   <ul class="bxslider">
+    <li><img src="images/mainphoto3.jpg" width="969" height="356" alt="家族が笑顔になる家に" /></li>
+    <li><img src="images/mainphoto2.jpg" width="969" height="356" alt="家族が笑顔になる家に" /></li>
+    <li><img src="images/mainphoto1.jpg" width="969" height="356" alt="家族が笑顔になる家に" /></li>
+   </ul>
+ </div>
+  <div id="maincontents">
+  	<div id="mainInner">
+   	  <div id="mainMission">
+      <img src="images/mission.gif" width="427" height="233" alt="大樹建設は住宅プロデュース会社です。" />
+      </div>
+      <div id="mainNews">
+      	<h2>
+	    <img src="images/topics.gif" width="425" height="26" alt="お知らせ" />
+        </h2>
+        <table width="420" border="0" cellspacing="0" cellpadding="0">
+ 		 <tr>
+            <th>2014.4.10</th>
+            <td>川崎市高津区梶ヶ谷４棟　値下げしました。</td>
+         </tr>
+         <tr>
+            <th>2014.3.18</th>
+            <td>横浜市南区</td>
+         </tr>
+         <tr>
+            <th>2014.2.20</th>
+            <td>横浜市港南区</td>
+         </tr>
+         <tr>
+            <th>2014.1.10</th>
+            <td>川崎市麻生区</td>
+  		 </tr>
+		</table>
+     </div>
+     </div>
+  <div id="tab_area">
+  	<div id="tab_index">
+     <li id="latest" onclick="Contents_Change(1)">最新実績</li>
+     <li id="reco" onclick="Contents_Change(2)">おすすめ物件</li>
+     <li id="interi" onclick="Contents_Change(3)">インテリア</li>
+    </div>
+    <div id="tab_main">
+    　<div id="latest_work" style="display: block;">
+       <li><a href="work_modern.html"><img src="images/new_hayama.gif" width="475" height="185" alt="葉山" /></a>
+       </li>
+       <li><a href="work_modern.html"><img src="images/new_kounan.gif" width="475" height="188" alt="港南区" /></a>
+       </li>
+      </div>
+      <div id="recommended" style="display: none;">
+      <li><a href="sale_kajigaya.html"><img src="images/sale_kajigaya.gif" width="213" height="436" alt="梶ヶ谷" /></a>
+      </li>
+      <li><a href="sale_kajigaya.html"><img src="images/sale_zusi.gif" width="213" height="436" alt="逗子" /></a>
+      </li>
+      </div>
+      <div id="interior" style="display: none;">
+      <a href="http://www.drapery-yokohama.com/"><img src="images/interior.gif"width="456" height="422" alt="インテリア" /></a>
+      </div>
+    </div>
+    
+  </div>	
+  </div>
+</div>
+<div id="footer">
+	<div id="footerInner">
+    	<h1>
+        <a href="index.html"><img src="images/logo_footer1.png" width="224" height="39" alt="大樹建設株式会社" /></a>
+        </h1>
+       	<h2>
+        〒232-0012　神奈川県横浜市南区吉田町二丁目28番地1<br>
+        TEL:045-264-3364/FAX:045-264-3365
+        </h2>
+        <p>
+         <a href="#header"><img src="images/top.png" width="100" height="30"></a>
+        </p>
+    </div>
+</div>
+</body>
+</html>

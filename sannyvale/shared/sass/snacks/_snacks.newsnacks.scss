@@ -1,0 +1,87 @@
+.snacks-newsnack-items {
+  @include clearfix();
+
+  .snacks-item {
+    float: left;
+    width: 176px;
+  }
+
+  @include applyDeviceWidth480 {
+    .snacks-item {
+      width: 48.5%;
+      &:nth-child(2n) {
+        float: right;
+      }
+    }
+  }
+}
+
+.snacks-newsnack-more {
+  margin-top: 57px;
+
+  a {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 70px;
+    background-color: #f2f1de;
+
+    &:focus,
+    &:hover {
+      background-color: #d5d3b2;
+    }
+  }
+
+  i {
+    position: absolute;
+    display: block;
+    left: 510px;
+    top: 50%;
+    margin-top: -6px;
+    width: 19px;
+    height: 12px;
+    background: url(../../../products/img/top08.png);
+  }
+
+  span {
+    overflow: hidden;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -45px;
+    margin-top: -8px;
+    width: 91px;
+    height: 17px;
+    background: url(../../../products/img/top07.png);
+    text-indent: -9999px;
+  }
+
+  @include applyDeviceWidth480 {
+    margin-top: 0;
+
+    a {
+      height: 45px;
+    }
+
+    i {
+      left: inherit;
+      right: 10px;
+      margin-top: -5px;
+      width: 17px;
+      height: 11px;
+      background: url(../../../products/img/sp06.png);
+      -webkit-background-size: 17px 11px;
+      background-size: 17px 11px;
+    }
+
+    span {
+      margin-left: -30px;
+      margin-top: -5px;
+      width: 61px;
+      height: 11px;
+      background: url(../../../products/img/sp05.png);
+      -webkit-background-size: 61px 11px;
+      background-size: 61px 11px;
+    }
+  }
+}

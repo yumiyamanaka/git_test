@@ -1,0 +1,38 @@
+%ext_font {
+  font-family:
+  "ヒラギノ角ゴPro W3", "Hiragino Kaku Gothic Pro", "Hiragino Kaku Gothic Pro W3",
+  "メイリオ", Meiryo,
+  "ＭＳ ゴシック", "MS Gothic",
+  Osaka,
+  Verdana, Arial, Helvetica,
+  sans-serif;
+}
+
+%ext_font_mono {
+  font-family:
+  Courier, "Courier New",
+  "メイリオ", Meiryo,
+  "ヒラギノ角ゴPro W3", "Hiragino Kaku Gothic Pro", "Hiragino Kaku Gothic Pro W3",
+  "ＭＳ ゴシック", "MS Gothic",
+  monospace;
+}
+
+%ext_textcolor {
+  color: blue;
+}
+
+%ext_linkcolor {
+  color: red;
+}
+
+%ext_fontsize_8px  { font-size: 66.6%; }
+%ext_fontsize_9px  { font-size: 75%; }
+%ext_fontsize_10px { font-size: 83%; }
+%ext_fontsize_11px { font-size: 91.6%; }
+%ext_fontsize_12px { font-size: 100%; }
+%ext_fontsize_13px { font-size: 108.3%; }
+%ext_fontsize_14px { font-size: 116.6%; }
+%ext_fontsize_15px { font-size: 125%; }
+%ext_fontsize_16px { font-size: 133.3%; }
+%ext_fontsize_18px { font-size: 150%; }
+

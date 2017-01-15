@@ -1,0 +1,20 @@
+  function Contents_Change(x){
+    if(x==1){
+      document.getElementById("tab_main").style.backgroundcolor="FF9";
+      document.getElementById("latest_work").style.display="block";
+      document.getElementById("recommended").style.display="none";
+      document.getElementById("interior").style.display="none";
+    }
+    if(x==2){
+      document.getElementById("tab_main").style.backgroundcolor="0000FF";
+      document.getElementById("latest_work").style.display="none";
+      document.getElementById("recommended").style.display="block";
+      document.getElementById("interior").style.display="none";
+    }
+    if(x==3){
+      document.getElementById("tab_main").style.backgroundcolor="FF0000";
+      document.getElementById("latest_work").style.display="none";
+      document.getElementById("recommended").style.display="none";
+      document.getElementById("interior").style.display="block";
+    }
+  }

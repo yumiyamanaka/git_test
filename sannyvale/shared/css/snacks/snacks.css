@@ -1,0 +1,271 @@
+@charset "UTF-8";
+/* Extend */
+.snacks-main_inner, .snacks-sub { margin: 0 auto; width: 960px; }
+
+.snacks-main_inner, .snacks-main_inner .snacks-main_inner-second, .snacks-main_detail .snacks-main_detail-list, .snacks-sub_inner-first, .snacks-sub_inner-second, .snacks-sub_inner-third, .snacks-related .snacks-related_items { *zoom: 1; }
+.snacks-main_inner:after, .snacks-main_inner .snacks-main_inner-second:after, .snacks-main_detail .snacks-main_detail-list:after, .snacks-sub_inner-first:after, .snacks-sub_inner-second:after, .snacks-sub_inner-third:after, .snacks-related .snacks-related_items:after { content: ""; display: table; clear: both; }
+
+.is-snacks-detail .page-header .page-header_inner { text-align: center; }
+.is-snacks-detail .page-header .breadcrumb { text-align: left; }
+.is-snacks-detail .page-header .page-header_title { display: inline-block; padding: 10px 0; }
+.is-snacks-detail .page-header .page-header_title h1 { display: inline; text-indent: 0; }
+.is-snacks-detail .page-header .page-header_title.is-brand-mike, .is-snacks-detail .page-header .page-header_title.is-brand-doritos, .is-snacks-detail .page-header .page-header_title.is-brand-cheetos, .is-snacks-detail .page-header .page-header_title.is-brand-takoyakitei { padding: 10px 0 10px 116px; text-align: left; }
+.is-snacks-detail .page-header .page-header_title.is-brand-mike i, .is-snacks-detail .page-header .page-header_title.is-brand-doritos i, .is-snacks-detail .page-header .page-header_title.is-brand-cheetos i, .is-snacks-detail .page-header .page-header_title.is-brand-takoyakitei i { position: relative; float: left; display: block; margin-top: -10px; margin-left: -110px; background: url(/shared/img/icon/brands_02.png); vertical-align: bottom; }
+.is-snacks-detail .page-header .page-header_title.is-brand-mike i { width: 99px; height: 62px; background-position: 0 0; }
+.is-snacks-detail .page-header .page-header_title.is-brand-doritos i { width: 106px; height: 89px; background-position: 0 -100px; }
+.is-snacks-detail .page-header .page-header_title.is-brand-cheetos i { width: 105px; height: 75px; background-position: 0 -200px; }
+.is-snacks-detail .page-header .page-header_title.is-brand-takoyakitei i { width: 112px; height: 58px; background-position: 0 -300px; }
+@media screen and (max-width: 480px) { .is-snacks-detail .breadcrumb { margin-left: 10px; margin-bottom: 0; }
+  .is-snacks-detail .page-header .page-header_title.is-brand-mike, .is-snacks-detail .page-header .page-header_title.is-brand-doritos, .is-snacks-detail .page-header .page-header_title.is-brand-cheetos, .is-snacks-detail .page-header .page-header_title.is-brand-takoyakitei { margin-left: 62px; margin-right: 20px; padding: 0; }
+  .is-snacks-detail .page-header .page-header_title.is-brand-mike h1, .is-snacks-detail .page-header .page-header_title.is-brand-doritos h1, .is-snacks-detail .page-header .page-header_title.is-brand-cheetos h1, .is-snacks-detail .page-header .page-header_title.is-brand-takoyakitei h1 { letter-spacing: 0; }
+  .is-snacks-detail .page-header .page-header_title.is-brand-mike i, .is-snacks-detail .page-header .page-header_title.is-brand-doritos i, .is-snacks-detail .page-header .page-header_title.is-brand-cheetos i, .is-snacks-detail .page-header .page-header_title.is-brand-takoyakitei i { margin-top: 0; margin-left: -62px; width: 59px; height: 40px; background: url(/shared/img/icon/brands_02_sp.png) no-repeat 0 0; -webkit-background-size: 65px auto; background-size: 65px auto; }
+  .is-snacks-detail .page-header .page-header_title.is-brand-mike i { width: 57px; height: 38px; background-position: 0 0; }
+  .is-snacks-detail .page-header .page-header_title.is-brand-doritos i { width: 53px; height: 44px; background-position: 0 -60px; }
+  .is-snacks-detail .page-header .page-header_title.is-brand-cheetos i { width: 49px; height: 40px; background-position: 0 -120px; }
+  .is-snacks-detail .page-header .page-header_title.is-brand-takoyakitei i { width: 58px; height: 31px; background-position: 0 -180px; } }
+
+.is-snacks-index .page-header, .is-snacks-allyear .page-header { margin-bottom: 0; }
+.is-snacks-index .page-header:after, .is-snacks-allyear .page-header:after { display: none; }
+.is-snacks-index .page-header .page-header_inner, .is-snacks-allyear .page-header .page-header_inner { padding-bottom: 30px; }
+.is-snacks-index .page-header .page-header_title, .is-snacks-allyear .page-header .page-header_title { margin-left: 0; }
+.is-snacks-index .page-header .page-header_title h1, .is-snacks-allyear .page-header .page-header_title h1 { overflow: hidden; margin: 0 auto; padding: 0; width: 154px; height: 54px; text-indent: -9999px; background: url(../../../products/img/top05.png); }
+.is-snacks-index .page-main, .is-snacks-allyear .page-main { background: url(/shared/img/layout/texture_all.png); }
+.is-snacks-index .page-main .page-main_inner, .is-snacks-allyear .page-main .page-main_inner { margin-left: auto; margin-right: auto; max-width: 960px; }
+@media screen and (max-width: 480px) { .is-snacks-index .breadcrumb,  .is-snacks-allyear .breadcrumb { margin-left: 10px; margin-bottom: 0; }
+  .is-snacks-index .page-header .page-header_inner, .is-snacks-allyear .page-header .page-header_inner { padding-bottom: 20px; }
+  .is-snacks-index .page-header .page-header_title h1, .is-snacks-allyear .page-header .page-header_title h1 { width: 124px; height: 42px; background: url(/products/img/sp01.png); -webkit-background-size: 124px 42px; background-size: 124px 42px; }
+  .is-snacks-index .page-main .page-main_inner, .is-snacks-allyear .page-main .page-main_inner { margin-left: 10px; margin-right: 10px; max-width: inherit; } }
+
+.snacks-main_inner { padding-top: 35px; }
+.snacks-main_inner .snacks-main_inner-first { float: left; margin-right: -380px; width: 380px; }
+.snacks-main_inner .snacks-main_inner-second { padding-left: 410px; }
+@media screen and (max-width: 480px) { .snacks-main_inner { padding: 30px 10px 0; width: auto; }
+  .snacks-main_inner .snacks-main_inner-first { float: none; margin-right: 0; width: auto; }
+  .snacks-main_inner .snacks-main_inner-second { padding-left: 0; } }
+
+@media screen and (max-width: 480px) { .snacks-main_picture { margin: 0 54px; }
+  .snacks-main_picture img { width: 100%; height: auto; } }
+
+.snacks-main_entry { line-height: 1.75; }
+.snacks-main_entry p { font-size: 16px; }
+.snacks-main_entry > p { padding-top: 10px; }
+.snacks-main_entry > figure { margin-top: 15px; text-align: center; }
+.snacks-main_entry figure.with-caption { display: inline-block; width: 306px; text-align: left; }
+.snacks-main_entry figure.with-caption figcaption { line-height: 1.5; font-size: 10px; color: #6c5d5a; }
+@media screen and (max-width: 480px) { .snacks-main_entry { line-height: 1.33; }
+  .snacks-main_entry img { width: 100%; height: auto; }
+  .snacks-main_entry p { font-size: 15px; }
+  .snacks-main_entry figure.with-caption { display: block; margin-right: 32px; margin-left: 32px; width: auto; }
+  .snacks-main_entry figure.with-caption figcaption { margin-top: 5px; font-size: 12px; } }
+
+.snacks-main_detail { overflow: hidden; margin-top: 25px; padding: 25px 30px; background-color: #f2f1de; }
+.snacks-main_detail .snacks-main_detail-list > ul { overflow: hidden; float: left; width: 48%; zoom: 1; }
+.snacks-main_detail .snacks-main_detail-list > ul > li { padding: 0 0 4px; font-weight: bold; line-height: 1.5; }
+.snacks-main_detail .snacks-main_detail-list dl { font-weight: normal; }
+.snacks-main_detail .snacks-main_detail-list dt { float: left; }
+.snacks-main_detail .snacks-main_detail-list dd { overflow: hidden; zoom: 1; }
+.snacks-main_detail .snacks-main_detail-notes { margin-top: 5px; font-size: 11px; line-height: 1.6; }
+.snacks-main_detail .snacks-main_detail-lastdate { overflow: hidden; display: inline-block; margin-left: 4px; width: 50px; height: 18px; background: url(/shared/img/icon/end_of_sales.png) no-repeat 0 0; text-indent: -9999px; vertical-align: bottom; }
+@media screen and (max-width: 480px) { .snacks-main_detail { padding: 14px 12px; }
+  .snacks-main_detail .snacks-main_detail-list > ul { float: none; width: auto; font-size: 10px; font-weight: normal; line-height: 1.6; }
+  .snacks-main_detail .snacks-main_detail-notes { font-size: 9px; line-height: 1.55; }
+  .snacks-main_detail .snacks-main_detail-lastdate { width: 43px; height: 13px; background-position: 0 -9px; -webkit-background-size: 43px auto; background-size: 43px auto; } }
+
+.snacks-main .snacks-brand-link { margin-top: 20px; }
+.snacks-main .snacks-brand-link.is-brand-mike, .snacks-main .snacks-brand-link.is-brand-doritos, .snacks-main .snacks-brand-link.is-brand-cheetos, .snacks-main .snacks-brand-link.is-brand-takoyakitei { width: 360px; }
+@media screen and (max-width: 480px) { .snacks-main .snacks-brand-link { margin-top: 15px; }
+  .snacks-main .snacks-brand-link.is-brand-mike, .snacks-main .snacks-brand-link.is-brand-doritos, .snacks-main .snacks-brand-link.is-brand-cheetos, .snacks-main .snacks-brand-link.is-brand-takoyakitei { width: auto; } }
+
+.snacks-sub { margin-top: 50px; margin-bottom: 36px; }
+.snacks-sub h3 { margin-bottom: 5px; line-height: 1.25; font-weight: normal; font-size: 12px; }
+.snacks-sub .snacks-sub_handle { padding-bottom: 10px; background: url(/shared/img/layout/line_01.png) repeat-x 0 bottom; }
+.snacks-sub .snacks-sub_handle h2 { display: none; }
+.snacks-sub .snacks-sub_handle a { display: block; position: relative; margin: 0 auto; width: 348px; height: 45px; border-radius: 6px 6px 0 0; background-color: #d9d3c2; }
+.snacks-sub .snacks-sub_handle a i { display: block; position: absolute; right: 20px; top: 50%; }
+.snacks-sub .snacks-sub_handle a span { overflow: hidden; display: block; position: absolute; left: 50%; top: 50%; text-indent: -9999px; }
+.snacks-sub.is-opened .snacks-sub_handle a i { margin-top: -6px; width: 19px; height: 12px; background: url(/shared/img/button/sub_close_arrow.png); }
+.snacks-sub.is-opened .snacks-sub_handle a span { margin-left: -75px; margin-top: -8px; width: 149px; height: 16px; background: url(/shared/img/button/sub_close.png) no-repeat 0 0; }
+.snacks-sub.is-closed .snacks-sub_handle a i { margin-top: -6px; width: 19px; height: 12px; background: url(/shared/img/button/sub_open_arrow.png); }
+.snacks-sub.is-closed .snacks-sub_handle a span { margin-left: -75px; margin-top: -8px; width: 149px; height: 16px; background: url(/shared/img/button/sub_open.png) no-repeat 0 0; }
+@media screen and (max-width: 480px) { .snacks-sub { margin: 15px 10px 25px; width: auto; }
+  .snacks-sub h3 { font-size: 10px; }
+  .snacks-sub .snacks-sub_handle { padding-bottom: 5px; -webkit-background-size: 21px 5px; background-size: 21px 5px; }
+  .snacks-sub .snacks-sub_handle a { margin: 0 20px; width: auto; height: 35px; }
+  .snacks-sub.is-opened .snacks-sub_handle a i { margin-top: -5px; width: 17px; height: 11px; background: url(/shared/img/button/sub_close_arrow_sp.png); -webkit-background-size: 17px 11px; background-size: 17px 11px; }
+  .snacks-sub.is-opened .snacks-sub_handle a span { margin-left: -56px; margin-top: -6px; width: 112px; height: 12px; background: url(/shared/img/button/sub_close_sp.png) no-repeat 0 0; -webkit-background-size: 112px 12px; background-size: 112px 12px; }
+  .snacks-sub.is-closed .snacks-sub_handle a i { margin-top: -5px; width: 17px; height: 11px; background: url(/shared/img/button/sub_open_arrow_sp.png); -webkit-background-size: 17px 11px; background-size: 17px 11px; }
+  .snacks-sub.is-closed .snacks-sub_handle a span { margin-left: -50px; margin-top: -6px; width: 100px; height: 12px; background: url(/shared/img/button/sub_open_sp.png) no-repeat 0 0; -webkit-background-size: 100px 12px; background-size: 100px 12px; } }
+
+.snacks-sub_inner-first { padding-top: 36px; }
+.snacks-sub_inner-first .snacks-sub_label { float: left; width: 460px; }
+.snacks-sub_inner-first .snacks-sub_label img { max-width: 100%; }
+.snacks-sub_inner-first .snacks-sub_chart1 { float: left; margin-left: 20px; width: 320px; }
+.snacks-sub_inner-first .snacks-sub_chart2 { float: left; margin-left: 10px; width: 150px; line-height: 1.5; }
+.snacks-sub_inner-first .snacks-sub_chart2 ul { box-sizing: border-box; border: 1px solid #cccccc; padding: 8px 6px; min-height: 98px; }
+@media screen and (max-width: 480px) { .snacks-sub_inner-first { padding-top: 18px; }
+  .snacks-sub_inner-first .snacks-sub_label, .snacks-sub_inner-first .snacks-sub_chart1, .snacks-sub_inner-first .snacks-sub_chart2 { float: none; width: auto; margin-left: 0; }
+  .snacks-sub_inner-first .snacks-sub_label img { max-width: 400px; width: 100%; height: auto; }
+  .snacks-sub_inner-first .snacks-sub_chart1, .snacks-sub_inner-first .snacks-sub_chart2 { margin-top: 10px; }
+  .snacks-sub_inner-first .snacks-sub_chart1 th, .snacks-sub_inner-first .snacks-sub_chart1 td, .snacks-sub_inner-first .snacks-sub_chart2 th, .snacks-sub_inner-first .snacks-sub_chart2 td { font-size: 10px; }
+  .snacks-sub_inner-first .snacks-sub_chart2 ul { padding: 6px; font-size: 10px; min-height: inherit; } }
+
+.snacks-sub_inner-second { margin-top: 15px; }
+@media screen and (max-width: 480px) { .snacks-sub_inner-second { margin-top: 10px; }
+  .snacks-sub_inner-second .snacks-sub_chart3 th, .snacks-sub_inner-second .snacks-sub_chart3 td { font-size: 10px; } }
+
+.snacks-sub_inner-third { margin-top: 28px; line-height: 1.6; font-size: 10px; }
+.snacks-sub_inner-third h3 { margin-bottom: 0; line-height: 1.6; font-size: 10px; }
+.snacks-sub_inner-third .snacks-sub_notes li { padding-left: 1em; }
+.snacks-sub_inner-third .snacks-sub_notes li:before { position: relative; margin-left: -1em; content: "・"; }
+.snacks-sub_inner-third .snacks-sub_notes p { margin-top: 1em; }
+@media screen and (max-width: 480px) { .snacks-sub_inner-third { margin-top: 10px; font-size: 9px; }
+  .snacks-sub_inner-third h3 { font-size: 9px; }
+  .snacks-sub_inner-third .snacks-sub_notes li { padding-left: 0; }
+  .snacks-sub_inner-third .snacks-sub_notes li:before { margin-left: 0; } }
+
+.snacks-related { margin-top: 10px; }
+.snacks-related .snacks-related_inner { margin: 0 auto; padding: 32px 0 45px; width: 960px; }
+.snacks-related .snacks-related_title { overflow: hidden; width: 97px; height: 24px; background: url(/img/title2.png); font-weight: normal; text-indent: -9999px; color: #492603; }
+.snacks-related .snacks-related_items { margin-top: 23px; }
+.snacks-related .snacks-related_items .snacks-item { float: left; margin-left: 20px; width: 176px; }
+.snacks-related .snacks-related_items .snacks-item:first-child { margin-left: 0; }
+.snacks-related .snacks-related_items .snacks-item a > div { padding-top: 15px; padding-bottom: 15px; }
+@media screen and (max-width: 480px) { .snacks-related .snacks-related_inner { margin: 0; padding: 20px 10px 10px; width: auto; }
+  .snacks-related .snacks-related_title { margin-right: auto; margin-left: auto; width: 85px; height: 20px; background: url(/img/title2_sp.png); -webkit-background-size: 85px 20px; background-size: 85px 20px; }
+  .snacks-related .snacks-related_items { margin-top: 5px; }
+  .snacks-related .snacks-related_items .snacks-item { margin-top: 10px; margin-left: 0; width: 48.58%; height: auto; }
+  .snacks-related .snacks-related_items .snacks-item:nth-child(2n) { float: right; } }
+
+.snacks-tab { padding-bottom: 60px; }
+.snacks-tab .snacks-tab_content { padding: 0 40px 40px; background-color: #fff; }
+.snacks-tab .snacks-tab_content:before { position: relative; display: block; content: ""; top: -12px; margin-right: -40px; margin-left: -40px; height: 13px; background: url(../../../products/img/top06.png) repeat-x left bottom; background-size: 381px auto; }
+@media screen and (max-width: 480px) { .snacks-tab { padding-bottom: 10px; }
+  .snacks-tab .snacks-tab_content { padding: 0 10px 8px; }
+  .snacks-tab .snacks-tab_content:before { margin-right: -10px; margin-left: -10px; top: -6px; height: 6px; background: url(/shared/img/layout/line_white_sp.png) repeat-x center 0; } }
+
+.snacks-tabs { position: relative; height: 57px; }
+.snacks-tabs li { position: absolute; top: 0; padding-top: 10px; width: 49.8%; }
+.snacks-tabs a { position: relative; display: block; background-color: #a9a9a9; height: 47px; border-radius: 4px 4px 0 0; }
+.snacks-tabs a span { position: relative; overflow: hidden; display: block; margin: 0 auto; top: 12px; height: 18px; text-indent: -9999px; }
+.snacks-tabs a:focus, .snacks-tabs a:hover { background-color: #e4001f; }
+.snacks-tabs li.is-current a { margin-top: -10px; height: 57px; background-color: #e4001f; }
+.snacks-tabs li.is-current a span { top: 16px; }
+.snacks-tabs .snacks-tabs_tab-new { left: 0; }
+.snacks-tabs .snacks-tabs_tab-new span { width: 66px; background: url(../../../products/img/top01.png); }
+.snacks-tabs .snacks-tabs_tab-all-year { right: 0; }
+.snacks-tabs .snacks-tabs_tab-all-year span { width: 136px; background: url(../../../products/img/top02.png); }
+@media screen and (max-width: 480px) { .snacks-tabs { height: 34px; }
+  .snacks-tabs li { padding-top: 5px; width: 48.4%; }
+  .snacks-tabs a { height: 29px; }
+  .snacks-tabs a span { top: 7px; height: 12px; }
+  .snacks-tabs li.is-current a { margin-top: -5px; height: 34px; }
+  .snacks-tabs li.is-current a span { top: 9px; }
+  .snacks-tabs .snacks-tabs_tab-new { left: 0; }
+  .snacks-tabs .snacks-tabs_tab-new span { width: 38px; background: url(../../../products/img/sp02.png); -webkit-background-size: 38px 12px; background-size: 38px 12px; }
+  .snacks-tabs .snacks-tabs_tab-all-year { right: 0; }
+  .snacks-tabs .snacks-tabs_tab-all-year span { width: 79px; background: url(../../../products/img/sp03.png); -webkit-background-size: 79px 12px; background-size: 79px 12px; } }
+
+.snacks-newsnack-items { padding-top: 38px; }
+@media screen and (max-width: 480px) { .snacks-newsnack-items { padding-top: 5px; } }
+
+.snacks-newsnack-items { *zoom: 1; }
+.snacks-newsnack-items:after { content: ""; display: table; clear: both; }
+.snacks-newsnack-items .snacks-item { float: left; width: 176px; }
+@media screen and (max-width: 480px) { .snacks-newsnack-items .snacks-item { width: 48.5%; }
+  .snacks-newsnack-items .snacks-item:nth-child(2n) { float: right; } }
+
+.snacks-newsnack-more { margin-top: 57px; }
+.snacks-newsnack-more a { position: relative; display: block; width: 100%; height: 70px; background-color: #f2f1de; }
+.snacks-newsnack-more a:focus, .snacks-newsnack-more a:hover { background-color: #d5d3b2; }
+.snacks-newsnack-more i { position: absolute; display: block; left: 510px; top: 50%; margin-top: -6px; width: 19px; height: 12px; background: url(../../../products/img/top08.png); }
+.snacks-newsnack-more span { overflow: hidden; position: absolute; left: 50%; top: 50%; margin-left: -45px; margin-top: -8px; width: 91px; height: 17px; background: url(../../../products/img/top07.png); text-indent: -9999px; }
+@media screen and (max-width: 480px) { .snacks-newsnack-more { margin-top: 0; }
+  .snacks-newsnack-more a { height: 45px; }
+  .snacks-newsnack-more i { left: inherit; right: 10px; margin-top: -5px; width: 17px; height: 11px; background: url(../../../products/img/sp06.png); -webkit-background-size: 17px 11px; background-size: 17px 11px; }
+  .snacks-newsnack-more span { margin-left: -30px; margin-top: -5px; width: 61px; height: 11px; background: url(../../../products/img/sp05.png); -webkit-background-size: 61px 11px; background-size: 61px 11px; } }
+
+.allyear-section-header { position: relative; padding: 60px 0; }
+.allyear-section-header h2 { height: 6px; background-color: #e5e5e5; }
+.allyear-section-header h2 span { display: block; overflow: hidden; position: absolute; top: 0; left: 50%; }
+.allyear-mike .allyear-section-header h2 span { margin-top: 13px; margin-left: -90px; }
+.allyear-doritos .allyear-section-header h2 span { margin-top: 2px; margin-left: -85px; }
+.allyear-cheetos .allyear-section-header h2 span { margin-top: 15px; margin-left: -89px; }
+.allyear-takoyaki .allyear-section-header h2 span { margin-top: 23px; margin-left: -95px; }
+.allyear-tortilla .allyear-section-header h2 span { margin-top: 30px; margin-left: -95px; }
+.allyear-gizakkuru .allyear-section-header h2 span { margin-top: 11px; margin-left: -84px; }
+@media screen and (max-width: 480px) { .allyear-section-header { padding: 0 0; text-align: center; }
+  .allyear-section-header h2 { background-color: transparent; }
+  .allyear-section-header h2:before { display: block; content: ""; background-color: #e5e5e5; height: 4px; }
+  .allyear-section-header h2 img { display: none; }
+  .allyear-mike .allyear-section-header h2 { padding: 31px 0; }
+  .allyear-mike .allyear-section-header h2 span { margin-top: 0; margin-left: -56.5px; width: 113px; height: 66px; background: url("../../../products/img/allyear_logo01_sp.jpg"); -webkit-background-size: 113px 66px; background-size: 113px 66px; }
+  .allyear-doritos .allyear-section-header h2 { padding: 41px 0; }
+  .allyear-doritos .allyear-section-header h2 span { margin-top: 0; margin-left: -54px; width: 108px; height: 85px; background: url("../../../products/img/allyear_logo02_sp.jpg"); -webkit-background-size: 108px 85px; background-size: 108px 85px; }
+  .allyear-cheetos .allyear-section-header h2 { padding: 29px 0; }
+  .allyear-cheetos .allyear-section-header h2 span { margin-top: 0; margin-left: -56.5px; width: 113px; height: 62px; background: url("../../../products/img/allyear_logo03_sp.jpg"); -webkit-background-size: 113px 62px; background-size: 113px 62px; }
+  .allyear-takoyaki .allyear-section-header h2 { padding: 30px 0; }
+  .allyear-takoyaki .allyear-section-header h2 span { margin-top: 0; margin-left: -62px; width: 124px; height: 64px; background: url("../../../products/img/allyear_logo04_sp.jpg"); -webkit-background-size: 124px 64px; background-size: 124px 64px; }
+  .allyear-tortilla .allyear-section-header h2 { padding: 23px 0; }
+  .allyear-tortilla .allyear-section-header h2 span { margin-top: 0; margin-left: -62.5px; width: 125px; height: 50px; background: url("../../../products/img/allyear_logo05_sp.jpg"); -webkit-background-size: 125px 50px; background-size: 125px 50px; }
+  .allyear-gizakkuru .allyear-section-header h2 { padding: 31px 0; }
+  .allyear-gizakkuru .allyear-section-header h2 span { margin-top: 0; margin-left: -51.5px; width: 103px; height: 66px; background: url("../../../products/img/allyear_logo06_sp.png"); -webkit-background-size: 103px 66px; background-size: 103px 66px; } }
+
+.allyear-section-header a { position: absolute; right: 0; top: 76px; font-size: 14px; font-weight: bold; line-height: 1.2; text-decoration: none; padding-left: 16px; color: #000; }
+.allyear-section-header a:before { position: absolute; display: block; content: ""; left: 0; top: 0; width: 14px; height: 14px; background: url(../../../products/img/arrow.png); }
+@media screen and (max-width: 480px) { .allyear-section-header a { display: inline-block; position: relative; right: inherit; top: inherit; margin-top: 10px; font-size: 12px; }
+  .allyear-section-header a br { display: none; } }
+
+.allyear-item { height: 202px; background-color: #fff8ce; border-radius: 4px; }
+.allyear-item .allyear-item_inner { display: table; width: 100%; }
+.allyear-item .allyear-item_content { display: table-row; }
+.allyear-item figure, .allyear-item .allyear-item_text { display: table-cell; vertical-align: middle; }
+.allyear-item .allyear-item_text { padding: 0 10px 0 0; }
+.allyear-item figure { padding: 0 5px 0 10px; width: 128px; height: 202px; }
+.allyear-item h3 { font-size: 14px; line-height: 1.285; font-weight: bold; }
+.allyear-item span { overflow: hidden; display: block; margin-top: 4px; width: 90px; height: 22px; background: url(/shared/img/button/more_01.png) no-repeat 0 0; text-indent: -9999px; }
+.allyear-item a{text-decoration: none;}
+.allyear-item a:focus span, .allyear-item a:hover span{ background-position: 0 -22px; }
+@media screen and (max-width: 480px) { .allyear-item { height: auto; background-color: transparent; text-align: center; }
+  .allyear-item .allyear-item_inner { display: block; margin: 0 12px; width: auto; text-align: center; }
+  .allyear-item .allyear-item_content { display: block; }
+  .allyear-item figure, .allyear-item .allyear-item_text { display: block; padding: 0; }
+  .allyear-item figure { margin: 0 12px; width: auto; height: auto; }
+  .allyear-item figure img { width: 100%; height: auto; }
+  .allyear-item h3 { margin-top: 5px; font-size: 12px; }
+  .allyear-item span { margin-right: auto; margin-left: auto; width: 100px; height: 27px; background: url(/shared/img/button/more_03.png) no-repeat 0 0; -webkit-background-size: 100px 27px; background-size: 100px 27px; }
+  .allyear-item a:focus span, .allyear-item a:hover span{ background-position: 0 0; } }
+
+.allyear-items .allyear-items_inner { *zoom: 1; text-align: center; }
+.allyear-items .allyear-items_inner:after { content: ""; display: table; clear: both; }
+.allyear-items .allyear-items_inner:first-child { margin-top: 0; }
+.allyear-items .allyear-item { margin-top: 20px; margin-left: 15px; width: 280px; display: inline-block; vertical-align: top; text-align: left; }
+.allyear-items .allyear-item.is-triplet { margin-left: 0; }
+@media screen and (max-width: 480px) { .allyear-items .allyear-item { margin-left: 0; width: 49%; } }
+
+.allyear-mike { margin-top: 15px; }
+@media screen and (max-width: 480px) { .allyear-mike { margin-top: 5px; } }
+
+.allyear-doritos { margin-top: 40px; }
+
+.allyear-cheetos { margin-top: 20px; }
+
+.allyear-takoyaki { float: left; margin-top: 20px; width: 420px; }
+@media screen and (max-width: 480px) { .allyear-takoyaki { float: none; width: auto; } }
+
+.allyear-tortilla { float: right; margin-top: 20px; width: 420px; }
+@media screen and (max-width: 480px) { .allyear-tortilla { float: none; width: auto; } }
+
+.allyear-gizakkuru { clear: both; padding-top: 25px; }
+
+.allyear-banner { margin-top: 50px; }
+.allyear-banner:before { display: block; content: ""; height: 6px; background-color: #e5e5e5; margin-bottom: 40px; }
+.allyear-banner .banner_pc {display: block; position: relative; width: 100%; height: 194px; background: url(../../../products/img/bnr_allyear01.jpg) left bottom no-repeat; }
+.allyear-banner .banner_pc span { position: absolute; overflow: hidden; display: block; margin-top: 4px; width: 90px; height: 22px; left: 50%; bottom: 35px; margin-left: -45px; background: url(/shared/img/button/more_01.png) no-repeat 0 0; text-indent: -9999px; }
+.allyear-banner .banner_pc a:focus, .allyear-banner .banner_pc a:hover { background-position: 0 -22px; }
+.allyear-banner .banner_sp { display: none; }
+@media screen and (max-width: 480px) { .allyear-banner { margin-top: 30px; }
+  .allyear-banner:before { height: 3px; margin-bottom: 20px; }
+  .allyear-banner .banner_pc { display: none; }
+  .allyear-banner .banner_sp { display: block; width: 100%; }
+  .allyear-banner .banner_sp a { display: block; width: 100%; }
+  .allyear-banner .banner_sp a img { width: 100%; } }

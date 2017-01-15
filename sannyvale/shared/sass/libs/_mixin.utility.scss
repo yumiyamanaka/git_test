@@ -1,0 +1,26 @@
+@mixin opacity( $opacity: 0.25 ) {
+  -moz-opacity: $opacity;
+  -ms-filter: "alpha(opacity=#{$opacity * 100})";
+  filter: alpha(opacity=#{$opacity * 100});
+  opacity: $opacity;
+}
+
+@mixin super-pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  white-space: pre-line;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -hp-pre-wrap;
+  word-wrap: break-word;
+}
+
+@mixin clearfix {
+  &:after {
+    content:"";
+    display:table;
+    clear:both;
+  }
+  *zoom: 1;
+}

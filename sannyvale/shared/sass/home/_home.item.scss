@@ -1,0 +1,223 @@
+.home-item {
+  $prefix: home-item;
+
+  float: left;
+  width: 330px;
+  margin-top: 15px;
+  margin-right: 15px;
+
+  > div {
+    position: relative;
+    background-color: #fff;
+    > a {
+      display: block;
+      color: #333333;
+      text-decoration: none;
+      &:hover,
+      &:focus {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  @include applyDeviceWidth1100 {
+    clear: left;
+    float: left;
+    margin-top: 10px;
+    margin-right: 0;
+    width: 49.2%;
+    &:nth-child(2n) {
+      clear: right;
+      float: right;
+    }
+  }
+
+  @include applyDeviceWidth480 {
+    float: none;
+    margin-top: 10px;
+    margin-right: 0;
+    width: auto;
+    height: auto;
+    &:nth-child(2n) {
+      float: none;
+    }
+  }
+}
+
+.home-item {
+  $prefix: home-item;
+
+  .#{$prefix}_new {
+    overflow: hidden;
+    position: absolute;
+    right: 5px;
+    top: -5px;
+    z-index: 3;
+    width: 49px;
+    height: 55px;
+    background: url(/shared/img/icon/new_snack_01.png) no-repeat;
+    text-indent: -9999px;
+  }
+
+  @include applyDeviceWidth480 {
+    .#{$prefix}_new {
+      width: 45px;
+      height: 50px;
+      background: url(/shared/img/icon/new_snack_02.png) no-repeat;
+      -webkit-background-size: 45px 50px;
+      background-size: 45px 50px;
+    }
+  }
+}
+
+.home-item {
+  $prefix: home-item;
+
+  .#{$prefix}_fig {
+    position: relative;
+    z-index: 2;
+    img {
+      width: 100%;
+      height: auto;
+      vertical-align: bottom;
+      -webkit-transition: opacity .2s ease;
+      -moz-transition: opacity .2s ease;
+      -ms-transition: opacity .2s ease;
+      -o-transition: opacity .2s ease;
+      transition: opacity .2s ease;
+    }
+  }
+  > div > a {
+    &:focus,
+    &:hover {
+      img {
+        opacity: .75;
+      }
+    }
+  }
+}
+
+.home-item {
+  $prefix: home-item;
+
+  .#{$prefix}_name {
+    position: relative;
+    z-index: 2;
+    padding: 20px 10px 10px 10px;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.333;
+    min-height: 40px;
+  }
+
+  i {
+    display: none;
+    position: absolute;
+    left: 9px;
+    width: 80px;
+    height: 80px;
+    background: url(/shared/img/icon/brands_01.png) no-repeat;
+  }
+
+  &.is-cat-mike,
+  &.is-cat-doritos,
+  &.is-cat-cheetos,
+  &.is-cat-takoyaki {
+    .#{$prefix}_name {
+      padding-left: 70px;
+    }
+    i {
+      display: block;
+    }
+  }
+
+  &.is-cat-cheetos {
+    .#{$prefix}_name i {
+      top: 25px;
+      width: 56px;
+      height: 33px;
+      background-position: 0 -100px;
+    }
+  }
+
+  &.is-cat-mike {
+    .#{$prefix}_name i {
+      top: 22px;
+      width: 56px;
+      height: 36px;
+      background-position: 0 -50px;
+    }
+  }
+
+  &.is-cat-doritos {
+    .#{$prefix}_name i {
+      top: 16px;
+      width: 50px;
+      height: 46px;
+      background-position: 0 0;
+    }
+  }
+
+  &.is-cat-takoyaki {
+    .#{$prefix}_name i {
+      top: 30px;
+      left: 10px;
+      width: 48px;
+      height: 25px;
+      background-position: 0 -150px;
+    }
+  }
+
+  @include applyDeviceWidth480 {
+    .#{$prefix}_name {
+      padding: 20px 10px 20px 10px;
+      line-height: 1.277;
+    }
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+}
+
+.home-item {
+  $prefix: home-item;
+
+  .#{$prefix}_tags {
+    padding: 0 10px 10px 20px;
+    font-size: 12px;
+
+    ul {
+      padding-left: 20px;
+      background: url(/shared/img/icon/tags_01.png) no-repeat 0 3px;
+    }
+
+    li {
+      position: relative;
+      display: inline-block;
+      font-size: 12px;
+      color: #808080;
+
+      &:before {
+        display: inline;
+        content: "、";
+      }
+
+      &:first-child {
+        margin-left: 0;
+        &:before {
+          display: none;
+        }
+      }
+    }
+
+    a {
+      color: #808080;
+      text-decoration: none;
+      &:hover,
+      &:focus {
+        text-decoration: underline;
+      }
+    }
+  }
+}

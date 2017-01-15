@@ -1,0 +1,330 @@
+body { background-color: #000; }
+
+.page-header, .g-footer { z-index: 10; position: relative; }
+
+.page-header { margin-bottom: 0; background: none; height: auto; }
+
+.page-header .page-header_inner { height: auto; box-sizing: border-box; padding-bottom: 5px; }
+
+.breadcrumb li, .breadcrumb a { color: #FFF; }
+
+.page-header .page-header_title { display: none; }
+
+.page-header:after { display: none; }
+
+.page-main { margin-top: -50px; }
+
+div { margin: 0 auto; }
+
+.w960 { width: 960px; }
+
+.wMax { width: 100%; }
+
+.fwB { font-weight: bold; }
+
+p { -webkit-margin-before: 0em; -webkit-margin-after: 0em; }
+
+.txtWrap01 { text-align: center; color: #FFF; line-height: 1.875; font-size: 133%; }
+
+.txtWrap01 p { margin-top: 8px; }
+
+.section01 { z-index: 9; position: relative; }
+
+.sectionWrap01 { position: relative; }
+
+.scrollPage { min-height: 668px; }
+
+.scrollBg { position: fixed; left: 0; top: 0; background: url(../img/bg_section02.jpg) no-repeat; background-position: center bottom; background-size: cover; z-index: -1; width: 100%; }
+
+.is-rwd-def .scrollBg { background-position: 100px center; }
+
+#topPage { background: url(../img/bg_top01.jpg) center center no-repeat; background-size: cover; margin: 0 auto; position: relative; }
+
+#topPage .topUlWrap01 { position: absolute; margin: 0 auto; text-align: center; left: 0; right: 0; }
+
+#topPage h2 { margin: 0 auto; min-width: 262px; min-height: 262px; }
+#topPage h2 img { margin-top: 30px; }
+#topPage .main_renewal { position: absolute; margin: 50px auto; text-align: center; left: 340px; right: 0; }
+
+
+#topPage ul { display: table; margin: 0 auto; }
+
+#topPage ul li { display: table-cell; padding-right: 28px; width: 219px; }
+
+#topPage ul li a { text-decoration: none; }
+
+#topPage ul li a:hover { opacity: 0.8; }
+
+#topPage ul li:last-child { padding-right: 0; }
+
+#topPage ul li p { text-indent: -9999px; margin: 30px auto 0 auto; width: 220px; height: 22px; }
+
+#topPage ul li.list01 p { background: url(../img/txt_link_whentoeat01.png) center top no-repeat; background-size: 220px 44px; }
+
+#topPage ul li.list02 p { background: url(../img/txt_link_howtoeat01.png) center top no-repeat; background-size: 220px 44px; }
+
+#topPage ul li.list03 p { background: url(../img/txt_link_about01.png) center top no-repeat; background-size: 220px 44px; }
+
+#topPage ul li.list04 p { background: url(../img/txt_link_lineup01.png) center top no-repeat; background-size: 220px 44px; }
+
+#topPage ul li.list01 a:hover p, #topPage ul li.list02 a:hover p, #topPage ul li.list03 a:hover p, #topPage ul li.list04 a:hover p { background-position: center bottom; }
+
+#secondPage { z-index: 1; }
+
+#thirdPage { background: url(../img/bg_section03.jpg) center center no-repeat; background-size: cover; width: 100%; height: 700px; /*height: 0;
+padding-top: 64%;
+padding-bottom: 251px;*/ }
+
+#thirdPage .txtWrap01 { padding-top: 109px; }
+
+#thirdPage .imgBlock01 { width: 952px; margin-bottom: 23px; }
+
+#thirdPage h2 { background: url(../img/txt_whentoeat01.png) center center no-repeat; width: 346px; height: 62px; background-size: contain; text-indent: -9999px; margin: 0 auto; }
+
+#forthPage { background: url(../img/bg_section04.jpg) center center no-repeat; background-size: cover; width: 100%; height: 1356px; padding-top: 520px; box-sizing: border-box; }
+
+#forthPage .imgBlock01 { width: 759px; margin-bottom: 38px; }
+
+#forthPage h2 { background: url(../img/txt_howtoeat01.png) center center no-repeat; width: 309px; height: 52px; background-size: contain; text-indent: -9999px; margin: 0 auto; }
+
+#fifthPage { background-color: #000; text-align: center; }
+
+#fifthPage .txtWrap01 { font-size: 100%; }
+
+#fifthPage .txtWrap01 p { margin-top: 0; line-height: 1; font-weight: bold; }
+
+#fifthPage ul { width: 100%; text-align: left; }
+
+#fifthPage li { width: 50%; height: 400px; display: inline-block; vertical-align: top; box-sizing: border-box; }
+
+#fifthPage li.doritosRecipe01 { background: url(../img/bg_howtoeat01.jpg) left top no-repeat; padding: 80px 55px; }
+
+#fifthPage li.doritosRecipe02 { background: url(../img/bg_howtoeat02.jpg) left top no-repeat; padding: 50px 55px; }
+
+#fifthPage li h2 { margin: 27px auto 21px auto; text-indent: -9999px; }
+
+#fifthPage li.doritosRecipe01 h2 { background: url(../img/txt_mexican_recipe01.png) center center no-repeat; width: 370px; height: 53px; background-size: contain; }
+
+#fifthPage li.doritosRecipe02 h2 { background: url(../img/txt_doritos_ricipe_contest01.png) center center no-repeat; width: 316px; height: 144px; background-size: contain; }
+
+#fifthPage li img { width: 480px; height: 400px; }
+
+#fifthPage li a { display: block; height: 57px; line-height: 57px; border: solid 1px #FFF; background: rgba(0, 0, 0, 0.3); color: #FFF; font-size: 133%; font-weight: bold; margin-top: 36px; text-decoration: none; }
+
+#fifthPage li a:hover { background: rgba(0, 0, 0, 0.5); }
+
+#fifthPage li a span { padding-right: 26px; background: url(../img/ico_apply01.png) right center no-repeat; }
+
+#sixthPage { background: url(../img/bg_section06.jpg) center center no-repeat; background-size: cover; height: 754px; }
+
+#sixthPage .txtWrap01 { padding-top: 181px; text-align: left; width: 453px; float: right; font-size: 116%; }
+
+#sixthPage h2 { background: url(../img/txt_about01.png) center center no-repeat; width: 393px; height: 52px; background-size: contain; text-indent: -9999px; margin-bottom: 25px; }
+
+#sixthPage h4 { display: inline-block; }
+
+#sixthPage h4.txtMemo01 { background: url(../img/txt_memo01.png) left top no-repeat; width: 137px; height: 18px; background-size: contain; margin-top: 50px; }
+
+#sixthPage h4.txtTortilla01 { background: url(../img/txt_tortilla01.png) left top no-repeat; width: 131px; height: 22px; background-size: contain; margin-top: 10px; }
+
+#sixthPage span { font-weight: bold; color: #bd0e0e; }
+
+#seventhPage { background: url(../img/bg_section07.jpg) center center no-repeat; background-size: cover; height: 1002px; }
+
+.iframeWrap01 { position: relative; width: 100%; height: 0; margin: 0 auto; padding-bottom: 60%; margin-bottom: 29px; }
+
+.videoFrame01 { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; }
+
+#seventhPage h2 { position: relative; top: -17px; background: url(../img/txt_tvcm01.png) center center no-repeat; width: 164px; height: 53px; background-size: contain; margin: 0 auto 40px auto; text-indent: -9999px; }
+
+#seventhPage h2 img { left: 0; top: -17px; position: absolute; }
+
+#seventhPage ul { display: table; table-layout: fixed; width: 100%; text-align: left; }
+
+#seventhPage li { display: table-cell; padding-right: 29px; vertical-align: top; }
+
+#seventhPage li:last-child { padding-right: 0; }
+
+#seventhPage p { font-size: 150%; font-family: Arial; }
+
+#seventhPage a { display: block; color: #bd0e0e; font-size: 100%; line-height: 1.83; font-weight: bold; text-decoration: none; width: 300px; }
+
+#seventhPage .video01 { background: url(../img/thumb_video01.jpg) left top no-repeat; background-size: contain; }
+
+#seventhPage .video02 { background: url(../img/thumb_video02.jpg) left top no-repeat; background-size: contain; }
+
+#seventhPage .video03 { background: url(../img/thumb_video03.jpg) left top no-repeat; background-size: contain; }
+
+#seventhPage a p.frameWrap01 { border: solid 1px transparent; }
+
+#seventhPage a:hover p.frameWrap01, #seventhPage a.current p.frameWrap01 { border: solid 1px #FF0004; }
+
+#seventhPage a.current img { opacity: 0; }
+
+#seventhPage span { display: block; color: #FFF; font-weight: normal; margin-top: -5px; }
+
+#eighthPage { background: url(../img/bg_section08.jpg) center center no-repeat; background-size: cover; padding-bottom: 60px; color: #FFF; }
+
+#eighthPage h2 { position: relative; top: -17px; background: url(../img/txt_lineup01.png) center center no-repeat; text-align: center; width: 199px; height: 64px; background-size: contain; text-indent: -9999px; margin: 0 auto; }
+
+#eighthPage h2 img { left: 0; top: -17px; position: absolute; }
+
+#eighthPage h3 { background: url(../img/txt_standard01.png) center center no-repeat; width: 144px; height: 31px; margin: 10px auto 30px auto; background-size: contain; text-indent: -9999px; }
+
+#eighthPage h3.txtTtl02 { background: url(../img/txt_newsnack01.png) center center no-repeat; width: 180px; background-size: contain; margin-bottom: 38px; }
+
+#eighthPage .lineUpList01 { display: table; table-layout: fixed; margin-bottom: 102px; width: 100%; }
+#eighthPage .lineUpList01 span.snacks-lineup_items_icon-renewal { position:absolute; top: 25px; background: none !important; margin-top: 0; }
+#eighthPage .lineUpList01 li { display: table-cell; padding: 77px 25px 25px 25px; color: #FFF; font-weight: bold; text-align: center; }
+#eighthPage .lineUpList01 li h4 { margin: 20px auto 10px; background-position: center center; background-size: contain; background-repeat: no-repeat; text-indent: -9999px; }
+#eighthPage .lineUpList01 li p { font-size: 116%; line-height: 1.7; text-align: left; }
+#eighthPage .lineUpList01 li p.txtTtl01 { font-size: 167%; font-weight: bold; margin-bottom: 17px; line-height: normal; text-align: center; }
+#eighthPage .lineUpList01 li span { display: block; font-size: 133%; height: 55px; line-height: 55px; margin-top: 30px; color: #FFF; }
+#eighthPage .lineUpList01 li a { color: #FFF; text-decoration: none; }
+#eighthPage .lineUpList01 li a:focus span, #eighthPage .lineUpList01 li a:hover span { opacity: 0.8; }
+#eighthPage .lineUpList01 li.listLineUp01 { background-color: #8c0000; position: relative; }
+#eighthPage .lineUpList01 li.listLineUp01 h4 { width: 155px; height: 19px; background-image: url(../img/h4_mexican_tocos01.jpg); }
+#eighthPage .lineUpList01 li.listLineUp01 span { background-color: #6d0000; }
+#eighthPage .lineUpList01 li.listLineUp02 { background-color: #f49b00; position: relative; }
+#eighthPage .lineUpList01 li.listLineUp02 h4 { width: 145px; height: 19px; background-image: url(../img/h4_nacho_cheese01.jpg); }
+#eighthPage .lineUpList01 li.listLineUp02 span { background-color: #d37d02; }
+#eighthPage .lineUpList01 li.listLineUp03 { background-color: #6da923; position: relative; }
+#eighthPage .lineUpList01 li.listLineUp03 h4 { width: 91px; height: 19px; background-image: url(../img/h4_lightly_salted01.jpg); }
+#eighthPage .lineUpList01 li.listLineUp03 span { background-color: #458c20; }
+
+#eighthPage ul.newSnackList01 { display: table; table-layout: fixed; margin-bottom: 0; width: 100%; }
+#eighthPage ul.newSnackList01 li { display: block; float: left; width: 160px; padding: 0; box-sizing: border-box; text-align: center; }
+#eighthPage ul.newSnackList01 figure { padding: 0; }
+#eighthPage ul.newSnackList01 p { position: relative; margin: 8px -10px 7px; line-height: 1.3; }
+#eighthPage ul.newSnackList01 a { display: block; color: #FFF; text-decoration: none; }
+#eighthPage ul.newSnackList01 a:hover .snackContent01 div span { background: #bf0a23; }
+#eighthPage ul.newSnackList01 .snackContent01 { padding: 30px 20px 17px 20px; }
+#eighthPage ul.newSnackList01 .snackContent01 div span { color: #FFF; font-size: 100%; width: 120px; height: 30px; display: block; line-height: 30px; background: #0e0e0e; text-decoration: none; margin-top: 0; }
+#eighthPage ul.newSnackList01 .snackContent01 img { width: 107px; height: auto; }
+
+#eighthPage ul.newSnackList01 li .snackContent01 { background: #282828; }
+#eighthPage ul.newSnackList01 li:nth-child(even) .snackContent01 { background: #363636; }
+#eighthPage ul.newSnackList01:nth-child(even) li .snackContent01 { background: #363636; }
+#eighthPage ul.newSnackList01:nth-child(even) li:nth-child(even) .snackContent01 { background: #282828; }
+
+#eighthPage p.viewMore01 { line-height: 1; font-size: 133%; font-weight: bold; text-align: center; border: solid 1px #343434; margin-top: 35px; }
+#eighthPage p.viewMore01 a { line-height: 1; font-weight: bold; color: #FFF; text-decoration: none; padding: 29px 0 22px 0; display: block; }
+#eighthPage p.viewMore01 a:focus, #eighthPage p.viewMore01 a:hover { text-decoration: underline; }
+
+.hidePc { display: none; }
+
+@media screen and (max-width: 480px) { .page-main { margin-top: 0; }
+  .page-header { display: none; }
+  .page-header .page-header_inner { padding-bottom: 0; }
+  .hidePc { display: inline; }
+  .hideSp { display: none; }
+  .w960 { width: 100%; }
+  p.pageTop { width: 30px; height: 30px; }
+  p.pageTop a { width: 30px; height: 30px; }
+  .scrollPage { min-height: 0; }
+  .txtWrap01 { font-size: 100%; } }
+/*
+* #topPage
+*/
+@media screen and (max-width: 480px) { #topPage { background: url(../img/bg_top01_sp.jpg) center center no-repeat; background-size: cover; margin: 0 auto; min-height: 490px; height: 490px !important; overflow: hidden; position: relative; }
+  #topPage .topUlWrap01 { position: absolute; bottom: 0; margin: 20px auto 0; text-align: center; width: 292px; overflow: hidden; height: 220px; }
+  #topPage h2 { min-width: 188px !important; min-height: 188px !important; width: 188px !important; height: 188px !important; margin-bottom: 20px !important; margin-top: 8%; }
+  #topPage h2 img { width: 100%; height: 100%; padding: 0; }
+  #topPage .main_renewal { position: absolute; left: 30%; top: 4%; margin: 0;}
+  #topPage .main_renewal img { width: 88px; height: 88px; }
+  #topPage ul { display: block; margin: 0 auto; margin-left: -12px; width: 304px; overflow: hidden; }
+  #topPage ul li { display: inline-block; padding-right: 0; margin-left: 12px; width: 134px; }
+  #topPage ul li img { width: 134px !important; height: 73px !important; }
+  #topPage ul li p { margin: 8px 0 14px -6px; width: 150px; height: 15px; }
+  #topPage ul li.list01 p { background-size: 150px 30px; }
+  #topPage ul li.list02 p { background-size: 150px 30px; }
+  #topPage ul li.list03 p { background-size: 150px 30px; }
+  #topPage ul li.list04 p { background-size: 150px 30px; }
+  #topPage ul li.list01 a:hover p, #topPage ul li.list02 a:hover p, #topPage ul li.list03 a:hover p, #topPage ul li.list04 a:hover p { background-position: center top; } }
+/*
+* #secondPage
+*/
+@media screen and (max-width: 480px) { #secondPage { height: 239px; background: url(../img/bg_section02.jpg) center top no-repeat; background-size: cover; }
+  .scrollBg { display: none; } }
+/*
+* #thirdPage
+*/
+@media screen and (max-width: 480px) { #thirdPage { height: 274px; }
+  #thirdPage .imgBlock01 { width: 302px; margin-bottom: 16px; }
+  #thirdPage .txtWrap01 { padding-top: 26px; }
+  #thirdPage h2 { width: 173px; height: 31px; } }
+/*
+* #forthPage
+*/
+@media screen and (max-width: 480px) { #forthPage { height: 0; padding-top: 54%; padding-bottom: 458px; background: url(../img/bg_section04_sp.jpg) center top no-repeat; background-size: contain; }
+  #forthPage .imgBlock01 { width: 320px; margin-bottom: 18px; }
+  #forthPage h2 { width: 155px; height: 26px; } }
+/*
+* #fifthPage
+*/
+@media screen and (max-width: 480px) { #fifthPage ul { width: 320px; margin: 0 auto; }
+  #fifthPage li { width: 160px; height: 134px; display: inline-block; vertical-align: top; box-sizing: border-box; }
+  #fifthPage li.doritosRecipe01 { padding: 12px 10px; }
+  #fifthPage li.doritosRecipe02 { padding: 10px 10px; }
+  #fifthPage li h2 { margin: 0 auto; text-indent: -9999px; }
+  #fifthPage li.doritosRecipe01 h2 { width: 124px; height: 18px; margin-top: 14px; margin-bottom: 7px; }
+  #fifthPage li.doritosRecipe02 h2 { width: 91px; height: 32px; margin-top: 9px; margin-bottom: 3px; }
+  #fifthPage p { font-size: 8px; }
+  #fifthPage p.txtTtl01 { font-size: 10px; }
+  #fifthPage li img { width: 160px; height: 134px; }
+  #fifthPage li a { height: 25px; line-height: 25px; font-size: 92%; margin-top: 10px; }
+  #fifthPage li a span { padding-right: 10px; background: url(../img/ico_apply01.png) right center no-repeat; background-size: 8px auto; }
+  #fifthPage li.doritosRecipe02 a { height: 25px; line-height: 25px; font-size: 92%; margin-top: 8px; } }
+@media screen and (max-width: 480px) { #sixthPage, #seventhPage, #eighthPage { padding-left: 20px; padding-right: 20px; } }
+/*
+* #sixthPage
+*/
+@media screen and (max-width: 480px) { #sixthPage { height: auto; padding-top: 309px; background: url(../img/bg_section06_sp.jpg) center top no-repeat; background-size: cover; box-sizing: border-box; padding-bottom: 37px; }
+  #sixthPage h2 { width: 197px; height: 26px; margin: 0 auto 11px auto; }
+  #sixthPage .txtWrap01 { padding-top: 0; width: 100%; float: none; font-size: 100%; }
+  #sixthPage h4.txtMemo01 { margin-top: 34px; margin-bottom: -2px; }
+  #sixthPage h4.txtTortilla01 { margin-top: 21px; margin-bottom: -5px; }
+  #sixthPage span { font-size: 92%; }
+  #sixthPage p.txtDesc01 { font-size: 92%; } }
+/*
+* #seventhPage
+*/
+@media screen and (max-width: 480px) { #seventhPage { height: auto; padding-bottom: 25px; }
+  #seventhPage .ulLinkIframe01 { width: auto; margin-left: -12px; }
+  #seventhPage ul { width: 100%; }
+  #seventhPage li { display: block; padding-right: 0; padding-left: 12px; margin-bottom: 16px; box-sizing: border-box; width: 50%; float: left; }
+  #seventhPage a { width: 100%; font-size: 100%; }
+  #seventhPage span { font-size: 83%; }
+  #seventhPage h2 { margin-bottom: 8px; width: 82px; height: 27px; top: -12px; } }
+/*
+* #eighthPage
+*/
+@media screen and (max-width: 480px) { #eighthPage { padding: 0 20px 30px 20px; height: auto; background-repeat: repeat; background-size: 640px auto; }
+  #eighthPage h2 { top: -12px; width: 100px; height: 32px; background-size: contain; text-indent: -9999px; margin: 0 auto; }
+  #eighthPage h3 { width: 72px; height: 16px; margin: 0 auto 20px auto; }
+  #eighthPage h3.txtTtl02 { margin-bottom: 20px; }
+  #eighthPage .lineUpList01 { display: table; table-layout: fixed; width: 100%; margin-bottom: 39px; }
+  #eighthPage .lineUpList01 li { display: block; padding: 50px 6% 20px 6% ; }
+  #eighthPage .lineUpList01 li a { position: relative; }
+  #eighthPage .lineUpList01 li p { font-size: 100%; text-align: left; }
+  #eighthPage .lineUpList01 li p.txtTtl01 { font-size: 141%; margin-bottom: 18px; text-align: center; }
+  #eighthPage .lineUpList01 li span { font-size: 125%; margin-top: 20px; }
+  #eighthPage .lineUpList01 li img { width: 159px !important; height: 215px !important; }
+  #eighthPage .lineUpList01 li span.snacks-lineup_items_icon-renewal { background: none; position: absolute; top: -25px; left: -25%; margin: 0;}
+  #eighthPage .lineUpList01 li span.snacks-lineup_items_icon-renewal img { width: 86px !important; height: 86px !important; }  
+  #eighthPage .newSnackWrap01 { margin-left: -12px; }
+  #eighthPage .newSnackWrap01 p { text-align: center; }
+  #eighthPage ul.newSnackList01 { display: table; table-layout: fixed; width: 100%; }
+  #eighthPage ul.newSnackList01 li { float: left; display: block; vertical-align: top; width: 50%; padding-left: 12px; margin-bottom: 10px; box-sizing: border-box; border-radius: 0; background-color: transparent; }
+  #eighthPage ul.newSnackList01 p { margin-right: -5px; margin-left: -5px; }
+  #eighthPage ul.newSnackList01 figure { position: relative; width: 84px; }
+  #eighthPage ul.newSnackList01 img { width: 84px !important; height: 108px !important; }
+  #eighthPage ul.newSnackList01 .snackContent01 { padding: 15px 10px; }
+  #eighthPage ul.newSnackList01 .snackContent01 div span { width: 100%; font-size: 100%; margin-top: 0; }
+  #eighthPage ul.newSnackList01:last-child { margin-bottom: 102px; }
+  #eighthPage ul.newSnackList01 li .snackContent01, #eighthPage ul.newSnackList01 li:nth-child(even) .snackContent01 { background: #282828; }
+  #eighthPage ul.newSnackList01:nth-child(even) .snackContent01, #eighthPage ul.newSnackList01:nth-child(even):nth-child(even) .snackContent01 { background: #282828; }
+  #eighthPage p.viewMore01 { margin-left: 12px; border: solid 1px #333; font-size: 100%; }
+  #eighthPage p.viewMore01 a { padding: 16px 0; background: url(../img/arrow_viewmore01.png) right center no-repeat; background-size: 27px 10px; display: block; font-size: 100%; }
+  #eighthPage p.viewMore01 a:focus, #eighthPage p.viewMore01 a:hover { text-decoration: none; } }
+

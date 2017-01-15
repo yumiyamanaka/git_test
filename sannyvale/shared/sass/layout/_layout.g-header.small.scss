@@ -1,0 +1,32 @@
+.is-rwd-small .g-header {
+  .g-header_logo {
+    height: 40px;
+    span {
+      width: 48px;
+      height: 36px;
+      background: url(/shared/img/logo3.png) no-repeat 0 0;
+      -webkit-background-size: 48px 36px;
+      background-size: 48px 36px;
+    }
+  }
+
+  .g-header_nav-handle {
+    width: 40px;
+    height: 40px;
+    a {
+      height: 40px;
+      -webkit-background-size: 20px 15px;
+      background-size: 20px 15px;
+    }
+  }
+
+  .g-header-nav {
+    top: 40px;
+  }
+}
+
+.is-rwd-small .g-header-nav-item {
+  $prefix: g-header-nav-item;
+
+  font-size: 14px;
+}

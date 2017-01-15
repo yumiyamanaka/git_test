@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <title>POP-1グランプリ｜ジャパンフリトレー株式会社</title>
+    <meta property="og:title" content="POP-1グランプリ｜ジャパンフリトレー株式会社" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.fritolay.co.jp/campaign/pop-1grandprix2016/" />
+    <meta property="og:site_name" content="POP-1グランプリ｜ジャパンフリトレー株式会社" />
+    <meta property="og:description" content="POP-1グランプリ投票ページです。9月9日はポップコーンの日！99種類のポップコーンのフレーバーの中から みんなの投票でグランプリを決めよう！" />
+    <meta property="og:image" content="http://www.fritolay.co.jp/campaign/pop-1grandprix2016/banner_og.jpg" />
+    <meta name="keywords" content="POP-1グランプリ,ポップコーンの日,フリトレー, ジャパンフリトレー, frito-lay, ドリトス, チートス, 元祖たこやき亭, リッチギザ, マイクポップコーン, ポップコーン" />
+    <meta name="description" content="POP-1グランプリ投票ページです。9月9日はポップコーンの日！99種類のポップコーンのフレーバーの中から みんなの投票でグランプリを決めよう！" />
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.fritolay.co.jp/favicon.ico" />
+    <link rel="stylesheet" href="/shared/css/layout/layout.css"/>
+    <link rel="stylesheet" href="/shared/css/components/components.css"/>
+    <link rel="stylesheet" href="/shared/css/cmn_layout.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <!--#include virtual="/inc/head-script.html" -->
+  </head>
+  <body class="page-campaign">
+    <div class="g-outer is-rwd-def"><!--#include virtual="../../inc/g-header.html" -->
+      <div class="g-layout with-rwd">
+        <article class="g-layout_main">
+          <section class="page-main">
+			<div class="page-main_inner">
+				<section id="mainImg">
+					<div class="mainImg_in">
+						<div class="sectionInner">
+							<div class="mainImg_inner">
+								<p class="ribbon"><img src="img/img_main01.png" alt="ポップコーンの日 pop corn day"></p>
+								<p class="lead"><img src="img/tit_main01.png" alt="9月9日はポップコーンの日!! 99種類の中からあなたの好きなフレーバーに投票!!"></p>
+								<h1><img src="img/img_main02.png" alt="pop-1グランプリ 開催"></h1>
+							</div>
+						</div>
+						<div class="mainImg_back">
+							<div class="szl01"></div>
+							<div class="szl02"></div>
+							<div class="szl03"></div>
+						</div>
+					</div>
+				</section><!-- /mainimg -->
+				<section id="section01">
+					<div class="sectionInner">
+						<h1><img src="img/tit_sec01_01.png" alt="どうして9月9日が「ポップコーンの日」なの？"></h1>
+						<p class="img pc"><a href="/ourbrands/mike/#pop-1"><img src="img/img_sec01_01_no.png" alt="英字のポップコーンを 反対から見ると・・・ もっと詳しく知る" class="over"></a></p>
+						<p class="img sp"><a href="/ourbrands/mike/#pop-1"><img src="img/img_sec01_01_sp.png" alt="英字のポップコーンを 反対から見ると・・・ もっと詳しく知る"></a></p>
+						<h2><img src="img/tit_sec01_02.png" alt="99種類のポップコーンのフレーバーの中から みんなの投票でグランプリを決めよう!!"></h2>
+					</div>
+				</section><!-- /section01 -->
+				<section id="section06">
+					<div class="sectionInner">
+						<h1 class="ribbon pc"><img src="img/tit_sec06_01.png" alt="結果発表"></h1>
+						<h1 class="ribbon sp"><img src="img/tit_sec06_01_sp.png" alt="結果発表"></h1>
+            <p class="lead pc"><img src="img/lead_sec06.png" alt=""></p>
+            <p class="lead sp"><img src="img/lead_sec06_sp.png" alt=""></p>
+            <ol class="ranking clearfix">
+            	<li class="gp_first">
+                <div class="li-in">
+                  <p class="medal"><img src="img/img_sec06_medal_01.png" alt="第1位"></p>
+                  <p class="img"><img src="img/item46.jpg" alt="柚子胡椒味"></p>
+                  <div class="box-text">
+                    <p class="name"><span>柚子胡椒味</span></p>
+                    <p class="text">柚子のさわやかな香りに<br class="pc">ピリッと効いた辛味</p>
+                  </div>
+                </div>
+              </li>
+            	<li>
+                <div class="li-in">
+                  <p class="medal"><img src="img/img_sec06_medal_02.png" alt="第2位"></p>
+                  <p class="img"><img src="img/item46.jpg" alt="柚子胡椒味"></p>
+                  <p class="name">柚子胡椒味</p>
+                  <p class="text">柚子のさわやかな香りに<br class="pc">ピリッと効いた辛味</p>
+                </div>
+              </li>
+            	<li class="last">
+                <div class="li-in">
+                  <p class="medal"><img src="img/img_sec06_medal_03.png" alt="第3位"></p>
+                  <p class="img"><img src="img/item46.jpg" alt="柚子胡椒味"></p>
+                  <p class="name">柚子胡椒味</p>
+                  <p class="text">柚子のさわやかな香りに<br class="pc">ピリッと効いた辛味</p>
+                </div>
+              </li>
+            </ol>
+						<div class="category-ranking clearfix" id="all">
+              	<div class="itemflag">
+                  <div class="item-in">
+                    <p class="ico"><img src="img/ico_sec06_gp_family.png" alt=""/></p>
+                    <div class="gp_itemGp">
+                      <p class="img"><img src="img/item46.jpg" alt="柚子胡椒味"></p>
+                      <div class="box-text">
+                        <p class="name">柚子胡椒味</p>
+                        <p class="text">柚子のさわやかな香りに<br class="pc">ピリッと効いた辛味</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              	<div class="itemflag">
+                  <div class="item-in">
+                    <p class="ico"><img src="img/ico_sec06_gp_drink.png" alt=""/></p>
+                    <div class="gp_itemGp">
+                      <p class="img"><img src="img/item92.jpg" alt="うなぎのかば焼き味"></p>
+                      <div class="box-text">
+                        <p class="name">うなぎのかば焼き味</p>
+                        <p class="text">うなぎの香ばしさと<br class="pc">たまり醤油で味付けした<br class="pc">甘辛い味わい</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              	<div class="itemflag">
+                  <div class="item-in">
+                    <p class="ico"><img src="img/ico_sec06_gp_girl.png" alt=""/></p>
+                    <div class="gp_itemGp">
+                      <p class="img"><img src="img/item57.jpg" alt="桜餅味"></p>
+                      <div class="box-text">
+                        <p class="name">桜餅味</p>
+                        <p class="text">塩味の効いたさくら味と<br class="pc">やさしい小豆の甘さ</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              	<div class="itemflag">
+                  <div class="item-in">
+                    <p class="ico"><img src="img/ico_sec06_gp_party.png" alt=""/></p>
+                    <div class="gp_itemGp">
+                      <p class="img"><img src="img/item74.jpg" alt="バターチキンカレー味"></p>
+                      <div class="box-text">
+                        <p class="name">バターチキンカレー味</p>
+                        <p class="text">スパイシーなカレーと<br class="pc">バターのコクが広がる</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+        
+        <!--
+				<section id="section02">
+					<div class="sectionInner">
+						<h1 class="ribbon pc"><img src="img/tit_sec02_01.png" alt="pop-1グランプリの流れ"></h1>
+						<h1 class="ribbon sp"><img src="img/tit_sec02_01_sp.png" alt="pop-1グランプリの流れ"></h1>
+						<ul>
+							<li><img src="img/img_sec02_01.png" alt="99種類のフレーバーから 投票でグランプリを決定！9月8日（木）まで"></li>
+							<li><img src="img/img_sec02_02.png" alt="グランプリフレーバー発表！9月9日（金）"></li>
+							<li><img src="img/img_sec02_03.png" alt="グランプリ上位のフレーバーを商品化！2017年以降～"></li>
+						</ul>
+						<div class="popcorn">
+							<span class="pop01"><img src="img/img_pop01.png" alt=""/></span>
+							<span class="pop02"><img src="img/img_pop02.png" alt=""/></span>
+							<span class="pop03"><img src="img/img_pop03.png" alt=""/></span>
+							<span class="pop04"><img src="img/img_pop04.png" alt=""/></span>
+							<span class="pop05"><img src="img/img_pop05.png" alt=""/></span>
+							<span class="pop06"><img src="img/img_pop06.png" alt=""/></span>
+						</div>
+					</div>-->
+          
+				</section><!-- /section01 -->
+				<section id="section03" data-current="type-all">
+					<div class="sectionInner">
+						<h1 class="ribbon pc"><img src="img/tit_sec03_01.png" alt="pop-1グランプリ投票会場"></h1>
+						<h1 class="ribbon sp"><img src="img/tit_sec03_01_sp.png" alt="pop-1グランプリ投票会場"></h1>
+						<p class="lead"><span><img src="img/tit_sec03_02.png" alt="フレーバーをしぼりこむ"></span></p>
+						<ul class="btnSearch clearfix">
+							<li><a href="#all" class="active"><span>全種類</span></a></li>
+							<li><a href="#family"><span>ファミリーで</span></a></li>
+							<li><a href="#alcohol"><span>お酒のお供に</span></a></li>
+							<li><a href="#girls"><span>女子会・ママ会に</span></a></li>
+							<li><a href="#party"><span>パーティで</span></a></li>
+						</ul>
+						<div class="popcorn">
+							<span class="pop07"><img src="img/img_pop07.png" alt=""/></span>
+							<span class="pop08"><img src="img/img_pop08.png" alt=""/></span>
+							<span class="pop09"><img src="img/img_pop09.png" alt=""/></span>
+						</div>
+					</div>
+				</section><!-- /section03 -->
+				<div class="bg-popcorn">
+				<section id="section04">
+					<div class="sectionInner">
+						<div class="sectionSearch" id="all">
+							<div class="items"></div>
+						</div>
+						<div class="sectionSearch" id="family" style="display: none;">
+							<div class="items"></div>
+						</div>
+						<div class="sectionSearch" id="alcohol" style="display: none;">
+							<div class="items"></div>
+						</div>
+						<div class="sectionSearch" id="girls" style="display: none;">
+							<div class="items"></div>
+						</div>
+						<div class="sectionSearch" id="party" style="display: none;">
+							<div class="items"></div>
+						</div>
+					</div>
+				</section>
+				<section id="section05">
+					<div class="sectionInner">
+						<div class="pc">
+							<p class="bnr"><a href="/campaign/0909popcorn_day/"><img src="img/bnr_sec04_01_pc_no.jpg" alt="#9月9日はポップコーンの日 マイクでHAPPY!!毎日当たるTwitterキャンペーン開催" class="over"></a></p>
+							<p class="bnr"><a href="/ourbrands/mike/"><img src="img/bnr_sec04_02_pc_no.jpg" alt="マイクポップコーンページはこちら" class="over"></a></p>
+						</div>
+						<div class="sp">
+							<p class="bnr"><img src="img/bnr_sec04_01_sp.jpg" alt="お知らせ COMING SOON！ ポップコーンの日特別企画！ プレゼントキャンペーン近日開催！"></p>
+							<p class="bnr"><a href="/ourbrands/mike/"><img src="img/bnr_sec04_02_sp.jpg" alt="マイクポップコーンページはこちら"></a></p>
+						</div>
+					</div>
+				</section>
+				<section class="module-modal">
+					<div id="modal-pop1" class="modal-item">
+						<div class="modalInner">
+							<p class="text"><img src="img/tit_modal_01.png" alt=""></p>
+							<div class="itemGp type02">
+								<p class="img"><img src="" alt=""></p>
+								<p class="name"></p>
+								<p class="text"></p>
+							</div>
+							<form action="/campaign/pop-1grandprix2016/submit.php" name="" id="" method="post">
+								<input type="hidden" value="item01" name="itemname" id="itemname">
+								<ul class="btns clearfix">
+									<li class="close"><a href=""><span><em>閉じる</em></span></a></li>
+									<li class="vote"><button type="submit"><span><em>投票する</em></span></button></li>
+								</ul>
+							</form>
+							<p class="module-button-close"><a href="#"><img src="img/btn_close_02.png" alt=""></a></p>
+						</div>
+					</div>
+					<div id="modal-pop2" class="modal-item">
+						<div class="modalInner">
+							<p class="text"><img src="img/tit_modal_02.png" alt="ご投票ありがとうございました！"></p>
+							<p class="img"><img src="img/img_modal_02.png" alt="商品化されるグランプリのフレーバーは2016年9月9日（金）に発表いたします！お楽しみに！"></p>
+							<div class="area">
+								<p class="tit"><img src="img/txt_modal_02.png" alt="みんなにシェア！"></p>
+								<ul class="share">
+									<li><a href="http://twitter.com/share?url=http://www.fritolay.co.jp/campaign/pop-1grandprix2016/&text=POP-1グランプリ&hashtags=#POP-1グランプリ"><img src="img/ico_share_01.png" alt="twitter"></a></li>
+									<li><a href="http://www.facebook.com/sharer.php?u=http://www.fritolay.co.jp/campaign/pop-1grandprix2016/&t=POP-1グランプリ" target="_blank"><img src="img/ico_share_02.png" alt="facebook"></a></li>
+									<li><a href="https://plus.google.com/share?url=http://www.fritolay.co.jp/campaign/pop-1grandprix2016/" target="_blank"><img src="img/ico_share_03.png" alt="google+"></a></li>
+								</ul>
+							</div>
+							<p class="module-button-close"><a href="#"><img src="img/btn_close_02.png" alt=""></a></p>
+						</div>
+					</div>
+				</section>
+
+				</div>
+				<div class="module-modal-shadow"></div>
+            </div><!-- /page-main_inner -->
+          </section><!-- /page-main -->
+        </article><!-- /g-layout_main -->
+        <p class="pageTop"><a href="#">PageTop</a></p>
+      </div><!--#include virtual="../../inc/g-footer.html" -->
+    </div>
+
+    <script src="/shared/js/jquery.min.js"></script>
+    <script src="/shared/js/script.min.js"></script>
+	<script src="/shared/js/common.js"></script>
+	<script src="../../shared/js/jQueryAutoHeight.js"></script>
+	<script src="js/grandprix.js"></script>
+	<script>
+		$(function(){
+		});
+	</script>
+  </body>
+</html>

@@ -1,0 +1,253 @@
+.pageTop{display:none;}
+
+.page-header .page-header_title{
+	margin:0;
+}
+.page-header .page-header_title .h1_about{
+	background: url(/aboutus/img/h1_about01.png) no-repeat center center;
+	background-size:330px auto;
+}
+.about-main_inner{
+	width:860px;
+	margin:62px auto 142px;
+	text-align:center;
+	font-size:16px;
+	line-height:2.25;
+}
+p.pageTop {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	z-index: 11;
+	background: url(/aboutus/img/arrow_pagetop01.jpg) left top no-repeat;
+	background-size: contain;
+	width: 40px;
+	height: 40px;
+	text-indent: -9999px;
+}
+	p.pageTop a {
+		width: 40px;
+		height: 40px;
+		display: block;
+	}
+	p.pageTop a:hover {
+		opacity: 0.5;
+	}
+/*index.html*/
+.about-main_picture{
+	margin-bottom:34px;
+}
+.about-main_txt-attention{
+	display:block;
+	padding:15px 0;
+	color:#fc001d;
+	line-height:1.875;
+}
+
+/*topmessage.html*/
+.page-header .page-header_title .h1_topmessage{
+	background: url(/aboutus/img/h1_topmessage01.png) no-repeat center center;
+	background-size:155px auto;
+}
+.topmessage-main_inner{
+	width:860px;
+	margin:44px auto 80px;
+	font-size:16px;
+	line-height:2.25;
+}
+.topmessage-main_picture{
+	margin-bottom:60px;
+}
+.topmessage-main .txt_sign01{
+	margin-top:25px;
+	text-align:right;
+}
+	.topmessage-main .txt_sign01 span{
+		display:block;
+		padding-bottom:26px;
+		margin-right:30px;
+		background: url(/aboutus/img/img_topmessage02.gif) no-repeat right bottom;
+		background-size:auto 26px;
+	}
+
+/*company.html*/
+.page-header .page-header_title .h1_company{
+	background: url(/aboutus/img/h1_company01.png) no-repeat center center;
+	background-size:155px auto;
+}
+.company-main_inner{
+	width:860px;
+	margin:44px auto 85px;
+	font-size:16px;
+	line-height:1.75;
+}
+.company-main_picture{
+	margin-bottom:20px;
+}	
+.company-main_text dl{
+	margin-top:42px;
+}
+	.company-main_text dt{
+		float:left;
+		clear:both;
+		width:94px;
+		padding-top:22px;
+		border-top:2px solid #e4001f;
+		font-weight:bold;
+		line-height:1.5;
+	}
+	.company-main_text dd{
+		padding:23px 0 18px 170px;
+		border-top:1px solid #e5e5e5;
+		line-height:1.5;
+	}
+
+/*recruit.html*/ 
+.page-header .page-header_title .h1_recruit {
+	background: url(/aboutus/img/h1_recruit01.png) no-repeat center center;
+	background-size: 155px auto;
+}
+.txtNotice01 {
+	margin-top:48px;
+	text-align: center;
+	font-size: 116%;
+}
+.breakpoints {
+	margin-top: -5px;
+}
+@media screen and (max-width: 480px) {
+.pageTop{display:block;}
+	
+.page-header .page-header_inner{
+	padding:0 10px 10px;
+}
+.page-header .page-header_title{
+	padding:15px 0;
+}
+.page-header .page-header_title h1{
+	background-size:256px auto;
+	overflow: hidden;
+	text-indent: -9999px;
+}
+<<<<<<< HEAD
+p.pageTop {
+	width: 30px;
+	height: 30px;
+}
+	p.pageTop a {
+		width: 30px;
+		height: 30px;
+	}
+=======
+/*index.html*/
+>>>>>>> prem-id25
+.about-main_inner{
+	width:auto;
+	padding:0 10px;
+	margin:48px auto 79px;
+	text-align:left;
+	font-size:14px;
+	line-height:1.75;
+}
+.about-main_picture{
+	margin:0 57px 33px 62px;
+}
+	.about-main_picture img{
+		width:100%;
+		height:auto;
+	}
+.about-main_text{
+	padding:0 10px;
+}
+.about-main_txt-attention{
+	padding:24px 0;
+	line-height:1.75;
+}
+
+<<<<<<< HEAD
+.page-header .page-header_title .h1_recruit {
+	background-size: 125px auto;
+}
+.txtNotice01 {
+	margin-top:30px;
+	font-size: 100%;
+}
+=======
+/*topmessage.html*/
+.page-header .page-header_title .h1_topmessage{
+	background-size:126px auto;
+}
+.topmessage-main_inner{
+	width:auto;
+	padding:0 10px;
+	margin:20px auto 46px;
+	font-size:14px;
+	line-height:1.75;
+}
+.topmessage-main_picture{
+	margin-bottom:25px;
+}
+	.topmessage-main_picture img{
+		width:100%;
+		height:auto;
+	}
+.topmessage-main_text{
+	padding:0 10px;
+}
+.topmessage-main .txt_sign01{
+	margin-top:20px;
+	line-height:20px;
+	text-align:right;
+}
+	.topmessage-main .txt_sign01 span{
+		display:block;
+		padding-bottom:22px;
+		margin:0;
+		background-size:auto 19px;
+	}
+	
+/*company.html*/
+.page-header .page-header_title .h1_company{
+	background-size:102px auto;
+}
+.company-main_inner{
+	width:auto;
+	padding:0 10px;
+	margin:18px auto 47px;
+	font-size:14px;
+	line-height:1.57;
+}
+.company-main_picture{
+	margin-bottom:16px;
+}
+	.company-main_picture img{
+		width:100%;
+		height:auto;
+	}	
+.company-main_text dl{
+	margin-top:29px;
+}
+	.company-main_text dt{
+		position:relative;
+		float:none;
+		width:100%;
+		padding-top:12px;
+		border-top:1px solid #e5e5e5;
+		line-height:1.66;
+	}
+	.company-main_text dt:before{
+		position:absolute;
+		content:'';
+		width:77px;
+		height:1px;
+		background:#e4001f;
+		top:-1px;left:0;
+	}
+	.company-main_text dd{
+		padding:10px 0 12px;
+		border:none;
+		line-height:1.66;
+	}
+
+>>>>>>> prem-id25
+}

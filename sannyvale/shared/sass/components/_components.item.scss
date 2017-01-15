@@ -1,0 +1,140 @@
+.snacks-item {
+  $prefix: snacks-item;
+  border-radius: 6px;
+  background-color: white;
+
+  figure {
+    position: relative;
+    padding: 0 22px;
+  }
+  img {
+    width: 100%;
+    height: auto;
+    vertical-align: bottom;
+  }
+  h1 {
+    margin-top: 5px;
+    line-height: 1.2;
+    color: #333333;
+  }
+  a {
+    display: block;
+    text-decoration: none;
+    > div {
+      padding: 26px 10px 0;
+      text-align: center;
+    }
+  }
+
+  .#{$prefix}_mroe {
+    display: block;
+    margin: 8px auto 0;
+    width: 90px;
+    height: 22px;
+    background: url(/shared/img/button/more_01.png) no-repeat 0 0;
+    text-indent: -9999px;
+  }
+
+  .#{$prefix}_icon-new,
+  .#{$prefix}_icon-close {
+    position: absolute;
+    top: -22px;
+    left: -6px;
+    z-index: 1;
+    display: block;
+    width: 50px;
+    height: 51px;
+  }
+
+  .#{$prefix}_icon-new {
+    background: url(../../../products/img/top03.png);
+  }
+
+  .#{$prefix}_icon-close{
+    background: url(../../../products/img/top04.png);
+  }
+
+  &:hover,
+  &:focus {
+    .#{$prefix}_mroe {
+      background-position: 0 -22px;
+    }
+  }
+
+  @include applyDeviceWidth480 {
+    img {
+      max-width: 86px;
+      width: 100%;
+      height: auto;
+    }
+    figure {
+      margin: 0 auto;
+      padding: 0;
+      width: 84px;
+    }
+    h1 {
+      margin-top: 5px;
+      line-height: 1.5;
+    }
+    a {
+      > div {
+        padding: 20px 0 15px;
+      }
+    }
+
+    .#{$prefix}_mroe {
+      width: 105px;
+      height: 27px;
+      background: url(/shared/img/button/more_02.png) no-repeat 0 0;
+      -webkit-background-size: 100% 100%;
+      background-size: 100% 100%;
+    }
+
+    .#{$prefix}_icon-new,
+    .#{$prefix}_icon-close {
+      left: -15px;
+      top: -15px;
+      width: 37px;
+      height: 38px;
+    }
+
+    .#{$prefix}_icon-new {
+      background: url(../../../products/img/sp04.png);
+      -webkit-background-size: 37px 38px;
+      background-size: 37px 38px;
+    }
+
+    .#{$prefix}_icon-close{
+      background: url(../../../products/img/sp04.png);
+      -webkit-background-size: 37px 38px;
+      background-size: 37px 38px;
+    }
+
+    &:hover,
+    &:focus {
+      .#{$prefix}_mroe {
+        background-position: 0 0;
+      }
+    }
+  }
+
+  .snacks-newsnack-items & {
+    &:nth-child(5n + 1) {
+      clear: both;
+    }
+    figure {
+      min-height: 150px;
+    }
+    @include applyDeviceWidth480 {
+      &:nth-child(5n + 1) {
+        clear: none;
+      }
+      &:nth-child(2n + 1) {
+        clear: both;
+      }
+      figure {
+        min-height: 115px;
+      }
+    }
+  }
+}

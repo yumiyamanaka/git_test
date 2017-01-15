@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <title>チートス｜OUR BRANDS｜ジャパンフリトレー株式会社</title>
+    <meta property="og:title" content="チートス｜OUR BRANDS｜ジャパンフリトレー株式会社" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.fritolay.co.jp/index.html" />
+    <meta property="og:site_name" content="チートス｜OUR BRANDS｜ジャパンフリトレー株式会社" />
+    <meta property="og:description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <meta property="og:image" content="http://www.fritolay.co.jp/common/img/fb/tn_jfl.jpg" />
+    <meta name="keywords" content="フリトレー, ジャパンフリトレー, frito-lay, ドリトス, チートス, 元祖たこやき亭, リッチギザ, マイクポップコーン, ポップコーン" />
+    <meta name="description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.fritolay.co.jp/favicon.ico" />
+    <link rel="stylesheet" href="/shared/css/layout/layout.css"/>
+    <link rel="stylesheet" href="/shared/css/components/components.css"/>
+    <link rel="stylesheet" href="/shared/css/cmn_layout.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <!--#include virtual="/inc/head-script.html" -->
+  </head>
+<body class="page-ourbrands">
+<div class="g-outer is-rwd-mid"><!--#include virtual="../../inc/g-header.html" -->
+	<div class="g-layout with-rwd">
+		<article class="g-layout_main">
+			<div class="page-header">
+				<div class="page-header_inner">
+					<div class="breadcrumb">
+						<ul>
+							<li class="breadcrumb_home"><a href="/">TOP</a></li>
+							<li><a href="../">ブランド</a></li>
+							<li>チートス</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<section class="page-main">
+				<div class="page-main_inner">
+					<div id="section01" class="section01 autoHeight section_basic01">
+						<div class="contentWrap01 autoHeight">
+							<img class="pc" src="img/mainimg01.png" alt="Cheetos チートス 食べ飽きない、クセになる、 やみつきチーズスナック！"/>
+							<img class="sp" src="img/mainimg01_sp.png" alt="Cheetos チートス 食べ飽きない、クセになる、 やみつきチーズスナック！"/>
+							<div class="ulWrap01">
+								<ul>
+									<li class="list01"><a class="scroll" href="#section02">チェスター・チーター劇場</a></li>
+									<li class="list02"><a class="scroll" href="#section08">チートスとは</a></li>
+									<li class="list03"><a class="scroll" href="#section09">ラインナップ</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div id="section02" class="section02 autoHeight section_basic01 noSpace">
+						<div id="snack01" class="snackWrap01 autoHeight"></div>
+						<div id="snack02" class="snackWrap02 autoHeight"></div>
+						<div class="contentWrap01 autoHeight">
+							<img id="chester01" class="chester01" src="img/pic_chester01.png" alt="チートス"/>
+							<img id="balloon01" class="balloon01" src="img/pic_balloon01.png" alt="まずは自己紹介だぜ。 俺はチェスター・チーターだぜ！ うまいチートスを地球上に広める ために生まれたのさ！"/>
+						</div>
+					</div>
+					<div id="section03" class="section03 autoHeight section_basic01">
+						<div id="snack03" class="snackWrap01 autoHeight"></div>
+						<div class="contentWrap01 autoHeight">
+							<img id="balloon02" class="balloon01" src="img/pic_balloon02.png" alt="俺のモットーは、「チートスを楽しめ！ チートスをつかまえろ！」だぜ。"/>
+							<img id="chester02" class="chester01" src="img/pic_chester02.png" alt="チートス"/>
+						</div>
+					</div>
+					<div id="section04" class="section04 autoHeight section_basic01">
+						<div class="contentWrap01 autoHeight">
+							<img id="balloon03" class="balloon01" src="img/pic_balloon03.png" alt="なぜかっていうと、チートスを心から愛してるからだな。"/>
+							<img id="chester03" class="chester01" src="img/pic_chester03.png" alt="チートス"/>
+						</div>
+					</div>
+					<div id="section05" class="section05 autoHeight section_basic01">
+						<div class="contentWrap01 autoHeight">
+							<img id="chester04" class="chester01" src="img/pic_chester04.png" alt="チートス"/>
+							<img id="balloon04" class="balloon01" src="img/pic_balloon04.png" alt="都会だろうが・・・"/>
+						</div>
+					</div>
+					<div id="section06" class="section06 autoHeight section_basic01">
+						<div class="contentWrap01 autoHeight">
+							<img id="balloon05" class="balloon01" src="img/pic_balloon05.png" alt="大草原だろうが 行くっきゃないだろ！"/>
+							<img id="chester05" class="chester01" src="img/pic_chester05.png" alt="チートス"/>
+						</div>
+					</div>
+					<div id="section07" class="section07 autoHeight section_basic01">
+						<div id="spotlight" class="spotlight01 autoHeight"> </div>
+						<div class="snackBg01 autoHeight"></div>
+						<div class="contentWrap01 autoHeight">
+							<img id="chester06" class="chester01" src="img/pic_chester06.png" alt="チートス"/>
+							<img id="balloon06" class="balloon01" src="img/pic_balloon06.png" alt="だって、うめ～んだから！"/>
+						</div>
+					</div>
+					<div id="section08" class="section08 section_basic01 noSpace">
+						<div class="contentWrap01">
+							<h2 id="cheetos">チートスとは...</h2>
+							<ul>
+								<li><p class="txtTtl01">Chee（チーズ）+tos（小さい）=Cheetos（チートス）</p>
+										<p class="txtNormal01">チートスという名前は、ミニチーズという意味。</p>
+										<img src="img/pic_cheetos01.png" alt="チートス"/>
+										<p class="desc">世界最大級のスナックメーカー、フリトレーが1948年にアメリカで発売。サクッとした食感と飽きのこない味は、世界中で大人気！ </p>
+								</li>
+								<li><p class="txtTtl02">チェスター・チーターとは</p>
+								</li>
+
+								
+								
+							</ul>
+						</div>
+					</div>
+					<div id="section09" class="section09 section_basic01 noSpace">
+						<div class="contentWrap01">
+							<h2 id="lineup">ラインナップ</h2>
+							<h3>定番商品</h3>
+								<ul class="lineupList01">
+									<li><a href="../../products/cheetos_cheese/"><img src="img/pic_lineup01.jpg" width="471" height="294" alt="香りとコクがやみつきになるチーズあじ"/><span>商品詳細を見る</span></a></li>
+									<li><a href="../../products/cheetos_bbq/"><img src="img/pic_lineup02.jpg" width="471" height="294" alt="お肉と野菜の旨みがたまらないバーベキューあじ"/><span>商品詳細を見る</span></a></li>
+									<li><a href="../../products/cheetos_umashio/"><img src="img/pic_lineup03.jpg" width="471" height="294" alt="野菜の旨味とさっぱりした塩が絶妙うましおあじ "/><span>商品詳細を見る</span></a></li>
+									<li><a href="../../products/cheetos_kyushushoyu_1403/"><img src="img/pic_lineup04.jpg" width="471" height="294" alt="まろやかな甘口しょうゆのおいしさ九州しょうゆあじ"/><span>商品詳細を見る</span></a></li>
+								</ul>
+							<h3 class="newItem01">新商品</h3>
+							<div class="snackWrap01 snacks-lineup_items">
+<!--#include virtual="/products/cheetos.html" -->
+								<div class="snacks-newsnack-more"><a href="#"><i></i><span>もっとみる</span></a></div>
+							</div>
+						</div>
+					</div>
+					<div id="btn_control">
+						<ul>
+							<li><a class="prev" href="#"></a></li>
+							<li><a class="next" href="#"></a></li>
+						</ul>
+					</div>
+				</div>
+          </section>
+        </article>
+        <p class="pageTop"><a href="#">PageTop</a></p>
+      </div>
+      <!--#include virtual="../../inc/g-footer.html" -->
+    </div>
+    <script src="/shared/js/jquery.min.js"></script>
+    <script src="/shared/js/script.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script src="/shared/js/common.js"></script>
+    <script src="js/ScrollMagic.js"></script>
+    <script src="js/TweenMax.min.js"></script>
+    <script src="js/debug.addIndicators.js"></script>
+    <script src="plugins/animation.gsap.js"></script>
+    <script src="/shared/js/jquery.colorbox.js"></script>
+    <script src="/shared/js/jQueryAutoHeight.js"></script>
+    <script src="js/cheetos.js"></script>
+  </body>
+</html>

@@ -1,0 +1,218 @@
+.is-rwd-mid2small .g-header,
+.is-rwd-small .g-header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+
+  .g-header_logo {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+    z-index: 2;
+    span {
+      display: block;
+      position: relative;
+      top: 2px;
+      margin: 0 auto;
+      width: 70px;
+      height: 51px;
+      background: url(/shared/img/logo2.png) no-repeat 0 0;
+    }
+  }
+
+  .g-header_nav-handle {
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 3;
+    width: 60px;
+    height: 60px;
+    a {
+      display: block;
+      height: 60px;
+      background: #e4001f url("/shared/img/icon/hamburger.png") no-repeat center center;
+      -webkit-background-size: 30px 25px;
+      background-size: 30px 25px;
+    }
+  }
+
+  .g-header-nav {
+    display: none;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+//    position: absolute;
+    position: fixed;
+    top: 60px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    nav {
+      background-color: #fff;
+    }
+  }
+
+  .g-header-nav_inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: -1px;
+  }
+
+  &.is-opened {
+    background-color: rgba(0, 0, 0, .5);
+    .g-header-nav {
+      display: block;
+    }
+  }
+}
+
+html {
+  &.enable-small-menu {
+    overflow: hidden;
+    height: 100%;
+
+    .is-rwd-mid2small .g-header,
+    .is-rwd-small .g-header {
+      bottom: 0;
+    }
+  }
+
+  .is-rwd-mid2small .g-header,
+  .is-rwd-small .g-header {
+    bottom: inherit;
+  }
+}
+
+.is-rwd-mid2small .g-header-social,
+.is-rwd-small .g-header-social {
+  border-top: 1px solid #e6e6e6;
+  a {
+    display: block;
+    padding: 10px 0 9px;
+    text-align: center;
+    font-size: 14px;
+    background-color: #edeff4;
+    text-decoration: none;
+  }
+  i {
+    position: relative;
+    margin-bottom: -5px;
+    display: inline-block;
+    margin-right: .5em;
+    width: 21px;
+    height: 21px;
+    background: url(/shared/img/icon/sns_facebook_02.png) no-repeat 0 0;
+    -webkit-background-size: 21px 21px;
+    background-size: 21px 21px;
+  }
+}
+
+.is-rwd-mid2small .g-header-nav-item,
+.is-rwd-small .g-header-nav-item {
+  $prefix: g-header-nav-item;
+
+  position: relative;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+
+  .#{$prefix}_name,
+  .#{$prefix}_content {
+    a {
+      display: block;
+      padding: 10px 0 9px;
+      text-decoration: none;
+    }
+  }
+
+  .#{$prefix}_name {
+    position: relative;
+    border-top: 1px solid #e6e6e6;
+
+    i {
+      position: absolute;
+      right: 12px;
+      top: 50%;
+      overflow: hidden;
+      display: block;
+      margin-top: -7px;
+      width: 15px;
+      height: 15px;
+      text-indent: -9999px;
+      background: url(/shared/img/icon/plus_minus.png) no-repeat 0 0;
+      -webkit-background-size: 15px 30px;
+      background-size: 15px 30px;
+    }
+  }
+
+  .#{$prefix}_content {
+    display: none;
+    background-color: #e4001f;
+    a {
+      font-weight: normal;
+      color: #ffffff;
+    }
+    li {
+      border-top: 1px solid #f3556b;
+    }
+    .is-category-top {
+      a {
+        font-weight: bold;
+      }
+    }
+  }
+
+  &:first-child {
+    .#{$prefix}_name {
+      border-top: none;
+    }
+  }
+
+  &.has-top {
+    display: none;
+  }
+
+  &.is-show-content {
+    .#{$prefix}_name {
+      i {
+        background-position: 0 -15px;
+      }
+    }
+    .#{$prefix}_content {
+      display: block;
+    }
+  }
+}
+
+.is-rwd-mid2small .g-header,
+.is-rwd-small .g-header {
+  .g-header_inner {
+    -webkit-box-shadow:  0 0 4px #999;
+    -moz-box-shadow:  0 0 4px #999;
+    box-shadow:  0 0 4px #999;
+    background-color: #fff;
+  }
+
+  .g-header_logo {
+    -webkit-box-shadow:  0 0 4px #999;
+    -moz-box-shadow:  0 0 4px #999;
+    box-shadow:  0 0 4px #999;
+  }
+
+  &.is-opened {
+    .g-header-nav > nav {
+      display: block;
+    }
+  }
+}
+
+

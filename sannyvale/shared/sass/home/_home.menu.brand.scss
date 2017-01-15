@@ -1,0 +1,100 @@
+.home-menu {
+  $prefix: home-menu;
+
+  @mixin block ($left, $top, $ml, $width, $height, $x, $y) {
+    left: $left;
+    top: $top;
+    margin-left: $ml;
+    width: $width;
+    height: $height;
+    background-position: $x $y;
+  }
+
+  @mixin trans ($s, $delayMs){
+    $ease: ease-in-out;
+    -webkit-transition: $s $delayMs margin $ease;
+    -moz-transition: $s $delayMs margin $ease;
+    -ms-transition: $s $delayMs margin $ease;
+    -o-transition: $s $delayMs margin $ease;
+    transition: $s $delayMs margin $ease;
+  }
+
+  .#{$prefix}_brand {
+    overflow: hidden;
+    position: absolute;
+    left: 50%;
+    top: 28px;
+    margin-left: -114px;
+    width: 228px;
+    height: 172px;
+    background: url(/img/home_menu_title.png) no-repeat 0 0;
+    text-indent: -9999px;
+  }
+
+  .#{$prefix}_brand-clip {
+    overflow: hidden;
+    position: relative;
+    top: 20px;
+    margin: 0 auto;
+    width: 160px;
+    height: 130px;
+  }
+
+  .#{$prefix}_brand-all,
+  .#{$prefix}_brand-mike,
+  .#{$prefix}_brand-cheetos,
+  .#{$prefix}_brand-doritos{
+    @include trans(.2s, 0s);
+    margin-top: 180px;
+    overflow: hidden;
+    position: absolute;
+    background: url(/img/home_menu_brands.png) no-repeat 0 0;
+    text-indent: -9999px;
+  }
+
+  .#{$prefix}_brand-all     { @include block(50%, 25px, -58px, 117px, 87px,  0,    0); }
+  .#{$prefix}_brand-mike    { @include block(50%, 25px, -76px, 152px, 95px,  0, -150px); }
+  .#{$prefix}_brand-cheetos { @include block(50%, 20px, -66px, 136px, 102px, 0, -300px); }
+  .#{$prefix}_brand-doritos { @include block(50%, 12px, -68px, 137px, 116px, 0, -450px); }
+
+  &.is-mike    .#{$prefix}_brand-mike,
+  &.is-doritos .#{$prefix}_brand-doritos,
+  &.is-cheetos .#{$prefix}_brand-cheetos,
+  &.is-all     .#{$prefix}_brand-all {
+    margin-top: 0;
+  }
+
+  @include applyDeviceWidth1100 {
+    .#{$prefix}_brand {
+      left: 66px;
+      right: inherit;
+      top: 16px;
+      margin-left: 0;
+      width: 177px;
+      height: 198px;
+      background: url(/img/home_menu_title_sp.png) no-repeat 0 0;
+      -webkit-background-size: 177px auto;
+      background-size: 177px auto;
+    }
+
+    .#{$prefix}_brand-clip {
+      width: 120px;
+      height: 90px;
+
+    }
+
+    .#{$prefix}_brand-all,
+    .#{$prefix}_brand-mike,
+    .#{$prefix}_brand-doritos,
+    .#{$prefix}_brand-cheetos {
+      margin-top: 100px;
+      -webkit-background-size: 106px auto;
+      background-size: 106px auto;
+    }
+
+    .#{$prefix}_brand-all     { @include block(50%, 11px, -40px, 86px,  62px, 0, 0); }
+    .#{$prefix}_brand-mike    { @include block(50%, 11px, -50px, 100px, 64px, 0, -98px); }
+    .#{$prefix}_brand-doritos { @include block(50%, 0,    -42px, 92px,  78px, 0, -296px); }
+    .#{$prefix}_brand-cheetos { @include block(50%, 4px, -41px, 92px,  70px, 0, -198px); }
+  }
+}

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <title>元祖たこやき亭｜OUR BRANDS｜ジャパンフリトレー株式会社</title>
+    <meta property="og:title" content="元祖たこやき亭｜OUR BRANDS｜ジャパンフリトレー株式会社" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.fritolay.co.jp/index.html" />
+    <meta property="og:site_name" content="元祖たこやき亭｜OUR BRANDS｜ジャパンフリトレー株式会社" />
+    <meta property="og:description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <meta property="og:image" content="http://www.fritolay.co.jp/common/img/fb/tn_jfl.jpg" />
+    <meta name="keywords" content="フリトレー, ジャパンフリトレー, frito-lay, ドリトス, チートス, 元祖たこやき亭, リッチギザ, マイクポップコーン, ポップコーン" />
+    <meta name="description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.fritolay.co.jp/favicon.ico" />
+    <link rel="stylesheet" href="/shared/css/layout/layout.css"/>
+    <link rel="stylesheet" href="/shared/css/components/components.css"/>
+    <link rel="stylesheet" href="/shared/css/cmn_layout.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <!--#include virtual="/inc/head-script.html" -->
+  </head>
+<body class="page-ourbrands">
+<div class="g-outer is-rwd-def"><!--#include virtual="../../inc/g-header.html" -->
+	<div class="g-layout with-rwd">
+		<article class="g-layout_main">
+			<div class="page-header">
+				<div class="page-header_inner">
+					<div class="breadcrumb">
+						<ul>
+							<li class="breadcrumb_home"><a href="/">TOP</a></li>
+							<li><a href="../">ブランド</a></li>
+							<li>元祖たこやき亭</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<section class="page-main">
+				<div class="page-main_inner">
+					<div class="mainImgWrap01">
+						<div class="mainImg">
+							<h1><img class="wMax" src="img/h1_logo.png" alt="元祖たこやき亭 まろやかソース味"/></h1>
+							<img class="img01" src="img/pic_snack01.png" alt="元祖たこやき亭 まろやかソース味"/>
+							<img class="img02" src="img/pic_snack02.png" alt="元祖たこやき亭 まろやかソース味"/>
+							<img class="img03" src="img/pic_snack03.png" alt="元祖たこやき亭 まろやかソース味"/>
+							<img class="img04" src="img/pic_snack04.png" alt="元祖たこやき亭 まろやかソース味"/>
+							<img class="img05" src="img/pic_takoyaki01.png" alt="元祖たこやき亭 まろやかソース味"/>
+							<img class="img06" src="img/pic_takoyaki02.png" alt="元祖たこやき亭 まろやかソース味"/>
+							<img class="img07" src="img/pic_takoyaki03.png" alt="野菜と果実の味わい！ おたふくソース使用"/>
+						</div>
+					</div>
+					<div class="mainContentWrap01">
+						<div class="mainContent">
+							<div class="section01">
+								<img class="img01" src="img/pic_section01_01.png" alt="おいしさのポイント"/>
+								<span>
+									<img class="img02" src="img/pic_section01_02.png" alt="子どもにもたべやすい一口サイズ。ふんわりサクッとした食感。子どもから大人まで楽しめるまろやかソース味。野菜と果実のうま味と自然な甘みが特徴のオタフクソース使用。"/>
+								</span>
+							</div>
+							<div class="section02 bd01">
+								<h2>親子で遊ぼう!</h2>
+								<div class="imgWrap01">
+									<img class="img01" src="img/pic_h2_01.png" width="211" height="199" alt=""/>
+									<img class="img02" src="img/pic_h2_02.png" width="243" height="167" alt=""/>
+									<img class="img03" src="img/txt_fun01.png" alt="おたのしみコンテンツ"/>
+									<div class="game01">
+										<img class="img04" src="img/txt_game01.png" width="120" height="120" alt="まちがいさがし"/>
+										<img class="img05" src="img/pic_game01.png" width="338" height="222" alt="まちがいさがし"/>
+									</div>
+									<div class="painting01">
+										<img class="img06" src="img/pic_painting01.png" width="280" height="226" alt="ぬりえ"/>
+										<img class="img07" src="img/txt_painting01.png" width="120" height="120" alt="ぬりえ"/>
+									</div>
+								</div>
+								<div class="btnWrap01">
+									<a href="otanoshimi/">お楽しみコンテンツをみる</a>
+								</div>
+							</div>
+							<div class="section03 bd01">
+								<div class="imgWrap01">
+									<img class="img01" src="img/pic_section02_01.png" alt="元祖たこやき亭 まろやかソース味"/>
+									<img class="img02" src="img/pic_snack06.png" alt="元祖たこやき亭 まろやかソース味"/>
+									<img class="img03" src="img/pic_section02_02.png" alt="こどものおやつにもぴったり！"/>
+									<div class="btnWrap01">
+										<a href="../../products/takoyakitei_sauce/">商品情報を詳しくみる</a>
+									</div>
+								</div>
+								<div class="sizeWrap01">
+									<p class="txtSize01">どんなシーンでも 楽しめる!<br />たこやき亭!! 2種類のサイズ<img src="img/pic_size01.png" alt=""/></p>
+									<ul>
+										<li><img src="img/pic_size02.jpg" alt="元祖 たこやき亭 まろやかソース味 内容量58g"/><span>元祖 たこやき亭 まろやかソース味 内容量58g</span></li>
+										<li><img src="img/pic_size03.jpg" alt="元祖 たこやき亭 まろやかソース味 内容量24g"/><span>元祖 たこやき亭 まろやかソース味 内容量24g</span></li>
+									</ul>
+								</div>
+							</div>
+							<div class="section04">
+								<h2>愛され続けて30余年。歴代の元祖たこやき亭キャラクター</h2>
+								<div class="historyWrap01">
+									<p>1981年に”元祖たこやきスナック”として誕生したフリトレーのたこやきスナックは愛され続けて30余年。<br />
+										発売以来、お子様から大人の方まで多くの方々に愛され続けています。また、その間多くのキャラクターも登場してきました。</p>
+									<p class="imgWrap01"><img class="pc" src="img/pic_history01.jpg" width="846" height="140" alt="1990 1997 2000 2003 2004 2007 2009 2013"/><img class="sp" src="img/pic_history01_sp.jpg" alt="1990 1997 2000 2003 2004 2007 2009 2013"/></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+          </section>
+        </article>
+        <p class="pageTop"><a href="#">PageTop</a></p>
+      </div>
+      <!--#include virtual="../../inc/g-footer.html" -->
+    </div>
+    <script src="/shared/js/jquery.min.js"></script>
+    <script src="/shared/js/script.min.js"></script>
+    <script src="/shared/js/common.js"></script>
+  </body>
+</html>

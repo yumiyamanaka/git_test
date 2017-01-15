@@ -1,0 +1,197 @@
+.snacks-main_inner {
+  $prefix: snacks-main_inner;
+
+  @extend %snacks-center;
+  @extend %snacks-clearfix;
+  padding-top: 35px;
+
+  .#{$prefix}-first {
+    float: left;
+    margin-right: -380px;
+    width: 380px;
+  }
+
+  .#{$prefix}-second {
+    @extend %snacks-clearfix;
+    padding-left: 410px;
+  }
+
+  @include applyDeviceWidth480 {
+    padding: 30px 10px 0;
+    width: auto;
+    
+    .#{$prefix}-first {
+      float: none;
+      margin-right: 0;
+      width: auto;
+    }
+    .#{$prefix}-second {
+      padding-left: 0;
+    }
+  }
+}
+
+.snacks-main_picture {
+  @include applyDeviceWidth480 {
+    margin: 0 54px;
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+}
+
+.snacks-main_entry {
+  line-height: 1.75;
+
+  p {
+    font-size: 16px;
+  }
+  > p {
+    padding-top: 10px;
+  }
+  > figure {
+    margin-top: 15px;
+    text-align: center;
+  }
+  figure.with-caption {
+    display: inline-block;
+    width: 306px;
+    text-align: left;
+    figcaption {
+      line-height: 1.5;
+      font-size: 10px;
+      color: #6c5d5a;
+    }
+  }
+
+  @include applyDeviceWidth480 {
+    line-height: 1.33;
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+    p {
+      font-size: 15px;
+    }
+    figure.with-caption {
+      display: block;
+      margin-right: 32px;
+      margin-left: 32px;
+      width: auto;
+      figcaption {
+        margin-top: 5px;
+        font-size: 12px;
+      }
+    }
+  }
+}
+
+.snacks-main_detail {
+  $prefix: snacks-main_detail;
+
+  overflow: hidden;
+  margin-top: 25px;
+  padding: 25px 30px;
+  background-color: #f2f1de;
+
+  .#{$prefix}-list {
+    @extend %snacks-clearfix;
+
+    > ul {
+      overflow: hidden;
+      float: left;
+      width: 48%;
+      zoom: 1;
+      > li {
+        padding: 0 0 4px;
+        font-weight: bold;
+        line-height: 1.5;
+      }
+    }
+
+    dl {
+      font-weight: normal;
+    }
+    dt {
+      float: left;
+    }
+    dd {
+      overflow: hidden;
+      zoom: 1;
+    }
+  }
+
+  .#{$prefix}-notes {
+    margin-top: 5px;
+    font-size: 11px;
+    line-height: 1.6;
+  }
+
+  .#{$prefix}-lastdate {
+    overflow: hidden;
+    display: inline-block;
+    margin-left: 4px;
+    width: 50px;
+    height: 18px;
+    background: url(/shared/img/icon/end_of_sales.png) no-repeat 0 0;
+    text-indent: -9999px;
+    vertical-align: bottom;
+  }
+
+  @include applyDeviceWidth480 {
+    padding: 14px 12px;
+
+    .#{$prefix}-list {
+      > ul {
+        float: none;
+        width: auto;
+        font-size: 10px;
+        font-weight: normal;
+        line-height: 1.6;
+      }
+    }
+
+    .#{$prefix}-notes {
+      font-size: 9px;
+      line-height: 1.55;
+    }
+
+    .#{$prefix}-lastdate {
+      width: 43px;
+      height: 13px;
+      background-position: 0 -9px;
+      -webkit-background-size: 43px auto;
+      background-size: 43px auto;
+    }
+  }
+}
+
+.snacks-main {
+  .snacks-main_picture {}
+
+  .snacks-main_contents {}
+
+  .snacks-brand-link {
+    margin-top: 20px;
+    &.is-brand-mike,
+    &.is-brand-doritos,
+    &.is-brand-cheetos,
+    &.is-brand-takoyakitei {
+      width: 360px;
+    }
+  }
+
+  @include applyDeviceWidth480 {
+    .snacks-brand-link {
+      margin-top: 15px;
+      &.is-brand-mike,
+      &.is-brand-doritos,
+      &.is-brand-cheetos,
+      &.is-brand-takoyakitei {
+        width: auto;
+      }
+    }
+  }
+}

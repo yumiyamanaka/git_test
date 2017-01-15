@@ -1,0 +1,42 @@
+.breadcrumb {
+  padding: 8px 0;
+  margin-left: 52px;
+  margin-bottom: 6px;
+
+  li,
+  a {
+    color: #492604;
+    font-weight: bold;
+    font-size: 12px;
+  }
+
+  li {
+    display: inline;
+
+    &:before {
+      display: inline;
+      margin: 0 .5em;
+      content: ">";
+    }
+
+    &:first-child {
+      &:before {
+        display: none;
+      }
+    }
+  }
+
+  a {
+    text-decoration: underline;
+  }
+
+  @include applyDeviceWidth480 {
+    padding: 0 0 15px;
+    & {
+      li,
+      a {
+        font-size: 9px;
+      }
+    }
+  }
+}

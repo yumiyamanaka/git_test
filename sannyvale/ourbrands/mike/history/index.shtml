@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <title>ポップコーンの歴史｜OUR BRANDS｜ジャパンフリトレー株式会社</title>
+    <meta property="og:title" content="ポップコーンの歴史｜OUR BRANDS｜ジャパンフリトレー株式会社" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.fritolay.co.jp/index.html" />
+    <meta property="og:site_name" content="ポップコーンの歴史｜OUR BRANDS｜ジャパンフリトレー株式会社" />
+    <meta property="og:description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <meta property="og:image" content="http://www.fritolay.co.jp/common/img/fb/tn_jfl.jpg" />
+    <meta name="keywords" content="フリトレー, ジャパンフリトレー, frito-lay, ドリトス, チートス, 元祖たこやき亭, リッチギザ, マイクポップコーン, ポップコーン" />
+    <meta name="description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.fritolay.co.jp/favicon.ico" />
+    <link rel="stylesheet" href="/shared/css/layout/layout.css"/>
+    <link rel="stylesheet" href="/shared/css/components/components.css"/>
+    <link rel="stylesheet" href="/shared/css/cmn_layout.css"/>
+    <link rel="stylesheet" href="/shared/css/colorbox/colorbox.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <!--#include virtual="/inc/head-script.html" -->
+  </head>
+  <body class="page-ourbrands">
+    <div class="g-outer is-rwd-def"><!--#include virtual="../../../inc/g-header.html" -->
+      <div class="g-layout with-rwd">
+        <article class="g-layout_main">
+		 <div class="breadcrumb">
+			<ul>
+				<li class="breadcrumb_home"><a href="/">TOP</a> &gt;</li>
+				<li><a href="/ourbrands/">OUR BRANDS</a> &gt;</li>
+				<li><a href="/ourbrands/mike/">マイクポップコーン</a> &gt;</li>
+				<li>ポップコーンの歴史</li>
+			</ul>
+		  </div>			
+          <section class="page-main">
+            <div class="page-main_inner">
+            	<section id="section01">
+					
+					<div id="mainImg">
+						<div id="mainImgIn">
+							<img src="img/bg_mainimg01.png" alt="POPCORN HISTORY ポップコーンの歴史"/>
+						</div>
+					</div>
+					<div id="readArea">
+						<p class="text txtpc">
+							日本を代表するポップコーンブランド「マイクポップコーン」は、<br>
+							1957年、日本初のポップコーン企業として誕生しました。<br>
+							設立当時の日本は、戦後10余年、<br>
+							戦争による政治経済の破たんからようやく立ち直りつつあり、<br>
+							これから高度経済成長を迎え、世界の経済大国になる直前の時代でした。<br>
+							日本に住む多くの人々が貧しかったそんな時代に<br>
+							ポップコーンはどのように日本に浸透したのでしょうか？<br>
+							そこで、ポップコーン誕生の歴史と<br>
+							日本におけるポップコーンの変遷史をご紹介します。
+						</p>
+						<p class="text txtsp">
+							日本を代表するポップコーンブランド<br>「マイクポップコーン」は、<br>
+							1957年、日本初の<br>ポップコーン企業として誕生しました。<br>
+							設立当時の日本は、戦後10余年、<br>
+							戦争による政治経済の破たんから<br>ようやく立ち直りつつあり、<br>
+							これから高度経済成長を迎え、<br>世界の経済大国になる直前の時代でした。<br>
+							日本に住む多くの人々が貧しかった<br>そんな時代にポップコーンはどのように<br>日本に浸透したのでしょうか？<br>
+							そこで、ポップコーン誕生の歴史と<br>
+							日本におけるポップコーンの<br>変遷史をご紹介します。
+						</p>
+					<!-- /readArea --></div>
+				<!-- /section01 --></section>
+				<section id="section02">
+					<h3><img src="img/h3_title01.jpg" alt="1893～1949　ポップコーンの誕生と流行"/></h3>
+					<div class="listYearsArea">
+						<div class="container">
+							<ul class="listYears">
+								<li id="year1893">
+									<div class="year"><img src="img/txt_year01.png" alt="1893"/></div>
+									<div class="flag"><img src="img/ico_flag_america01.png" alt="アメリカ"/></div>
+									<div class="desc">
+										<p class="txt"><span class="title">明治26年<br></span>シカゴ万博に登場。後の「クラッカージャック」<span class="copyTxt">(B)</span></p>
+										<p class="btn">
+											<a id="btnScroll01"  class="scroll" href="#ac01">関連ストーリー</a>
+										</p>
+									</div>
+								</li>
+								<li id="year1907">
+									<div class="year"><img src="img/txt_year02.png" alt="1907"/></div>
+									<div class="flag"><img src="img/ico_flag_america01.png" alt="アメリカ"/></div>
+									<div class="desc">
+										<p class="txt"><span class="title">明治40年<br></span>アメリカ初の電気ポップコーン製造機<span class="copyTxt">　(C)</span></p>
+									</div>
+								</li>
+								<li id="year1914">
+									<div class="year"><img src="img/txt_year03.png" alt="1914"/></div>
+									<div class="flag"><img src="img/ico_flag_america01.png" alt="アメリカ"/></div>
+									<div class="desc txtUp">
+										<p class="txt"><span class="title">大正3年<br></span>アメリカンポップコーン商会を設立<br>ジョリータイムブランドを発売<span class="copyTxt">　(B)</span></p>
+									</div>
+								</li>
+								<li id="year1929" class="pt10">
+									<div class="year"><img src="img/txt_year04.png" alt="1929"/></div>
+									<div class="flag"><img src="img/ico_flag_america01.png" alt="アメリカ"/></div>
+									<div class="desc">
+										<p class="txt"><span class="title">昭和4年<br></span>アメリカの映画館がポップコーンを販売<span class="copyTxt">　(C)</span></p>
+										<p id="img01" class="imgSide"><img src="img/pic_history01.png" alt=""/></p>
+									</div>
+								</li>
+								<li id="year1947">
+									<div class="year"><img src="img/txt_year05.png" alt="1947"/></div>
+									<div class="flag"><img src="img/ico_flag_america01.png" alt="アメリカ"/></div>
+									<div class="desc">
+										<p class="txt"><span class="title">昭和22年<br></span>全米の映画館の80％がポップコーンを販売<span class="copyTxt">　(B)</span></p>
+									</div>
+								</li>
+								<li id="year1947_02">
+									<div class="year">&nbsp;</div>
+									<div class="flag"><img src="img/ico_flag_japan01.png" alt="日本"/></div>
+									<div class="desc txtUp">
+										<p class="txt"><span class="title">昭和22年<br></span>浜田音四朗氏、日本でポップコーンの会社設立<br>米軍基地周辺、基地内購買店にて販売<span class="copyTxt">　(B)</span></p>
+										<p class="btn">
+											<a id="btnScroll02" class="scroll" href="#ac02">関連ストーリー</a>
+										</p>
+									</div>
+								</li>
+								<li id="year1949">
+									<div class="year"><img src="img/txt_year06.png" alt="1949"/></div>
+									<div class="flag"><img src="img/ico_flag_america01.png" alt="アメリカ"/></div>
+									<div class="desc">
+										<p class="txt"><span class="title">昭和24年<br></span>アメリカシカゴに「ギャレット ポップコーン ショップス」創業<span class="copyTxt"></span></p>
+										<p id="img02" class="imgBottom"><img src="img/pic_history02.png" alt=""/></p>
+										<p id="img02_sp" class="imgBottom"><img src="img/pic_history02_sp.png" alt=""/></p>
+									</div>
+								</li>
+							<!-- /listYears --></ul>
+						<!-- /container --></div>
+					<!-- /yearListArea --></div>
+					<div id="story01">
+						<div class="ttl_story01">
+							<div class="inner"><img src="img/h4_title01.gif" alt="Story"/></div>
+						<!-- /ttl_story01 --></div>
+						<div id="ac01" class="pullArea01 noSpace">
+							<p class="btn">
+								<a href="#">ポップコーンの誕生と流行 in アメリカ</a>
+							<!-- /btn --></p>
+							<div class="detail">
+								<div class="inner">
+									<p class="image"><img src="img/pic_story01.jpg" alt="ポップコーンの誕生と流行 in アメリカ"/></p>
+									<p class="text">ポップコーンは、<span>ネイティブアメリカンやメキシコ先住民の調理法が原点</span>と言われています。紀元前の遺跡の中からもポップコーンの痕跡が発見されました。<br>
+アメリカにおける「お菓子」としてのポップコーンの登場は19世紀半ばとされ、糖蜜をかけた甘いポップコーンがアメリカ北東部で好まれていました。そして、<span>1893年のシカゴ万博</span>でキャラメルがけポップコーンとピーナッツをひと箱に詰めたスナック菓子<span>「クラッカージャック」</span>が登場。20世紀に入ると電気による自動製造機が開発され、徐々に浸透していきます。</p>
+									<div class="dotBox01">
+										<div class="wrap">
+											<div class="inner">
+												<ul>
+													<li>
+														<p class="ref">参考文献</p>
+														<p class="refTxt">元はアメリカンインディアンやメキシコ先住民の食糧だったが、<span class="blueTxt">お菓子として1870年頃から、糖蜜をかけたポップコーンがアメリカ北東部で好まれていた。1890年頃からスナックとしてポップコーンの人気が上昇してきた</span>。当時サーカスを見ながらつまんだピーナッツと人気のキャンデーとポップコーン、この３者を全て一つ箱に入れれば、もっと売れると考えた人物いた。ドイツ系移民のＦ．Ｗ．リュークハイムである。後に、これが1893年のシカゴ万博に登場したスナック菓子「クラッカージャック」だ。<br><span class="smTxt01">（出典：扶桑社「昭和B級文化論ザ★おかし」　著：串間努　167ページより）</span>
+														</p>
+													</li>
+												</ul>
+											</div>
+										<!-- /wrap --></div>
+									<!-- /dotBox01 --></div>
+									<p class="backBtn01">
+										<a class="scroll" href="#year1893">関連年表に戻る</a>
+									</p>
+								<!-- /inner --></div>
+							<!-- /detail --></div>
+						<!-- /ac01 --></div>
+						<div id="ac02" class="pullArea01 noSpace">
+							<p class="btn">
+								<a href="#">日本におけるポップコーンの普及</a>
+							<!-- /btn --></p>
+							<div class="detail">
+								<div class="inner">
+									<p class="image"><img src="img/pic_story02.jpg" alt="日本におけるポップコーンの普及"/></p>
+									<p class="text">日本で、いわゆるアメリカの「ポップコーン」が本格的に知られるようになるのは、<span>第二次世界大戦後</span>です。アメリカ占領時代、進駐軍からの様々な食とカルチャーが日本を席巻した時代、「ポップコーン」の本格的な普及活動にまい進する人物が登場してきます。その一人が、日本にポテトチップスを普及させた<span>濱田音四郎氏</span>でしたが、最初は米軍基地内での販売が主だったようです。</p>
+									<div class="dotBox01">
+										<div class="wrap">
+											<div class="inner">
+												<ul>
+													<li>
+														<p class="ref">参考文献</p>
+														<p class="refTxt">1947年頃から、<span class="blueTxt">日本にポテトチップスを普及させた濱田音四郎氏の会社が米軍基地周辺、ＰＸ（基地内の購買部）にポップコーンを販売</span>。「ポップコーンとポテトチップス両方をいっぺんに普及させたので、かなり苦労した」と濱田氏は述懐する。<br><span class="smTxt01">（出典：扶桑社「昭和B級文化論ザ★おかし」　著：串間努　167ページより）</span>
+														</p>
+													</li>
+												</ul>
+											</div>
+										<!-- /wrap --></div>
+									<!-- /dotBox01 --></div>
+									<p class="backBtn01">
+										<a class="scroll" href="#year1947_02">1893〜1949 年表に戻る</a>
+									</p>
+								<!-- /inner --></div>
+							<!-- /detail --></div>
+						<!-- /ac02 --></div>
+					<!-- /story01 --></div>
+				<!-- /section02 --></section>
+				<section id="section03">
+					<h3><img src="img/h3_title02.jpg" alt="1950～2010　「マイクポップコーン」の歴史"/></h3>
+					<div class="listYearsArea">
+						<div class="container">
+							<ul class="listYears">
+								<li id="year1957">
+									<div class="year"><img src="img/txt_year07.png" alt="1957"/></div>
+									<div class="flag"><img src="img/ico_flag_japan01.png" alt="日本"/></div>
+									<div class="desc txtUp">
+										<p class="txt"><span class="title">昭和32年<br></span>国産ポップコーン販売開始<br>日本で最初のポップコーン会社マイクポップコーン社設立</p>
+										<p class="btn">
+											<a id="btnScroll03" class="scroll" href="#ac03">関連ストーリー</a>
+										</p>
+									</div>
+								</li>
+								<li id="year1957_02">
+									<div class="year">&nbsp;</div>
+									<div class="flag"><img src="img/ico_flag_japan01.png" alt="日本"/></div>
+									<div class="desc">
+										<p class="txt"><span class="title">昭和32年<br></span>日本初となる袋入りポップコーンを発売</p>
+										<p class="btn">
+											<a id="btnScroll04" class="scroll" href="#ac03">関連ストーリー</a>
+										</p>
+										<p id="img03" class="imgBottom"><img src="img/pic_history03.png" alt=""/></p>
+									</div>
+								</li>
+								<li id="year1961">
+									<div class="year"><img src="img/txt_year08.png" alt="1961"/></div>
+									<div class="flag"><img src="img/ico_flag_america01.png" alt="アメリカ"/></div>
+									<div class="desc txtUp">
+										<p class="txt"><span class="title">昭和36年<br></span>The Frito CompanyとH.W. Lay & Company 合併しフリトレー設立</p>
+									</div>
+								</li>
+								<li id="year1983">
+									<div class="year"><img src="img/txt_year09.png" alt="1983"/></div>
+									<div class="flag"><img src="img/ico_flag_japan01.png" alt="日本"/></div>
+									<div class="desc">
+										<p class="txt"><span class="title">昭和58年<br></span>「マイクポップコーン バターしょうゆ味」発売</p>
+										<p class="btn">
+											<a id="btnScroll05" class="scroll" href="#ac04">関連ストーリー</a>
+										</p>
+										<p id="img04" class="imgBottom"><img src="img/pic_history04.png" alt="ほ〜ら、 食べだしたら キリがない。 当時のキャッチコピー ←1987年パッケージ "/></p>
+									</div>
+								</li>
+								<li id="year1995">
+									<div class="year"><img src="img/txt_year10.png" alt="1995"/></div>
+									<div class="flag"><img src="img/ico_flag_japan01.png" alt="日本"/></div>
+									<div class="desc txtUp">
+										<p class="txt"><span class="title">平成7年<br></span>ジャパンフリトレー社<br>「マイクポップコーン バターしょうゆ味」発売</p>
+										<p class="btn">
+											<a id="btnScroll06" class="scroll" href="#ac04">関連ストーリー</a>
+										</p>
+									</div>
+								</li>
+								<li id="year2009" class="pt10">
+									<div class="year"><img src="img/txt_year11.png" alt="2009"/></div>
+									<div class="flag"><img src="img/ico_flag_japan01.png" alt="日本"/></div>
+									<div class="desc">
+										<p class="txt"><span class="title">平成21年<br></span>モンドセレクション受賞</p>
+										<p id="img05" class="imgSide"><img src="img/pic_history05.png" alt=""/></p>
+										<p class="btn">
+											<a id="btnScroll07" class="scroll" href="#ac05">関連ストーリー</a>
+										</p>
+									</div>
+								</li>
+								<li id="year2010">
+									<div class="year"><img src="img/txt_year12.png" alt="2010"/></div>
+									<div class="flag"><img src="img/ico_flag_japan01.png" alt="日本"/></div>
+									<div class="desc">
+										<p class="txt"><span class="title">平成22年<br></span>2年連続モンドセレクション受賞</p>
+										<p id="img06" class="imgSide"><img src="img/pic_history06.png" alt=""/></p>
+										<p class="btn">
+											<a id="btnScroll08" class="scroll" href="#ac05">関連ストーリー</a>
+										</p>
+									</div>
+								</li>
+							<!-- /listYears --></ul>
+						<!-- /container --></div>
+					<!-- /yearListArea --></div>
+					<div id="story02">
+						<div class="ttl_story01">
+							<div class="inner"><img src="img/h4_title01.gif" alt="Story"/></div>
+						<!-- /ttl_story01 --></div>
+						<div id="ac03" class="pullArea01 noSpace">
+							<p class="btn">
+								<a href="#">日本で最初のポップコーン会社は「マイクポップコーン社」</a>
+							<!-- /btn --></p>
+							<div class="detail">
+								<div class="inner">
+									<p class="image"><img src="img/pic_story03.jpg" alt="日本で最初のポップコーン会社は「マイクポップコーン社」"/></p>
+									<p class="text">1950年代後半の日本は、1956年初の東京国際見本市開催をきっかけに、海外の技術を積極的に取り入れ、復興する日本の産業を世界に発信する時代に突入しました。<br>
+そんな中、1957年、アメリカの機械と原料、製造ノウハウを導入して、国産初のポップコーン企業として設立したのが<span>「マイクポップコーン」</span>です。企業名と同じ「マイクポップコーン」のブランドでの製造販売を開始します。<br>
+最初は<span>遊園地や東京タワーなど、集客の多いアミューズメント施設でのワゴン販売や店頭販売</span>などからはじまり、アメリカ同様「レジャーとポップコーン」という食ライフはたちまち日本でも浸透。1970年以降、各メーカーから次々と新商品が登場し、デパートやスーパーなど販路も拡充。家庭のおやつの定番アイテムとして浸透します。特に、家庭で製造できるフライパン型のポップコーンは、親子でつくる楽しみも提供し、出来立てアツアツを食べられることから子供たちの間で人気急上昇のおやつとなりました。</p>
+									<div class="dotBox01">
+										<div class="wrap">
+											<div class="inner">
+												<ul>
+													<li>
+														<p class="refTit">書籍にみられる昭和のお菓子の代表格　「マイクポップコーン」</p>
+														<p class="ref">ポップコーン上陸</p>
+														<p class="refTxt">晴海で開かれた第2回国際見本市でアメリカ農業館にポップコーンの機械と原料が提示された。<span class="blueTxt">この時、初めてポップコーンの作り方が日本に紹介され、8月には「マイクポップコーン社」という会社が設立され、国産ポップコーンの製造販売が始まる</span>。「マイクポップコーン社」は当初新宿の二幸や多摩川園、後楽園、豊島園など遊園地や東京タワーなど<span class="blueTxt">人が多く集まるところ、東京都内30か所に売店をおいて、ポップコーンの実演販売</span>を行った。<br>当時、１袋30グラムで30円だったが、新宿の二幸では初日に6,500円の売上げがあったという。<br>
+														<span class="smTxt01">（出典：雄山閣「近代日本食文化年表」204ページより）</span>
+														</p>
+													</li>
+													<li>
+														<p class="refTxt">昭和32年東京晴海でポップコーンの第2回国際見本市が行われた際に使用されたポップコーンの原料と機械を購入し、<span class="blueTxt">日本初となる袋入りポップコーン</span>を発売。<span class="blueTxt">バターしょうゆ味の開発、発売も日本で最初に行った</span>。<br>
+														<span class="smTxt01">（出典：玄光社MOOK「昭和のお菓子」28ページより）</span>
+														</p>
+													</li>
+													<li>
+														<p class="refTxt">発売時期1957年（昭和32年）7月　<span class="blueTxt">初の国産ポップコーン　１袋３０グラムで３０円で販売開始</span>。<br>
+														<span class="smTxt01">（出典：吉川弘文館「日本の食文化史年表」著：江原絢子・東四柳祥子　316ページより）</span>
+														</p>
+													</li>
+													<li>
+														<p class="refTxt">昭和32年8月に製造会社マイクポップコーンが、ポップコーン原料生産会社プレビンズ社の意を受け<span class="blueTxt">日本で最初のポップコーン会社　マイクポップコーン有限会社設立（１９９０年２月ジャパンフリトレー株式会社へ社名変更）</span>。<br>
+一袋30グラム入りで30円のポップコーンは、発売後2～3年は、新宿二幸・多摩川園・後楽園・豊島園・東京タワー等の売店でのみで販売し、<span class="blueTxt">一般小売店には置かれなかった</span>。どこかに「お出かけ」をした時に食べるものだったのである。家族で食べるより、外で食べるのが似合うポップコーンだった。マイクポップコーンのうち、野球場で売られた物は、メガホンになるケース入りだったらしい。<br>
+														<span class="smTxt01">（出典：扶桑社「昭和B級文化論ザ★おかし」　著：串田努　169ページより）</span>
+														</p>
+													</li>
+												</ul>
+											</div>
+										<!-- /wrap --></div>
+									<!-- /dotBox01 --></div>
+									<p class="backBtn01">
+										<a class="scroll" href="#year1957">1950〜2010 年表に戻る</a>
+									</p>
+								<!-- /inner --></div>
+							<!-- /detail --></div>
+						<!-- /ac03 --></div>
+						<div id="ac04" class="pullArea01 noSpace">
+							<p class="btn">
+								<a href="#">日本人好みの「バターしょうゆ味」登場</a>
+							<!-- /btn --></p>
+							<div class="detail">
+								<div class="inner">
+									<p class="image"><img src="img/pic_story04.jpg" alt="日本人好みの「バターしょうゆ味」登場"/></p>
+									<p class="text">「マイクポップコーン社」から生まれた袋売りの「ポップコーン」は、60年代・70年代のポップコーン市場をけん引し、お菓子の定番アイテムの地位を日本市場で確立していきました。そして、1980年代に入ると、「マイクポップコーン」はヒットフレーバーを開発します。<br>
+<span>フレーバー開発の決め手は「和」を取り入れたこと。</span><br>
+日本での販売当初から、各メーカー塩味と共にバター、キャラメルなどのフレーバーも展開していたポップコーン市場ですが、日本ではなかなか浸透しなかったようです。一つには日本の湿度と食感の好みがあると言われます。日本人の嗜好は、軽くてサクッとした食感の良さ。あられ感覚が好まれたようです。そのため湿度の高い日本では、開封後すぐに湿気てしまうキャラメルフレーバーなどは馴染みのない味わいと共になかなか浸透しなかったようです。<br>
+そこで開発したのが、北海道名物「焼きとうもろこし」のようなしょうゆ味。1983年（昭和58年）に新発売された「マイクポップコーン　バターしょうゆ味」は、<span>日本人が大好きな香ばしい香りとバターのコクとしょうゆのしょっぱい味付け</span>で、ポップコーン市場に一石を投じ、ヒット商品となりました。この和風フレーバーは時代に合わせてリニューアルを重ね、いまなおファンの多い商品です。</p>
+									<ul id="pacList01">
+										<li><img src="img/pic_story04_01.jpg" alt="1987年"></li>					
+										<li><img src="img/pic_story04_02.jpg" alt="1991年"></li>
+										<li><img src="img/pic_story04_03.jpg" alt="1995年"></li>
+										<li><img src="img/pic_story04_04.jpg" alt="2013年"></li>
+									<!-- /pac_list01 --></ul>
+									<div class="dotBox01">
+										<div class="wrap">
+											<div class="inner">
+												<ul>
+													<li>
+														<p class="ref">参考文献</p>
+														<p class="refTxt">「日本にもあったポップコーン」<br>
+今、市販しているポップコーンの原料は、ほとんどが外国から輸入したものです。（中略）ポップコーン用のマメと油と塩にバターなどを入れた調味料を合わせた家庭用セットが、デパートあたりで売っていました。市販のポップコーンも、塩味のものと、砂糖のアメをかけたキャラメルコーンの二種類があります。もちろん本命は塩味のもの。これも油と塩加減で、辛いのから頼りない薄味まで、味は様々。油はシラシメ、ピーナッツ油などを使うところもありますが、ココナツ油が代表油。塩も食塩からフレーク塩まで。この他、バターなどを用いるところも。<span class="blueTxt">都内の立ち売り場では、20円、30円、50円などの袋入りがあります。同じ30円でもメーカーによって、量はマチマチ</span>。ポップコーンの命は乾いている間です。湿気を帯びたらもうダメ。外に出せば30分、紙袋いりでも1～2時間しか、カラッとしていません。<br>
+<span class="blueTxt">日本のように湿気の多いところでは、売る方も苦労するわけです。近ごろ出来た良いポリエチレン製のものでも、3週間の生命だった</span>。<br>
+														<span class="smTxt01">（出典：朝日新聞　東京夕刊　4ページ　1960年8月28日</span>
+														<span class="smTxt02">記事抜粋「ポップコーンはいかが？　さりげない魅力　お好みの味　手軽に家庭で。」文章抜粋）</span>
+														</p>
+													</li>
+												</ul>
+											</div>
+										<!-- /wrap --></div>
+									<!-- /dotBox01 --></div>
+									<p class="backBtn01">
+										<a class="scroll" href="#year1983">1950〜2010 年表に戻る</a>
+									</p>
+								<!-- /inner --></div>
+							<!-- /detail --></div>
+						<!-- /ac04 --></div>
+						<div id="ac05" class="pullArea01 noSpace">
+							<p class="btn">
+								<a href="#">モンドセレクション5年連続金賞受賞</a>
+							<!-- /btn --></p>
+							<div class="detail">
+								<div class="inner">
+									<p class="image"><img src="img/pic_story05.jpg" alt="モンドセレクション5年連続金賞受賞"/></p>
+									<p class="text">和風フレーバーの先駆け「マイクポップコーン　バターしょうゆ味」は<span>2009年モンドセレクションにて金賞受賞以来、毎年金賞を受賞</span>しています。2010年には過去10年間の売上伸長率190％、同カテゴリーでのマーケットシェアは約50％になりました。<br>
+「マイクポップコーン」シリーズの中でも秀でた実績を達成し、30周年を迎えた今なお、看板商品として袋入りポップコーン市場をけん引するロングセラーブランドです。</p>
+									<div class="dotBox01">
+										<div class="wrap">
+											<div class="inner">
+												<ul>
+													<li>
+														<p class="ref">参考文献</p>
+														<p class="refTxt">映画館やスポーツ観戦などでおなじみのポップコーン。1957年に開催された国際見本市をきっかけに、日本で初めて袋入りポップコーンを発売したのが、ジャパンフリトレーの前身であるマイクポップコーンだ。<br>
+同社が展開する「マイクブランド」の中でも、「バターしょうゆ味」は83年に発売されたロングセラー商品。消費生活製品を許可する世界的な賞「モンドセレクション」では2009年、2010年の2年連続金賞に輝く同社の看板ブランドである。
+同商品の過去10年の売上は190％の伸長率、同カテゴリー内のマーケットシェアは約50％に達する。<br>高シェアを維持してきた理由について、マーケティング本部マネージャーは「発売以来、変わらない味で、定番の味としてお客様に認めて頂いていること。また定番の「バターしょうゆ味」とは別に、ブランドのセカンドフレーバーを年数回市場に投入し、ブランドロイヤルティ向上を図っている」と話す。パッケージにある「モンドセレクション2年連続金賞」の文字も、店頭でのアイキャッチ効果を生んでいる。<br><span class="smTxt01">（出典：「宣伝会議」　2011.3.1　173ページより）</span>
+														</p>
+													</li>
+												</ul>
+											</div>
+										<!-- /wrap --></div>
+									<!-- /dotBox01 --></div>
+									<p class="backBtn01">
+										<a class="scroll" href="#year2009">1950〜2010 年表に戻る</a>
+									</p>
+								<!-- /inner --></div>
+							<!-- /detail --></div>
+						<!-- /ac05 --></div>
+					<!-- /story02 --></div>
+					<div id="referenceList">
+						<div class="inner">
+							<p class="tit">≪参考文献一覧≫</p>
+							<p>(A）日本の食文化史年表（吉川弘文館）</p>
+							<p>(B）昭和B級文化論ザ★おかし（扶桑社）</p>
+							<p>(C）はじまりコレクションⅠ（フォー・ユー）</p>
+							<p>(D）宣伝会議　2011／3／1 No808（宣伝会議）</p>
+							<p>(E）昭和のお菓子（玄光社MOOK）</p>
+						<!-- /inner -->
+					</div><!-- /reference_list --></div>
+				<!-- /section03 --></section>
+				<section id="section04">
+					<div id="packageHistory">
+						<div id="packageHistoryIn">
+							<h3><img src="img/ttl_package01.png" alt="パッケージの歴史　Package History"/></h3>
+							<div class="read">創業時から業界をリードしてきたマイクポップコーン。<br>
+	<span>1983年から続く「バターしょうゆ味」を中心に、</span><span>そのパッケージデザインの変遷を追いました。</span></div>
+							<div id="listPackage">
+								<div id="pack01" class="package"><a class="colorbox01" href="img/pic_package01_big.jpg"><img src="img/pic_package01.png" alt="1987年"/></a></div>
+								<div id="pack02" class="package"><a class="colorbox01" href="img/pic_package02_big.jpg"><img src="img/pic_package02.png" alt="1989年"/></a></div>
+								<div id="pack03" class="package"><a class="colorbox01" href="img/pic_package03_big.jpg"><img src="img/pic_package03.png" alt="1990年"/></a></div>
+								<div id="pack04" class="package"><a class="colorbox01" href="img/pic_package04_big.jpg"><img src="img/pic_package04.png" alt="1990年"/></a></div>
+								<div id="pack05" class="package"><a class="colorbox01" href="img/pic_package05_big.jpg"><img src="img/pic_package05.png" alt="1991年"/></a></div>
+								<div id="pack06" class="package"><a class="colorbox01" href="img/pic_package06_big.jpg"><img src="img/pic_package06.png" alt="1992年"/></a></div>
+								<div id="pack07" class="package"><a class="colorbox01" href="img/pic_package07_big.jpg"><img src="img/pic_package07.png" alt="1993年"/></a></div>
+								<div id="pack08" class="package"><a class="colorbox01" href="img/pic_package08_big.jpg"><img src="img/pic_package08.png" alt="1995年"/></a></div>
+								<div id="pack09" class="package"><a class="colorbox01" href="img/pic_package09_big.jpg"><img src="img/pic_package09.png" alt="1997年"/></a></div>
+								<div id="pack10" class="package"><a class="colorbox01" href="img/pic_package10_big.jpg"><img src="img/pic_package10.png" alt="2004年"/></a></div>
+								<div id="pack11" class="package"><a class="colorbox01" href="img/pic_package11_big.jpg"><img src="img/pic_package11.png" alt="2009年"/></a></div>
+								<div id="pack12" class="package"><a class="colorbox01" href="img/pic_package12_big.jpg"><img src="img/pic_package12.png" alt="2012年"/></a></div>
+								<div id="pack13" class="package"><a class="colorbox01" href="img/pic_package13_big.jpg"><img src="img/pic_package13.png" alt="2013年"/></a></div>
+								<div id="bln01" class="bln"><img src="img/img_bln01.png" alt="現在のロゴの原型"/></div>
+								<div id="bln02" class="bln"><img src="img/img_bln02.png" alt="ストライプ"/></div>
+								<div id="bln03" class="bln"><img src="img/img_bln03.png" alt="スタジアムカップ 現在に近いデザイン "/></div>
+								<div id="bln04" class="bln"><img src="img/img_bln04.png" alt="モンドセレクション"/></div>
+								<div id="bln05" class="bln"><img src="img/img_bln05.png" alt="NO.1表示！"/></div>
+                                <div id="bln1990" class="bln"><img src="img/ico_bln1990.png" alt="1990s"/></div>
+								
+							<!-- /listPackage --></div>
+							<div id="bnrMike">
+								<p class="btn">
+									<a href="/ourbrands/mike/">マイクポップコーンの最新情報をみる</a>
+								</p>
+							<!-- /bnrMike --></div>
+						<!-- /packageHistoryIn --></div>
+					<!-- /packageHistory --></div>
+				<!-- /section04 --></section>
+            <!-- /page-main_inner --></div>
+          </section>
+        </article>
+        <p class="pageTop"><a href="#">PageTop</a></p>
+      </div>
+      <!--#include virtual="../../../inc/g-footer.html" -->
+    </div>
+    <script src="/shared/js/jquery.min.js"></script>
+    <script src="/shared/js/script.min.js"></script>
+    <script src="/shared/js/common.js"></script>
+    <script src="/shared/js/jquery.colorbox.js"></script>
+    <script src="js/history.js"></script>
+  </body>
+</html>

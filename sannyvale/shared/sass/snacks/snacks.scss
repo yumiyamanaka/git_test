@@ -1,0 +1,20 @@
+@charset "UTF-8";
+@import "../libs/require";
+
+/* Extend */
+%snacks-center {
+  margin: 0 auto;
+  width: 960px;
+}
+
+%snacks-clearfix {
+  @include clearfix();
+}
+
+@import "snacks.header";
+@import "snacks.main";
+@import "snacks.sub";
+@import "snacks.related";
+@import "snacks.tab";
+@import "snacks.newsnacks";
+@import "snacks.allyear";

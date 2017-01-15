@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <title>マイクポップコーン × PRONTO コラボレーションキャンペーン｜ジャパンフリトレー株式会社</title>
+    <meta property="og:title" content="マイクポップコーン × PRONTO コラボレーションキャンペーン｜ジャパンフリトレー株式会社" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.fritolay.co.jp/index.html" />
+    <meta property="og:site_name" content="マイクポップコーン × PRONTO コラボレーションキャンペーン｜ジャパンフリトレー株式会社" />
+    <meta property="og:description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <meta property="og:image" content="http://www.fritolay.co.jp/common/img/fb/tn_jfl.jpg" />
+    <meta name="keywords" content="フリトレー, ジャパンフリトレー, frito-lay, ドリトス, チートス, 元祖たこやき亭, リッチギザ, マイクポップコーン, ポップコーン" />
+    <meta name="description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.fritolay.co.jp/favicon.ico" />
+    <link rel="stylesheet" href="/shared/css/layout/layout.css"/>
+    <link rel="stylesheet" href="/shared/css/components/components.css"/>
+    <link rel="stylesheet" href="/shared/css/cmn_layout.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <!--#include virtual="/inc/head-script.html" -->
+  </head>
+  <body class="page-campaign">
+    <div class="g-outer is-rwd-def"><!--#include virtual="../../inc/g-header.html" -->
+      <div class="g-layout with-rwd">
+        <article class="g-layout_main">
+		  <!--
+          <div class="page-header">
+            <div class="page-header_inner">
+              <div class="breadcrumb">
+                <ul>
+                  <li class="breadcrumb_home"><a href="/">TOP</a></li>
+				  <li class="campaign"><a href="/campaign/">キャンペーン</a></li>
+                  <li>シネマイク発売中！</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+		  -->
+          <section class="page-main">
+			<div class="page-main_inner">
+			
+				<section id="mainimg">
+					<div class="mainimg_inner">
+						<div class="mainimg_inner_contents">
+							<div class="inner">
+								<h2><img src="img/main_tit_01.png" alt="マイクポップコーン × PRONTO"></h2>
+								<p class="lead"><img src="img/main_tit_02.png" alt="コラボレーションキャンペーン"></p>
+								<p class="txt"><img src="img/main_tit_03.png" alt="Collaboration Campaign "></p>
+								<p class="tit"><img src="img/main_txt_01.png" alt="2015年7月1日（水）よりスタート!"></p>
+							</div>
+						</div>
+						<p class="model pc"><img src="img/main_img_01.png" alt=""></p>
+						<p class="txt"><img src="img/main_img_01_sp.png" alt="" class="sp">大人のためのおつまみポップコーン「スタイリング ポップ」発売を記念して、全国の「カフェ＆バー プロント」でコラボレーションキャンペーンがスタート！フリトレーからのポップコーンの新提案を、ぜひ体験してください。</p>
+					</div>
+				</section><!-- /mainimg -->
+				
+				<section id="section01" class="section">
+					<div class="inner">
+						<h3><img src="img/campaign_h3_01.png" alt="キャンペーン内容 Campaign"></h3>
+						<div class="box01">
+							<ul class="campaign_list01">
+								<li class="c1">
+									<p class="txt"><img src="img/campaign_tit_01.png" alt="Campaign 01 夏の暑い昼下がりにピッタリ！サマータイムメニュー 14:00～17:30"></p>
+								</li>
+								<li class="c2">
+									<p class="img"><img src="img/campaign_img_01.png" alt="ザ・プレミアム・モルツ ＜香るプレミアム＞ジョッキ（中）＋ スタイリング ポップ  アンチョビ＆ガーリック味 "></p>
+									<p class="txt">濃厚な味わいのポップコーンとビールが夏季限定のセットになりました。</p>
+									<p class="price"><img src="img/campaign_txt_01.png" alt="期間限定 &yen;590"></p>
+								</li>
+							</ul>
+							<ul class="campaign_list02">
+								<li class="c1">
+									<p class="txt"><img src="img/campaign_tit_02.png" alt="Campaign 02 みんなでワイワイ FREE POP CORN マイクポップコーンカップが登場 17:30～"></p>
+								</li>
+								<li class="c2">
+									<p class="txt">各種コースのフリーポップコーンのカップに、マイクポップコーンのカップが登場します！</p>
+									<p class="img"><img src="img/campaign_img_02.png" alt="スタンダードコース バラエティコース プレミアムコース"></p>
+								</li>
+							</ul>
+						</div>
+						<div class="box02">
+							<ul class="attention">
+								<li>※各店舗数量限定のため、なくなり次第終了とさせていただきます。</li>
+								<li>※終了時間は店舗により異なります。</li>
+								<li>※一部サービスを実施していない店舗がございます。</li>
+							</ul>
+						</div>
+					</div>
+				</section><!-- /section01 -->
+
+				<section id="section02" class="section">
+					<div class="inner">
+						<h3><img src="img/pronto_tit_01.png" alt="PRONTO"></h3>
+						<div class="box01">
+							<p class="tit"><img src="img/pronto_txt_01.png" alt="ひとつの文化とも呼べるくつろぎの場の創造。 それがプロントの役割です。"></p>
+							<p class="txt">プロントが目指しているのは、イタリアの「バール」やフランスの「カフェ」、そしてイギリスの「パブ」に見られるような、お客様との親密で活気あるお付き合いです。一日中いつ行っても居心地がよく、ほしい飲み物や食事、そして大きなくつろぎが得られるコミュニティとも言える空間。ひとつの文化とさえ呼べる、そうした新しい価値観を、プロントは日本で初めてカタチにしていきたいと考えています。そのために、プロントでは昼間はカフェとしての、夜はバーとしての顔を持ち、お客様にとってなじみの深い憩いの場を提供するための努力を重ねています。</p>
+						</div>
+						<div class="box02 clearfix">
+							<ul class="clearfix">
+								<li class="btn_list01">
+									<p class="btn"><a href="http://www.pronto.co.jp/" target="_blank">公式Webサイトはこちら</a></p>
+								</li>
+								<li class="btn_list02">
+									<p class="btn"><a href="http://www.pronto.co.jp/shop/" target="_blank">全国の店舗検索はこちら</a></p>
+								</li>
+							</ul>
+						</div>
+						<div class="box03">
+							<ul>
+								<li><p class="img"><img src="img/pronto_img_01.jpg" alt="外観"></p></li>
+								<li><p class="img"><img src="img/pronto_img_02.jpg" alt="内装"></p></li>
+								<li><p class="img"><img src="img/pronto_img_03.jpg" alt="内装"></p></li>
+							</ul>
+						</div>
+					</div>
+				</section><!-- /section02 -->
+				
+				<section id="section03" class="section">
+					<div class="inner">
+						<h3 class="img"><img src="img/item_tit_01.png" alt="商品情報 Item"></h3>
+						<div class="box01">
+							<h4><img src="/campaign/pronto_2015/img/item_img_03.png" alt="Styling POP お酒に合うポップコーン「スタイリング ポップ」が新登場"></h4>
+							<div class="lbox">
+								<p class="img"><img src="img/item_img_01.png" alt="スタイリング ポップ アンチョビ＆ガーリック味"></p>
+								<p class="tit"><img src="img/item_tit_02.png" alt="スタイリング ポップ アンチョビ＆ガーリック味"></p>
+								<p class="txt">クセになるアンチョビの旨みとガーリックの香りがほんのり効いた大人の味わいのポップコーンです。</p>
+								<p class="btn"><a href="/products/stylingpop_anchovy_1507/"><img src="img/item_btn_01.png" alt="アンチョビ＆ガーリック味はこちら"></a></p>
+							</div>
+							<div class="rbox">
+									<p class="img"><img src="img/item_img_02.png" alt="スタイリング ポップ ペッパー＆チョリソー味"></p>
+									<p class="tit"><img src="img/item_tit_03.png" alt="スタイリング ポップ ペッパー＆チョリソー味"></p>
+									<p class="txt">ピリッとしたペッパーの辛みとチョリソーの旨みが効いた大人の味わいのポップコーンです。</p>
+									<p class="btn"><a href="/products/stylingpop_pepper_1507/"><img src="img/item_btn_02.png" alt="ペッパー＆チョリソー味はこちら"></a></p>
+								</li>
+							</div>
+						</div>
+						<div class="box02">
+							<h4><img src="img/item_img_04.png" alt="マイクポップコーン"></h4>
+							<p class="btn"><a href="/ourbrands/mike/"><img src="img/item_btn_03.png" alt="マイクポップコーンページはこちら"></a></p>
+						</div>
+					</div>
+				</section><!-- /section03 -->
+				
+            </div><!-- /page-main_inner -->
+          </section><!-- /page-main -->
+        </article><!-- /mainimg -->
+
+
+
+
+
+
+        <p class="pageTop"><a href="#">PageTop</a></p>
+      </div><!--#include virtual="../../inc/g-footer.html" -->
+    </div>
+    <script src="/shared/js/jquery.min.js"></script>
+    <script src="/shared/js/script.min.js"></script>
+	<script src="/shared/js/common.js"></script>
+	<script src="../../shared/js/jQueryAutoHeight.js"></script>
+	<script>
+		$(function(){
+			$('#section03 .box01 .txt').autoHeight();
+		});
+	</script>
+  </body>
+</html>

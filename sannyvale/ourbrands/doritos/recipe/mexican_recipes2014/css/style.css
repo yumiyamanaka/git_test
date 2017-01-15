@@ -1,0 +1,346 @@
+/* CSS Document */
+.clearfix {
+	display: block;
+	min-height: 1%;
+}
+.flL { float: left; }
+.flR { float: right; }
+.hidePc { display: none; }
+.hideSp { display: inline; }
+.wMax { width: 100%; }
+img { vertical-align: top; }
+.page-header  { 
+	background: none;
+	margin-bottom: 0;
+	height: auto;
+}
+
+.page-header:after { display: none; }
+.page-header .page-header_inner {
+	height: auto;
+	  padding: 5px 0;
+}
+.breadcrumb {
+	background: url(../img/ico_home01.png) no-repeat left center;
+	padding-left: 21px;
+	position: relative;
+}
+	.breadcrumb li, .breadcrumb a {
+		color: #FFF;
+	}
+.page-main {
+	background-image: url(../img/bg_main02.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-color: #cf062c;
+	overflow: hidden;
+	margin-top: -50px;
+}
+.mainImgWrap01 {
+	background: url(../img/bg_main01.png) center top no-repeat;
+	text-align: center;
+	padding-top: 44px;
+	padding-bottom: 82px;	
+}
+	.mainImgWrap01 h2 {
+		width: 405px;
+		height: 142px;
+		margin: 0 auto;
+	}
+	.mainImgWrap01 h3 {
+		width: 715px;
+		height: 90px;
+		margin: 0 auto;
+	}
+	.mainImgWrap01 p {
+		font-size: 125%;
+		font-weight: bold;
+		line-height: 1.2;
+		margin-top: 16px;
+	}
+.section01 {
+	margin: 0 auto 13px auto;
+	width: 980px;
+	color: #454545;
+}
+	.blockWrap01 {
+		padding: 50px;
+		background-color: #FFF;
+		width: 880px;
+		margin: 0 auto;
+		overflow: hidden;
+	}
+		.blockWrap01 ul {
+			max-width: 530px;
+			margin-bottom: 28px;
+		}
+		.blockLeft01 {
+			margin-right: 40px;
+		}
+		.howList01 li {
+			font-size: 116%;
+			line-height: 1.7;
+		}
+		.howList01 li .num {
+			float: left;
+			color: #6d960c;
+			font-weight: bold;
+			clear: left;
+			line-height: 1.7;
+		}
+		.howList01 li .txt {
+			padding-left: 22px;
+			color: #454545;
+		}
+		.listTitle01 {
+			padding-bottom: 8px;
+			color: #6d960c;
+			font-size: 116.6%;
+			font-weight: bold;
+			border-bottom: 3px #9ba174 solid;
+			margin-top: 27px;
+		}
+		.recipeList01 li {
+			overflow: hidden;
+			color: #454545;
+			border-bottom: #9ba174 dotted 1px;
+			line-height: 2;
+		}
+		.recipeList01 span.flR {
+			float: right;
+		}
+		.blockWrap01 h2 {
+			margin-bottom: 20px;
+			width: 530px;
+		}
+		.howTitle01 {
+			margin-bottom: 13px;
+			color: #6d960c;
+			font-size: 116.6%;
+			font-weight: bold;
+		}
+		.radBox01 {
+			width: 490px;
+			position: relative;
+			padding: 20px;
+			background: #fcdb34;
+			border-radius: 4px;
+			-moz-border-radius: 4px;
+			-webkit-border-radius: 4px;
+			-o-border-radius: 4px;
+			-ms-border-radius: 4px;
+		}
+			.radBox01 .icoImg {
+				position: absolute;
+				top: 14px;
+				right: 15px;
+				z-index: 1;
+				width: 71px;
+				height: 47px;
+			}
+			.radBox01 .icoImg02 {
+				position: absolute;
+				top: -32px;
+				right: 3px;
+				z-index: 1;
+			}
+			.radBox01 .inner {
+				overflow: hidden;
+			}
+			.radBox01 .inner .box {
+				float: left;
+				width: 310px;
+			}
+			.radBox01 .inner .img {
+				float: right;
+				width: 169px;
+				height: 104px;
+			}
+			.radBox01 .subTitle01 {
+				width: 159px;
+				height: 19px;
+			}
+			.radBox01 .txt {
+				font-size: 116%;
+				color: #454545;
+				line-height: 1.57;
+				margin-top: 16px;
+			}
+			.radBox01 .red {
+				color: #FF0004;
+			}
+#dorotosArea {
+	position: relative;
+	width: 980px;
+	margin: 0 auto 50px auto;
+}
+	#dorotosArea .btn {
+		position: absolute;
+		right: 110px;
+		bottom: 74px;
+	}
+		#dorotosArea .btn a {
+			display: block;
+			width: 393px;
+			height: 60px;
+			padding-top: 22px;
+			overflow: hidden;
+			background-color: #440307;
+			border: 1px solid #9d0a14;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			box-sizing: border-box;
+			font-size: 134%;
+			font-weight: bold;
+			color: #fff;
+			text-align: center;
+			text-decoration: none;
+			line-height: 1;
+		}
+			#dorotosArea .btn a:hover {
+				background-color: #800c09;
+			}
+@media screen and (max-width: 480px){
+	.flL { float: none; }
+	.flR { float: none; }
+	.hidePc { display: inline; }
+	.hideSp { display: none; }
+	.page-header {
+		display: none;
+	}
+	.breadcrumb {
+		background: none;
+		padding: 3px 0 8px 10px;
+	}
+	.page-main {
+		background-size: auto 240px;
+		margin-top: 0;
+	}
+	.mainImgWrap01 {
+		background: url(../img/bg_main01_sp.png) center 18px no-repeat;
+		background-size: 320px auto;
+		padding-top: 38px;
+		padding-bottom: 30px;
+	}
+	.mainImgWrap01 h2 {
+		width: 115px;
+		height: 41px;
+	}
+	.mainImgWrap01 h3 {
+		width: 260px;
+		height: 33px;
+		margin: 12px auto 0 auto;
+	}
+	.mainImgWrap01 p {
+		font-size: 75%;
+		font-weight: bold;
+		line-height: 1.67;
+		margin-top: 12px;
+	}
+	.section01 {
+		width: auto;
+		padding: 0 10px;
+		margin-bottom: 22px;	
+	}
+	.blockWrap01 {
+		width: auto;
+		padding: 20px 10px;	
+	}
+		.blockLeft01 {
+			margin-right: 0;
+		}
+		.blockWrap01 h2 {
+			margin-bottom: 20px;
+			width: 100%;
+		}
+		.blockWrap01 ul {
+			margin-bottom: 20px;
+		}
+		.listTitle01 {
+			font-size: 100%;
+			margin-top: 19px;
+			padding-bottom: 2px;
+		}
+		.howTitle01 {
+			margin-bottom: 3px;
+			font-size: 100%;
+		}
+		.howList01 li {
+			font-size: 100%;
+			line-height: 1.7;
+		}
+		.howList01 li .txt {
+			padding-left: 27px;
+		}
+		.radBox01 {
+			width: auto;
+			padding: 20px;
+			margin-top: -5px;
+		}
+	#dorotosArea {
+		width: auto;
+		padding: 0 10px;
+}	
+		
+	#dorotosArea .btn {
+		position: absolute;
+		width: 215px;
+		left: 50%;
+		bottom: 10px;
+		margin-left: -108px;
+	}
+		#dorotosArea .btn a {
+			display: block;
+			width: 215px;
+			height: 35px;
+			padding-top: 11px;
+			overflow: hidden;
+			background: #2e0006;
+			border: 1px solid #970a13;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			box-sizing: border-box;
+			font-size: 100%;
+			font-weight: bold;
+			color: #fff;
+			text-align: center;
+			text-decoration: none;
+			line-height: 1;
+		}
+			#dorotosArea .btn a:hover {
+				background: #2e0006;
+			}
+
+		.radBox01 .icoImg {
+			width: 49px;
+			height: 33px;
+			top: 10px;
+		}
+		.radBox01 .icoImg02 {
+			width: 88px;
+			height: 88px;
+			top: -35px;
+			right: 3px;
+		}
+		.radBox01 .txt {
+			font-size: 100%;
+			line-height: 1.25;
+			margin-top: 16px;
+		}
+		.radBox01 .inner .box {
+			width: 100%;
+			padding-right: 118px;
+			box-sizing: border-box;
+		}
+		.radBox01 .inner .img {
+			width: 118px;
+			height: 73px;
+			position: absolute;
+			right: 15px;
+			bottom: 15px;
+		}
+		.radBox01 .subTitle01 {
+			width: 133px;
+			height: 16px;
+		}
+}

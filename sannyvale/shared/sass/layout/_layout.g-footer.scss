@@ -1,0 +1,89 @@
+.pageTop {
+  bottom: 0;
+  right: 0;
+  z-index: 11;
+  background: url(/shared/img/button/arrow_pagetop01.png) left top no-repeat;
+  background-size: contain;
+  width: 40px;
+  height: 40px;
+  text-indent: -9999px;
+  position: fixed;
+  display: none;
+  a {
+    width: 40px;
+    height: 40px;
+    display: block;
+    &:focus,
+    &:hover {
+      opacity: 0.5;
+    }
+  }
+  @include applyDeviceWidth480 {
+    .pageTop {
+      position: absolute;
+      width: 30px;
+      height: 30px;
+      a {
+        width: 30px;
+        height: 30px;
+      }
+    }
+  }
+}
+
+/**
+ * g-footer
+ */
+.g-footer {
+  background-color: #000000;
+  color: #999999;
+  a {
+    color: #999999;
+  }
+}
+
+.is-rwd-def .g-footer,
+.is-rwd-mid .g-footer,
+.is-rwd-mid2small .g-footer {
+  overflow: hidden;
+  zoom: 1;
+  padding: 16px 20px;
+  font-size: 12px;
+  .g-footer_nav {
+    float: left;
+    line-height: 1.5;
+    li {
+      float: left;
+      list-style: none;
+      white-space: nowrap;
+      a {
+        text-decoration: none;
+      }
+      &:before {
+        display: inline;
+        content: "|";
+        margin-left: 1em;
+        margin-right: 1em;
+      }
+      &:first-child:before {
+        display: none;
+      }
+    }
+  }
+  .g-footer_copyright {
+    float: right;
+  }
+}
+
+.is-rwd-small .g-footer {
+  font-size: 14px;
+  text-align: center;
+  li {
+    border-bottom: 1px solid #373737;
+  }
+  .g-footer_copyright,
+  a {
+    display: block;
+    padding: 10px 0 9px;
+  }
+}

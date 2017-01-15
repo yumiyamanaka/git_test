@@ -1,0 +1,15 @@
+.home-facebook {
+  padding: 38px 10px;
+  background-color: #edeff4;
+  font-size: 20px;
+  text-align: center;
+
+  .home-facebook_inner {
+    margin: 0 auto;
+    max-width: 964px;
+  }
+
+  @include applyDeviceWidth480 {
+    padding: 20px 10px;
+  }
+}

@@ -1,0 +1,104 @@
+.allyear-item {
+  $prefix: allyear-item;
+
+  height: 202px;
+  background-color: #fff8ce;
+  border-radius: 4px;
+
+  .#{$prefix}_inner {
+    display: table;
+    width: 100%;
+  }
+
+  .#{$prefix}_content {
+    display: table-row;
+  }
+
+  figure,
+  .#{$prefix}_text {
+    display: table-cell;
+    vertical-align: middle;
+  }
+
+  .#{$prefix}_text {
+    padding: 0 10px 0 0;
+  }
+
+  figure {
+    padding: 0 5px 0 10px;
+    width: 128px;
+    height: 202px;
+  }
+
+  h3 {
+    font-size: 14px;
+    line-height: 1.285;
+    font-weight: bold;
+  }
+
+  a {
+    overflow: hidden;
+    display: block;
+    margin-top: 4px;
+    width: 90px;
+    height: 22px;
+    background: url(/shared/img/button/more_01.png) no-repeat 0 0;
+    text-indent: -9999px;
+    &:focus,
+    &:hover {
+      background-position: 0 -22px;
+    }
+  }
+
+  @include applyDeviceWidth480 {
+    height: auto;
+    background-color: transparent;
+    text-align: center;
+
+    .#{$prefix}_inner {
+      display: block;
+      margin: 0 12px;
+      width: auto;
+      text-align: center;
+    }
+
+    .#{$prefix}_content {
+      display: block;
+    }
+
+    figure,
+    .#{$prefix}_text {
+      display: block;
+      padding: 0;
+    }
+
+    figure {
+      margin: 0 12px;
+      width: auto;
+      height: auto;
+      img {
+        width: 100%;
+        height: auto;
+      }
+    }
+
+    h3 {
+      margin-top: 5px;
+      font-size: 12px;
+    }
+    
+    a {
+      margin-right: auto;
+      margin-left: auto;
+      width: 100px;
+      height: 27px;
+      background: url(/shared/img/button/more_03.png) no-repeat 0 0;
+      -webkit-background-size: 100px 27px;
+      background-size: 100px 27px;
+      &:focus,
+      &:hover {
+        background-position: 0 0;
+      }
+    }
+  }
+}

@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <title>9月9日はポップコーンの日キャンペーン｜ジャパンフリトレー株式会社</title>
+    <meta property="og:title" content="9月9日はポップコーンの日キャンペーン｜ジャパンフリトレー株式会社" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.fritolay.co.jp/campaign/0909popcorn_day/" />
+    <meta property="og:site_name" content="9月9日はポップコーンの日キャンペーン｜ジャパンフリトレー株式会社" />
+    <meta property="og:description" content="9月9日はポップコーンの日！マイクでHAPPY！毎日当たるマイクポップコーンキャンペーン。Twitterからどなたでもご応募できます。" />
+    <meta property="og:image" content="http://www.fritolay.co.jp/campaign/0909popcorn_day/banner_og.jpg" />
+    <meta name="keywords" content="Twitter,毎日当たる,9月9日はポップコーンの日キャンペーン,ポップコーンの日,フリトレー, ジャパンフリトレー, frito-lay, ドリトス, チートス, 元祖たこやき亭, リッチギザ, マイクポップコーン, ポップコーン" />
+    <meta name="description" content="9月9日はポップコーンの日！マイクでHAPPY！毎日当たるマイクポップコーンキャンペーン。Twitterからどなたでもご応募できます。" />
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.fritolay.co.jp/favicon.ico" />
+    <link rel="stylesheet" href="/shared/css/layout/layout.css"/>
+    <link rel="stylesheet" href="/shared/css/components/components.css"/>
+    <link rel="stylesheet" href="/shared/css/cmn_layout.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <!--#include virtual="/inc/head-script.html" -->
+  </head>
+  <body class="page-campaign">
+    <div class="g-outer is-rwd-def"><!--#include virtual="../../inc/g-header.html" -->
+      <div class="g-layout with-rwd">
+        <article class="g-layout_main">
+          <section class="page-main">
+			<div class="page-main_inner">
+
+				<section id="mainImg">
+					<div class="mainImg_in">
+						<div class="sectionInner">
+							<div class="mainImg_inner">
+								<p class="ribbon"><img src="img/img_main01.png" alt="ポップコーンの日 pop corn day"></p>
+								<p class="ribbon_btn"><a href="/ourbrands/mike/#pop-1"><img src="/campaign/0909popcorn_day/img/btn_main01_no.png" alt="「ポップコーンの日」って何？" class="over"></a></p>
+								<h1 class="pc"><img src="/campaign/0909popcorn_day/img/img_main02.png" alt="#9月9日はポップコーンの日 マイクでHAPPY！！毎日当たる マイクポップコーンキャンペーン Twitterからどなたでも応募できます！"></h1>
+								<h1 class="sp"><img src="/campaign/0909popcorn_day/img/img_main02_sp.png" alt="#9月9日はポップコーンの日 マイクでHAPPY！！毎日当たる マイクポップコーンキャンペーン Twitterからどなたでも応募できます！"></h1>
+								<p class="btn"><a href="#link01"><span></span><img src="/campaign/0909popcorn_day/img/txt_main_circle.png" alt="今すぐ参加する"></a></p>
+							</div>
+						</div>
+					</div>
+				</section><!-- /mainimg -->
+				<div id="mainImg_in_sub">
+					<div class="mainImg_in_sub_in">
+						<p class="txt"><img src="/campaign/0909popcorn_day/img/txt_main01.png" alt="2016年9月9日（金）9:09～11月9日（水）23:59まで"></p>
+					</div>
+				</div>
+
+				<section id="section01">
+					<div class="sectionInner">
+						<div class="sectionContents secIn01">
+							<ul>
+								<li>
+									<p class="img"><img src="/campaign/0909popcorn_day/img/img_sec01_01.png" alt="毎日当たる！！ 抽選で毎日1名様にマイクポップコーン 9袋＋おまけ3袋プレゼント 応募期間 0:00～23:59まで"></p>
+								</li>
+								<li>
+									<p class="img"><img src="/campaign/0909popcorn_day/img/img_sec01_02.png" alt="毎月9日はスペシャルデー！！ 毎月9日（9/9、10/9、11/9）は抽選で1名様にマイクポップコーン 99袋＋おまけ9袋プレゼント 応募時間 9/9は9:09～23:59まで10/9、11/9は0:00～23:59まで"></p>
+								</li>
+							</ul>
+						</div>
+						<div class="sectionContents secIn02">
+							<p class="txt">※賞品のフレーバーはバターしょうゆ味の他、<br class="sp">その日により変動します。何が当たるかはお楽しみ！</p>
+						</div>
+					</div>
+				</section><!-- /section01 -->
+				
+				<section id="section02">
+					<div class="sectionInner">
+						<h2 class="pc"><img src="/campaign/0909popcorn_day/img/tit_sec02_01.png" alt="図解 99袋＋おまけ9袋のマイクポップコーンってこれぐらい！！"></h2>
+						<h2 class="sp"><img src="/campaign/0909popcorn_day/img/tit_sec02_01_sp.png" alt="図解 99袋＋おまけ9袋のマイクポップコーンってこれぐらい！！"></h2>
+						<div class="sectionContents secIn01">
+							<ul>
+								<li>
+									<p class="img pc"><img src="/campaign/0909popcorn_day/img/img_sec02_01.png" alt="99袋＋おまけ9袋"></p>
+									<p class="img sp"><img src="/campaign/0909popcorn_day/img/img_sec02_01_sp.png" alt="99袋＋おまけ9袋"></p>
+								</li>
+								<li>
+									<p class="img pc"><img src="/campaign/0909popcorn_day/img/img_sec02_02.png" alt="地上最強肉食獣ホッキョクグマ 身長約200cm"></p>
+									<p class="img sp"><img src="/campaign/0909popcorn_day/img/img_sec02_02_sp.png" alt="地上最強肉食獣ホッキョクグマ 身長約200cm"></p>
+								</li>
+								<li>
+									<p class="img pc"><img src="/campaign/0909popcorn_day/img/img_sec02_03.png" alt="キングサイズベッド(約2.7㎡) 縦205cm 横180cm"></p>
+									<p class="img sp"><img src="/campaign/0909popcorn_day/img/img_sec02_03_sp.png" alt="キングサイズベッド(約2.7㎡) 縦205cm 横180cm"></p>
+								</li>
+								<li>
+									<p class="img pc"><img src="/campaign/0909popcorn_day/img/img_sec02_04.png" alt="ごはん約112杯分（約27,000kcal）"></p>
+									<p class="img sp"><img src="/campaign/0909popcorn_day/img/img_sec02_04_sp.png" alt="ごはん約112杯分（約27,000kcal）"></p>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</section><!-- /section02 -->
+
+				<section id="section03">
+					<div class="sectionInner">
+						<h2><img src="/campaign/0909popcorn_day/img/tit_sec03_01.png" alt="今すぐTwitterから応募してマイクポップコーンをGETしよう!！"></h2>
+					</div>
+				</section><!-- /section03 -->
+
+				<section id="section04">
+					
+					<div class="sectionInner">
+					<div class="anchor" id="link01"></div>
+						<div class="sec01">
+							<h3 class="pc"><img src="/campaign/0909popcorn_day/img/tit_sec03_02.png" alt="キャンペーン参加方法"></h3>
+							<h3 class="sp"><img src="/campaign/0909popcorn_day/img/tit_sec03_02_sp.png" alt="キャンペーン参加方法"></h3>
+							<div class="sectionContents secIn01">
+								<div class="sectionContentsIn">
+									<p class="txt pc"><img src="/campaign/0909popcorn_day/img/txt_sec03_01.png" alt="Twitter公式アカウント@mikepopcorn_cp をフォロー"></p>
+									<p class="txt sp"><img src="/campaign/0909popcorn_day/img/txt_sec03_01_sp.png" alt="Twitter公式アカウント@mikepopcorn_cp をフォロー"></p>
+		
+									<p class="img pc"><img src="/campaign/0909popcorn_day/img/img_sec03_01.png" alt="QRコード"></p>
+		
+									<p class="btn pc"><a href="https://twitter.com/mikepopcorn_CP" target="_blank"><img src="/campaign/0909popcorn_day/img/btn_sec03_01.png" alt="フォローする"></a></p>
+									<p class="btn sp"><a href="https://twitter.com/mikepopcorn_CP" target="_blank"><img src="/campaign/0909popcorn_day/img/btn_sec03_01_sp.png" alt="フォローする"></a></p>
+								</div>
+							</div>
+						</div>
+
+						<div class="sec02">
+							<div class="sectionContents secIn02">
+								<div class="box">
+									<div class="lbox">
+										<p class="txt pc"><img src="/campaign/0909popcorn_day/img/txt_sec03_02.png" alt="マイクを食べながらみんなでワイワイ！POPでHAPPYなシーンを撮影"></p>
+										<p class="txt sp"><img src="/campaign/0909popcorn_day/img/txt_sec03_02_sp.png" alt="例"></p>
+										<p class="img"><img src="/campaign/0909popcorn_day/img/img_sec03_02.jpg" alt="例"></p>
+									</div>
+									<div class="rbox">
+										<p class="txt pc"><img src="/campaign/0909popcorn_day/img/txt_sec03_03.png" alt="「マイクポップコーンをみんなで楽しみたい時はどんな時？」をコメント"></p>
+										<p class="txt sp"><img src="/campaign/0909popcorn_day/img/txt_sec03_03_sp.png" alt="例 子供の誕生日パーティーにみんなでワイワイ食べたい！"></p>
+										<p class="img"><img src="/campaign/0909popcorn_day/img/img_sec03_03.jpg" alt="例 子供の誕生日パーティーにみんなでワイワイ食べたい！"></p>
+									</div>
+								</div>
+							</div>
+							<div class="linkarea">
+								<p class="txt">★撮影かコメントのどちらかでOK！<br class="sp">また、<a href="#" class="js-modal">応募規約</a>を必ずご一読の上、ご応募ください。</p>
+							</div>
+						</div>
+
+						<div class="sec03">
+							<div class="sectionContents secIn03">
+								<div class="sectionContentsIn">
+									<p class="txt pc"><img src="/campaign/0909popcorn_day/img/txt_sec03_04.png" alt="ハッシュタグ【#9月9日はポップコーンの日】をつけて写真またはコメントを投稿！"></p>
+									<p class="txt sp"><img src="/campaign/0909popcorn_day/img/txt_sec03_04_sp.png" alt="ハッシュタグ【#9月9日はポップコーンの日】をつけて写真またはコメントを投稿！"></p>
+									<p class="img"><img src="/campaign/0909popcorn_day/img/img_sec03_04.png" alt=""></p>
+								</div>
+							</div>
+						</div>
+
+						<div class="sec04">
+							<h3 class="pc"><img src="/campaign/0909popcorn_day/img/tit_sec03_03.png" alt="応募概要"></h3>
+							<h3 class="sp"><img src="/campaign/0909popcorn_day/img/tit_sec03_03_sp.png" alt="応募概要"></h3>
+							<div class="sectionContents secIn04">
+								<h4 class="pc"><img src="/campaign/0909popcorn_day/img/subtit_sec03_01.png" alt="応募方法"></h4>
+								<h4 class="sp"><img src="/campaign/0909popcorn_day/img/subtit_sec03_01_sp.png" alt="応募方法"></h4>
+								<p class="txt01">「マイクを食べながらみんなでワイワイ！POPでHAPPYなシーン」の写真、もしくは「マイクポップコーンをみんなで楽しみたい時はどんな時？」をコメントし、ハッシュタグ（＃9月9日はポップコーンの日）をつけてツイートしてください。<br>
+								ツイートしていただいた方の中から抽選で、応募期間中毎日１名様にマイクポップコーン9袋（+おまけ3袋）が当たります。<br>
+								また、毎月9スペシャルデー！9月9日(金）、10月9日(日）、11月9日(水）は、抽選で1名様に99袋（+おまけ9袋）が当たります。</p>
+								<p class="txt02">※応募の際は必ず、事前にマイクポップコーンキャンペーン公式Twitterアカウント「＠mikepopcorn_cp」をフォローしてください。</p>
+								<p class="txtEmphasis"><span>【応募期間】2016年9月9日（金）9：09～<br class="sp">2016年11月9日（水）23：59まで</span></p>
+								<p class="txt01">■応募時間のご注意<br>
+								9月9日（金）は9：09～23：59まで 、9月10日（土）～11月9日（水）は0：00～23：59までとなります。</p>
+								<p class="txt02">※スペシャルデーは、2016年9月9日（金）9：09～23：59、10月9日（日）、11月9日（水）0：00～23：59まで </p>
+
+
+								<h4 class="pc"><img src="/campaign/0909popcorn_day/img/subtit_sec03_02.png" alt="賞品/当選人数"></h4>
+								<h4 class="sp"><img src="/campaign/0909popcorn_day/img/subtit_sec03_02_sp.png" alt="賞品/当選人数"></h4>
+								<p class="txt01">マイクポップコーン9袋（+おまけ3袋）1日1名様</p>
+								<p class="txt02">※スペシャルデー 9月9日（金）、10月9日（日）、11月9日（水）は、99袋（+おまけ9袋）各日1名様<br>
+								※賞品の「フレーバー」はバターしょうゆ味の他、その日により変動します。何が当たるかはお楽しみ！</p>
+
+
+								<h4 class="pc"><img src="/campaign/0909popcorn_day/img/subtit_sec03_03.png" alt="抽選・当選者発表"></h4>
+								<h4 class="sp"><img src="/campaign/0909popcorn_day/img/subtit_sec03_03_sp.png" alt="抽選・当選者発表"></h4>
+								<p class="txt01">当選された方には応募締切後、厳正なる抽選の上、Twitterのダイレクトメッセージ（ＤＭ）にてご連絡いたします（原則、応募日より約5～10日以内にご連絡いたします）。お送りするDM内に商品発送のために必要な情報をご入力いただくフォームをご連絡いたしますので、必ず期限内にご回答ください。</p>
+								<p class="txt02">※キャンペーン事務局よりDM送付後、ご連絡が10日以内にない場合は当選を無効とさせていただきますのでご注意ください。<br>
+								※ 当キャンペーンについてのご質問や当選結果など、Twitterリプライでの個別のお問い合わせは受け付けておりませんのでご了承ください。<br>
+								※当選連絡を受け取れなかったり、DMの閲覧をお忘れになった場合は当選を無効とさせていただきます。ご了承ください。</p>
+								<p class="txt02">※賞品の発送は日本国内に限ります。</p>
+							</div>
+						</div>
+
+						<div class="sec05">
+							<h3 class="pc"><img src="/campaign/0909popcorn_day/img/tit_sec03_04.png" alt="キャンペーン注意事項"></h3>
+							<h3 class="sp"><img src="/campaign/0909popcorn_day/img/tit_sec03_04_sp.png" alt="キャンペーン注意事項"></h3>
+							<div class="sectionContents secIn05">
+								<ul class="notesList">
+									<li>●当キャンペーンへ応募されたお客様は<a href="" class="js-modal" data-index="modal-pop1">応募規約</a>に全て同意したものとみなします。</li>
+									<li>●投稿にはTwitterへの登録が必要となります。登録及び詳細はTwinaviをご覧下さい。</li>
+									<li>●投稿頂いた内容はTwitterタイムラインに表示されます。</li>
+									<li>●当選者の決定前に＠mikepopcorn_cpのフォローを解除されると当選の対象外となります。</li>
+									<li>●すでに＠mikepopcorn_cpをフォローされている場合は、改めてフォローする必要はありません。</li>
+									<li>●賞品の発送方法については、当選通知のダイレクトメッセージ（DM）に記載致します。</li>
+									<li>●当選で獲得された権利は、他の人に譲渡することはできません。</li>
+									<li>●当選者用の入力フォームを他者に共有した場合、当選が無効となります。</li>
+									<li>●ツイートの際に「#9月9日はポップコーンの日」のハッシュタグをつけていない場合は、抽選対象外となります。</li>
+									<li>●Twitterアカウントを非公開設定にしている場合は抽選対象外となります。</li>
+									<li>●賞品の発送先は日本国内に限らせていただきます。</li>
+									<li>●賞品を発送後、配送会社が定める受取期間内にお受け取りいただけなかった場合は発送元に返送されます。再発送は出来かねますので、ご了承ください。</li>
+									<li>●接続料・通信料はお客様のご負担となります。お客様がご契約されているプランによって料金は変動します。</li>
+									<li>●ネットワーク環境等の不具合により投稿ができないことがあった場合、 本キャンペーンに対して一切の責任を負いかねますので予めご了承ください。</li>
+
+								</ul>
+							</div>
+						</div>
+
+						<div class="sec06">
+							<h3 class="pc"><img src="/campaign/0909popcorn_day/img/tit_sec03_05.png" alt="個人情報の取り扱いについて"></h3>
+							<h3 class="sp"><img src="/campaign/0909popcorn_day/img/tit_sec03_05_sp.png" alt="個人情報の取り扱いについて"></h3>
+							<div class="sectionContents">
+								<p class="txt01">当選の際、ご記入いただきました個人情報は、賞品の抽選・発送・および個人 を特定しない形での統計データのためにのみ利用させていただきます。 また、法令に定める場合を除き、ご本人様の承諾なしに第三者（業務委託先を除く）に提供することはございません。</p>
+								<p class="txt02">※不正アクセスについて<br>
+								当社は、本サイトの運営にあたり、ご利用者の個人情報を安全に管理するため鋭意努力致しますが、通信上のリスクはご理解の上、本サイトをご利用頂きます様お願いします。 万が一、第三者の違法行為により、ご利用者の個人情報が漏洩してしまった場合については、当社に過失が無い限り一切の責任を負いかねます。</p>
+								<p class="txt03">その他ご利用者の個人情報の取扱いに関する上記以外の事項につきましては、当社プライバシー・ポリシーをご参照ください。<br>
+								<a href="/privacy/">http://www.fritolay.co.jp/privacy/</a><br>
+								当社は、法令の改正及び当社の業務内容の変更などに応じて、本規約の内容を改定致します。</p>
+							</div>
+						</div>
+
+						<div class="sec07">
+							<h3 class="pc"><img src="/campaign/0909popcorn_day/img/tit_sec03_06.png" alt="お問い合わせ"></h3>
+							<h3 class="sp"><img src="/campaign/0909popcorn_day/img/tit_sec03_06_sp.png" alt="お問い合わせ"></h3>
+							<div class="sectionContents">
+								<p class="txt01">「マイクでHAPPY！毎日当たるマイクポップコーン キャンペーン」事務局</p>
+								<p class="txtEmphasis"><span class="txt01">0120-72-2321</span><br class="sp"><span class="txt02">平日10：00～17：00 （土・日・祝日を除く）</span></p>
+							</div>
+						</div>
+						<section class="sec08">
+							<div class="sectionInner">
+								<div class="pc">
+									<p class="bnr"><a href="/ourbrands/mike/"><img src="img/bnr_sec04_02_pc_no.jpg" alt="マイクポップコーンページはこちら" class="over"></a></p>
+								</div>
+								<div class="sp">
+									<p class="bnr"><a href="/ourbrands/mike/"><img src="img/bnr_sec04_02_sp.jpg" alt="マイクポップコーンページはこちら"></a></p>
+								</div>
+							</div>
+						</section>
+					</div>
+				</section><!-- /section04 -->
+
+				<section class="module-modal">
+					<div id="modal-pop1" class="modal-item">
+						<div class="modalInner">
+							<h3><img src="/campaign/0909popcorn_day/img/tit_modal_01.png" alt="応募規約"></h3>
+							<div class="modalContents">
+								<div id="sec01" class="sec">
+									<p class="txt">ジャパンフリトレー株式会社（以下「当社」という）のTwitterにおいてサービスを利用される方（以下「ご利用者」という）は、当キャンペーンに応募される前に以下の応募規約をお読み頂き、ご了承の上ご応募ください。<br>
+									当キャンペーンへ応募されたお客様は本規約に同意したものとみなし、本規約が当社との間で適用されます。また、当キャンペーンの運営は当社が行い、 Twitterが後援、支持、または運営するものではございません。詳細につきましては下記をご覧ください。</p>
+								</div>
+								<div id="sec02" class="sec">
+									<h4 class="pc"><img src="/campaign/0909popcorn_day/img/tit_modal_02.png" alt="サービス概要"></h4>
+									<h4 class="sp"><img src="/campaign/0909popcorn_day/img/tit_modal_02_sp.png" alt="サービス概要"></h4>
+									<p class="txt">マイクポップコーン9袋（+おまけ3袋）1日1名様</p>
+									<p class="txt02">※スペシャルデー 9月9日（金）、10月9日（日）、11月9日（水）は、99袋（+おまけ9袋）各日1名様<br>
+									※賞品の「フレーバー」はバターしょうゆ味の他、その日により変動します。何が当たるかはお楽しみ！</p>
+								</div>
+								<div id="sec03" class="sec">
+									<h4 class="pc"><img src="/campaign/0909popcorn_day/img/tit_modal_03.png" alt="注意事項"></h4>
+									<h4 class="sp"><img src="/campaign/0909popcorn_day/img/tit_modal_03_sp.png" alt="注意事項"></h4>
+									<ul>
+										<li>※投稿されたすべての写真の著作権は当社に帰属します。また、ご利用者は本キャンペーンへ投稿した写真について、著　作者人格権を主張しないことに同意するものとします。</li>
+										<li>※未成年の方が投稿するには、保護者の方の同意が必要になります。投稿された場合は、同意事項のすべてに保護者　が同意したものとみなします。</li>
+										<li>※投稿はご利用者本人が撮影された画像に限ります。</li>
+										<li>※投稿にかかる際の通信料は、ご利用者の負担となります。</li>
+										<li>※作品内で確認できる対象物によって肖像権や著作権等の第三者の権利侵害があった場合、当社は一切責任を負いません。ご利用者は、ご自身の責任での投稿をお願いいたします。ご利用者の投稿に起因して当社または第三者が苦情等を受けた場合、当該苦情等の解決に要した費用をご利用者に負担して頂く場合があります。</li>
+										<li>※すべての投稿は、当社が広報・PR・広告宣伝・プロモーション・各種イベント等の用途に限り、作品の一部を修正または改変して、無償で自由に使用できるものとします。その場合、ご利用者は著作者人格権を一切主張しないものとします。</li>
+										<li>※投稿テーマの内容と合っていないもの、公序良俗に反しているもの、第三者の権利を侵害するおそれのあるもの、その他当社事務局が不適切だと判断した場合、抽選対象外となります。なお、抽選対象外の理由については一切開示いたしません。</li>
+									</ul>
+								</div>
+								<div id="sec04" class="sec">
+									<h4 class="pc"><img src="/campaign/0909popcorn_day/img/tit_modal_04.png" alt="禁止事項"></h4>
+									<h4 class="sp"><img src="/campaign/0909popcorn_day/img/tit_modal_04_sp.png" alt="禁止事項"></h4>
+									<p class="txt">本キャンペーンへの応募に際し、以下の行為を禁止します。</p>
+									<ul>
+										<li>・応募規約に違反する行為</li>
+										<li>・当キャンペーンの運営を妨げる行為</li>
+										<li>・他人に迷惑、不利益、損害または不快感を与える行為</li>
+										<li>・他人を誹謗中傷し、またはその名誉若しくは信用を毀損する行為</li>
+										<li>・他人の著作権その他の知的財産権を侵害する行為</li>
+										<li>・他人の財産、プライバシー若しくは肖像権を侵害する行為</li>
+										<li>・わいせつ、児童ポルノ及び児童の性的搾取を助長するデータを投稿する行為</li>
+										<li>・営利を目的とした情報提供、広告宣伝もしくは勧誘行為</li>
+									</ul>
+								</div>
+							</div>
+							<div class="modalContentsClose">
+								<p class="btn btns"><a href="#" class="close"><img src="/campaign/0909popcorn_day/img/ico_modal_02.png" alt="閉じる"></a></p>
+							</div>
+							<p class="module-button-close"><a href="#"><img src="/campaign/0909popcorn_day/img/ico_modal_01.png" alt="閉じる"></a></p>
+						</div>
+					</div>
+				</section>
+
+				<div class="module-modal-shadow"></div>
+            </div><!-- /page-main_inner -->
+          </section><!-- /page-main -->
+        </article><!-- /g-layout_main -->
+        <p class="pageTop"><a href="#">PageTop</a></p>
+      </div><!--#include virtual="../../inc/g-footer.html" -->
+    </div>
+
+    <script src="/shared/js/jquery.min.js"></script>
+    <script src="/shared/js/script.min.js"></script>
+	<script src="/shared/js/common.js"></script>
+	<script src="../../shared/js/jQueryAutoHeight.js"></script>
+	<script src="js/grandprix.js"></script>
+	<script>
+		$(function(){
+		});
+	</script>
+  </body>
+</html>

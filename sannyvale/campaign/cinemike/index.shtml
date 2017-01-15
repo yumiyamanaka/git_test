@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <title>シネマイク発売開始！｜ジャパンフリトレー株式会社</title>
+    <meta property="og:title" content="シネマイク発売開始！｜ジャパンフリトレー株式会社" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.fritolay.co.jp/index.html" />
+    <meta property="og:site_name" content="シネマイク発売開始！｜ジャパンフリトレー株式会社" />
+    <meta property="og:description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <meta property="og:image" content="http://www.fritolay.co.jp/common/img/fb/tn_jfl.jpg" />
+    <meta name="keywords" content="フリトレー, ジャパンフリトレー, frito-lay, ドリトス, チートス, 元祖たこやき亭, リッチギザ, マイクポップコーン, ポップコーン" />
+    <meta name="description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.fritolay.co.jp/favicon.ico" />
+    <link rel="stylesheet" href="/shared/css/layout/layout.css"/>
+    <link rel="stylesheet" href="/shared/css/components/components.css"/>
+    <link rel="stylesheet" href="/shared/css/cmn_layout.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <!--#include virtual="/inc/head-script.html" -->
+  </head>
+  <body class="page-campaign">
+    <div class="g-outer is-rwd-def"><!--#include virtual="../../inc/g-header.html" -->
+      <div class="g-layout with-rwd">
+        <article class="g-layout_main">
+          <div class="page-header">
+            <div class="page-header_inner">
+              <div class="breadcrumb">
+                <ul>
+                  <li class="breadcrumb_home"><a href="/">TOP</a></li>
+				  <li class="campaign"><a href="/campaign/">キャンペーン</a></li>
+                  <li>シネマイク発売中！</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <section class="page-main">
+			<div class="page-main_inner">
+				<div id="mainimg">
+					<img class="pc" src="img/mainimg01.jpg" alt="シネマイク発売開始！2014年8月1日(金)より全国TOHOシネマズ63劇場でスタート！！"/>
+					<img class="sp" src="img/mainimg01_sp.jpg" alt="シネマイク発売開始！2014年8月1日(金)より全国TOHOシネマズ63劇場でスタート！！"/>
+					<p class="btnCheck01">
+						<a href="http://www.tohocinemas.co.jp/theater/index.html" target="_blank">
+							<img src="img/btn_check01.png" alt="シネマイクのあるTOHOシネマズの劇場をcheck!!"/>
+						</a>
+					</p>
+				</div>
+				<section id="section01" class="secCinemike01">
+					<h2><img src="img/img_title01.png" alt="「シネマイク」とは？"/></h2>
+					<div class="inner">
+						<p class="read">『シネマイク』は、ポップコーンNo.1ブランド「マイクポップコーン」と<br>シネコンNo.1を誇る「TOHOシネマズ」との<br>No.1同士のコラボレーションによる新しいプロジェクトです。</p>
+						<p class="pic pc"><img src="img/pic_cinemike01.png" alt="マイクポップコーン×TOHOシネマズ"/></p>
+						<p class="pic sp"><img src="img/pic_cinemike01_sp.png" alt="マイクポップコーン×TOHOシネマズ"/></p>
+						<p class="text">映画館で食べる「ポップコーン」のおいしさ、映画館で「ポップコーン」を食べる文化をもっと広めることを目的として立ち上げました。<br>
+						できたてのあたたかい「ポップコーン」の香ばしい香りは、今では映画館と切っても切れない関係となっています。<br>
+						『シネマイク』では、ロングセラーブランド「マイクポップコーン」の開発ノウハウを駆使し、定番モノから企業コラボモノまで様々なフレーバーを定期的に切り替え、豊富なバリエーションとなる「フレーバーポップコーン」を続々提供していきます。</p>
+						<p class="btnCheck02">
+							<a href="http://www.tohocinemas.co.jp/theater/index.html" target="_blank">
+								<img src="img/btn_check02.png" alt="シネマイクのあるTOHOシネマズ劇場をcheck"/>
+							</a>
+						</p>
+					</div>
+				</section>
+				<section id="section02" class="secCinemike01">
+					<h2><img src="img/img_title02.png" alt="フレーバー紹介"/></h2>
+					<div class="inner">
+						<ul class="listFlavor">
+							<li class="flavor01">
+								<p class="figure pc"><img src="img/pic_flavor01.jpg" alt="北海道バターしょうゆ味 ※味のイメージ写真"/></p>
+								<p class="figure sp"><img src="img/pic_flavor01_sp.png" alt="北海道バターしょうゆ味 ※味のイメージ写真"/></p>
+								<p class="desc">『シネマイク』の元となる「マイクポップコーン」のメインフレーバー。『シネマイク』では、北海道産のバターを使用し、リッチな味に仕上げました。風味豊かなバターのコク、しょうゆのまろやかなうまみがマッチした飽きのこないお子様から年配まで幅広い年代の方におなじみの味わいです。</p>
+							</li>
+							<li class="flavor02">
+								<p class="figure pc"><img src="img/pic_flavor02.jpg" alt="かねふく明太子マヨネーズ味 ※味のイメージ写真"/></p>
+								<p class="figure sp"><img src="img/pic_flavor02_sp.png" alt="かねふく明太子マヨネーズ味 ※味のイメージ写真"/></p>
+								<p class="desc">明太子のトップメーカー「かねふく」とコラボしたフレーバー。フレーバーには、実際に「かねふくの明太子」を使用しています。明太子の旨味とマヨネーズのコクがベストマッチの一品です。</p>
+							</li>
+							<li class="flavor03">
+								<p class="figure pc"><img src="img/pic_flavor03.jpg" alt="ムラオカの梅しば ※味のイメージ写真"/></p>
+								<p class="figure sp"><img src="img/pic_flavor03_sp.png" alt="ムラオカの梅しば ※味のイメージ写真"/></p>
+								<p class="desc">「ムラオカの梅しば」とのコラボレーションフレーバー。<br>
+								ふんわりサクサクしたポップコーンの食感と、さっぱりとしたカリカリ梅の味わいがよく合います。</p>
+							</li>
+							<li class="flavor04">
+								<p class="figure pc"><img src="img/pic_flavor04.jpg" alt="キャラメルコーヒー味 ※味のイメージ写真"/></p>
+								<p class="figure sp"><img src="img/pic_flavor04_sp.png" alt="キャラメルコーヒー味 ※味のイメージ写真"/></p>
+								<p class="desc">映画「零」とのタイアップで生まれた期間限定の味が人気にこたえて定番に。ほろ苦いコーヒーの風味がキャラメルをよりひきたてます。</p>
+							</li>
+						</ul>
+					</div>	
+				</section>
+				<section id="section03">
+					<ul id="mikeArea">
+						<li class="mike01">
+							<div class="pic"><img src="img/pic_mike_popcorn01.jpg" alt="マイクポップコーン、"/></div>
+							<p class="btn01"><a href="/ourbrands/mike/"><img src="img/btn_mike_popcorn01.gif" alt="詳しく見る "/></a></p>
+						</li>
+						<li class="mike02">
+							<div class="pic"><img src="img/pic_mike_popcorn02.jpg" alt="ポップコーンの歴史"/></div>
+							<p class="btn02"><a href="/ourbrands/mike/history/"><img src="img/btn_mike_popcorn02.gif" alt="詳しく見る "/></a></p>
+						</li>
+					</ul>
+				</section>					
+            </div>
+          </section>
+        </article>
+        <p class="pageTop"><a href="#">PageTop</a></p>
+      </div><!--#include virtual="../../inc/g-footer.html" -->
+    </div>
+    <script src="/shared/js/jquery.min.js"></script>
+    <script src="/shared/js/script.min.js"></script>
+	<script src="/shared/js/common.js"></script>
+  </body>
+</html>

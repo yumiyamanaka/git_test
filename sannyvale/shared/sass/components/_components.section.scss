@@ -1,0 +1,143 @@
+.texture-base {
+  background: #fbf3d0 url(/shared/img/layout/texture_all.png) repeat center 0;
+  .texture-base-in {
+    display: block;
+    position: relative;
+    top: -8px;
+    z-index: 0;
+    height: 8px;
+    background: url(/shared/img/layout/line_all.png) repeat-x center 0;
+  }
+  .texture-base-out {
+    display: block;
+    position: relative;
+    bottom: -8px;
+    z-index: 0;
+    height: 8px;
+    background: url(/shared/img/layout/line_all.png) repeat-x center bottom;
+  }
+
+  @include applyDeviceWidth480 {
+    .texture-base-in {
+      top: -7px;
+      height: 8px;
+      background: url(/shared/img/layout/line_all_sp.png) repeat-x center 0;
+    }
+    .texture-base-out {
+      bottom: -7px;
+      height: 8px;
+      background: url(/shared/img/layout/line_all_sp.png) repeat-x center bottom;
+    }
+  }
+
+  &.is-texture-style-home {
+    background: #ffda06 url(/shared/img/layout/texture_home.png) repeat center 0;
+    .texture-base-in {
+      background: url(/shared/img/layout/line_home.png) repeat-x center 0;
+    }
+    .texture-base-out {
+      background: url(/shared/img/layout/line_home.png) repeat-x center bottom;
+    }
+
+    @include applyDeviceWidth480 {
+      .texture-base-in {
+        top: -7px;
+        height: 8px;
+        background: url(/shared/img/layout/line_home_sp.png) repeat-x center 0;
+      }
+      .texture-base-out {
+        bottom: -7px;
+        height: 8px;
+        background: url(/shared/img/layout/line_home_sp.png) repeat-x center bottom;
+      }
+    }
+  }
+
+  &.is-texture-style-doritos {
+    background: #c90915 url(/shared/img/layout/texture_doritos.png) repeat center 0;
+    .texture-base-in {
+      background: url(/shared/img/layout/line_doritos.png) repeat-x center 0;
+    }
+    .texture-base-out {
+      background: url(/shared/img/layout/line_doritos.png) repeat-x center bottom;
+    }
+  }
+
+  &.is-texture-style-cheetos {
+    background: #f29700 url(/shared/img/layout/texture_cheetos.png) repeat center 0;
+    .texture-base-in {
+      background: url(/shared/img/layout/line_cheetos.png) repeat-x center 0;
+    }
+    .texture-base-out {
+      background: url(/shared/img/layout/line_cheetos.png) repeat-x center bottom;
+    }
+  }
+
+  &.is-texture-style-mike {
+    background: #008cd6 url(/shared/img/layout/texture_mike.png) repeat center 0;
+    .texture-base-in {
+      background: url(/shared/img/layout/line_mike.png) repeat-x center 0;
+    }
+    .texture-base-out {
+      background: url(/shared/img/layout/line_mike.png) repeat-x center bottom;
+    }
+  }
+}
+
+.page-header {
+  $prefix: page-header;
+  margin-bottom: 8px;
+  background: url(/shared/img/layout/texture_all.png) repeat center 0;
+
+  .#{$prefix}_inner {
+    margin: 0 auto;
+    padding: 5px 0 20px;
+    width: 100%;
+  }
+
+  .#{$prefix}_title {
+    @include clearfix();
+    position: relative;
+    text-align: center;
+    h1 {
+      overflow: hidden;
+      line-height: 1.2;
+      padding: 10px 0;
+      font-size: 38px;
+      letter-spacing: -2px;
+      color: #492505;
+      text-indent: -9999px;
+    }
+  }
+
+  &:after {
+    position: relative;
+    display: block;
+    content: "";
+    top: 8px;
+    height: 8px;
+    background: url(/shared/img/layout/line_all.png) repeat-x 0 bottom;
+  }
+
+  @include applyDeviceWidth480 {
+    .#{$prefix}_inner {
+      margin: 0;
+      padding: 5px 10px 0;
+      width: auto;
+    }
+
+    .#{$prefix}_title {
+      h1 {
+        overflow: visible;
+        padding: 0;
+        font-size: 21px;
+      }
+    }
+
+    &:after {
+      top: 7px;
+      height: 7px;
+      background: url(/shared/img/layout/line_all_sp.png) repeat-x 0 bottom;
+    }
+  }
+}

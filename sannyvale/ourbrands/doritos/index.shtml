@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>ドリトス｜OUR BRANDS｜ジャパンフリトレー株式会社</title>
+<meta property="og:title" content="ドリトス｜OUR BRANDS｜ジャパンフリトレー株式会社" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.fritolay.co.jp/index.html" />
+<meta property="og:site_name" content="ドリトス｜OUR BRANDS｜ジャパンフリトレー株式会社" />
+<meta property="og:description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+<meta property="og:image" content="http://www.fritolay.co.jp/common/img/fb/tn_jfl.jpg" />
+<meta name="keywords" content="フリトレー, ジャパンフリトレー, frito-lay, ドリトス, チートス, 元祖たこやき亭, リッチギザ, マイクポップコーン, ポップコーン" />
+<meta name="description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+<link rel="shortcut icon" type="image/x-icon" href="http://www.fritolay.co.jp/favicon.ico" />
+<link rel="stylesheet" href="/shared/css/layout/layout.css"/>
+<link rel="stylesheet" href="/shared/css/components/components.css"/>
+<link rel="stylesheet" href="/shared/css/cmn_layout.css"/>
+<link rel="stylesheet" href="css/style.css"/>
+<!--#include virtual="/inc/head-script.html" -->
+</head>
+<body class="page-ourbrands">
+<div class="g-outer is-rwd-mid"><!--#include virtual="../../inc/g-header.html" -->
+	<div class="g-layout with-rwd">
+		<article class="g-layout_main">
+			<div class="page-header">
+				<div class="page-header_inner">
+					<div class="breadcrumb">
+						<ul>
+							<li class="breadcrumb_home"><a href="../../">TOP</a></li>
+							<li><a href="../">ブランド</a></li>
+							<li>ドリトス</li>
+						</ul>
+					</div>
+					<div class="page-header_title"><i></i>
+						<h1>下層ページテンプレート</h1>
+					</div>
+				</div>
+			</div>
+			<section class="page-main">
+				<div class="page-main_inner"> 
+					<!-- / -->
+					<div id="topPage" class="scrollPage section01">
+						<div class="main_renewal"><img src="img/main_renewal.png" alt=""></div>
+						<h2><img src="img/logo.png" class="wMax" alt="DIRITOS IGNITE YOU アンビゴコに火を点けろ。"/></h2>
+						<div class="topUlWrap01">
+							<ul>
+								<li class="list01"><a class="scroll" href="#whentoeat"><img src="img/thumb_whentoeat01.jpg" width="219" height="120" alt="When to eat"/>
+									<p>When to eat</p>
+									</a></li>
+								<li class="list02"><a class="scroll" href="#howtoeat"><img src="img/thumb_howtoeat01.jpg" width="219" height="120" alt="How to eat"/>
+									<p>How to eat</p>
+									</a></li>
+								<li class="list03"><a class="scroll" href="#about"><img src="img/thumb_about01.jpg" width="219" height="120" alt="About Doritos"/>
+									<p>About Doritos</p>
+									</a></li>
+								<li class="list04"><a class="scroll" href="#lineup"><img src="img/thumb_lineup01.jpg" width="219" height="120" alt="Line Up"/>
+									<p>Line Up</p>
+									</a></li>
+							</ul>
+						</div>
+					</div>
+					<div id="secondPage" class="scrollPage section01"> </div>
+					<div id="scrollBg" class="scrollPage scrollBg"> </div>
+					<div id="thirdPage" class="section01">
+						<div class="txtWrap01">
+							<div class="imgBlock01"><img src="img/pic_whentoeat01.png" class="wMax" alt="When to eat"/></div>
+							<h2 id="whentoeat">When to eat</h2>
+							<p class="fwB">パーティでも、自宅でのんびりでも、アウトドアでも。<br>
+								気のおけない仲間たちとたくさん遊んで、大笑いして。<br class="hidePc" />
+								ドリトスはそんな時いつもそばにいます。</p>
+						</div>
+					</div>
+					<div id="forthPage" class="section01">
+						<div class="txtWrap01">
+							<div class="imgBlock01"><img src="img/pic_howtoeat01.png" class="wMax" alt="How to eat"/></div>
+							<h2 id="howtoeat">How to eat</h2>
+							<p class="fwB">パリッと軽い食感のドリトスは<br class="hidePc" />
+								それだけで食べても最高のおいしさ。<br />
+								でも、ディップをのせて食べれば、<br class="hidePc" />
+								もっと最高のおいしさ。<br />
+								ドリトスとディップで、もっと楽しく、<br class="hidePc" />
+								もっとおいしく、もっと毎日を楽しもう。 </p>
+						</div>
+					</div>
+					<div id="fifthPage" class="section01">
+						<div class="w960">
+							<ul>
+								<li><img src="img/pic_howtoeat02.jpg" alt="MEXICAN RECIPES"/></li><!-- 
+								/ --><li class="doritosRecipe01">
+									<div class="txtWrap01">
+										<p>ドリトス×カゴメサルサ <br class="hidePc" />コラボレーションレシピ</p>
+										<h2>MEXICAN RECIPES</h2>
+										<p class="txtTtl01">メキシカンレシピ</p>
+										<a href="recipe/mexican_recipes2014/">詳しくはこちら</a>
+									</div>
+								</li><!-- 
+								/ --><li class="doritosRecipe02">
+									<div class="txtWrap01">
+										<p>ドリトス×楽天レシピ <br class="hidePc" />コラボレーション企画</p>
+										<h2>Doritos Recipe Contest</h2>
+										<p class="txtTtl01">ドリトスレシピコンテスト</p>
+										<a href="http://recipe.rakuten.co.jp/cp/doritos/" target="_blank"><span>楽天レシピへ</span></a>
+									</div>
+								</li><!-- 
+								/ --><li><img src="img/pic_howtoeat03.jpg" alt="Doritos Recipe Contest"/></li>
+							</ul>
+						</div>
+					</div>
+					<div id="sixthPage" class="section01">
+						<div class="w960">
+							<div class="txtWrap01">
+								<h2 id="about">About Doritos</h2>
+								<p class="fwB">ドリトスは、世界最大のスナックメーカーであるフリトレーが1966年にアメリカで発売したトルティーヤチップス。<br>
+									日本では1987年に発売され、日本スナック市場で最初にトルティーヤチップスカテゴリーを確立。<br class="hidePc" />
+									30年の長きにわたって愛され続けている、売上Ｎｏ．１トルティーヤチップスです。</p>
+								<h4 class="txtMemo01"></h4>
+								<span>&nbsp;〜ドリトスの由来 〜</span>
+								<p class="txtDesc01">ドリトスはスペイン語から派生した“小さな金塊”という意味。</p>
+								<h4 class="txtTortilla01"></h4>
+								<span>&nbsp;〜ドリトスの製法 〜</span>
+								<p class="txtDesc01">コーンをまるごとすりつぶして薄く伸ばした生地を<br />
+									オーブンで焼いてから油で揚げたスナック。<br />
+									パリッとした独特の食感と香ばしい香りが特徴。</p>
+							</div>
+						</div>
+					</div>
+					
+					<!--					<div id="seventhPage" class="section01">
+						<div class="w960">
+							<h2>TVCM</h2>
+							<div class="iframeWrap01">
+								<iframe name="videoFrame" id="videoFrame" class="videoFrame01" src="https://www.youtube.com/embed/hOKNkLh1Vmw" allowfullscreen></iframe>
+							</div>
+							<div class="ulLinkIframe01">
+								<ul>
+									<li><a class="youtubeIframe video01 current" href="https://www.youtube.com/embed/giasn1FB_l8?autoplay=1" target="videoFrame">
+										<p class="frameWrap01"><img src="img/thumb_video04.png" class="wMax" alt="Arm Wrestle編"/></p>
+										<p>Arm Wrestle編</p>
+										<span>DoritosでGO!　Arm Westle篇　30秒</span></a></li>
+									<li><a class="youtubeIframe video02" href="https://www.youtube.com/embed/yjn1pYuoevQ?autoplay=1" target="videoFrame">
+										<p class="frameWrap01"> <img src="img/thumb_video04.png" class="wMax" alt="Bear編"/> </p>
+										<p>Bear編</p>
+										<span>DoritosでGO!　Bear篇　30秒</span></a></li>
+									<li><a class="youtubeIframe video03" href="https://www.youtube.com/embed/5oIOJzNblgc?autoplay=1" target="videoFrame">
+										<p class="frameWrap01"> <img src="img/thumb_video04.png" class="wMax" alt="Sumo編"/> </p>
+										<p>Sumo編</p>
+										<span>DoritosでGO!　Sumo篇　30秒</span></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+-->
+					
+					<div id="eighthPage" class="section01">
+						<div class="w960">
+							<h2 id="lineup">Line up</h2>
+							<h3>Standard</h3>
+							<ul class="lineUpList01">
+								<li class="listLineUp01">
+									<a href="../../products/doritos_mexican_tacos/">
+									<span class="snacks-lineup_items_icon-renewal"> <img src="img/icon_renewal.png" alt="おいしくなって リニューアル" width="108" height="108"></span>
+									<img src="img/pic_lineup01.jpg" width="194" height="252" alt="Mexican Tacos"/>
+									<h4>Mexican Tacos</h4>
+									<p class="txtTtl01">メキシカン・タコス味</p>
+									<p>爽やかなトマトの酸味とパワフルな肉のうま味が本格的なタコス味。ライムの香りがアクセントでくせになるおいしさ！</p>
+									<span>商品詳細を見る</span></a> </li>
+								<li class="listLineUp02">
+									<a href="../../products/doritos_nacho_cheese/">
+									<span class="snacks-lineup_items_icon-renewal"> <img src="img/icon_renewal.png" alt="おいしくなって リニューアル" width="108" height="108"></span>						
+									<img src="img/pic_lineup02.jpg" width="194" height="251" alt="Nacho Cheese"/>
+									<h4>Nacho Cheese</h4>
+									<p class="txtTtl01">ナチョ・チーズ味</p>
+									<p>濃厚でコクのあるチーズにこだわったナチョ・チーズ味。ついつい手が伸びる後引く味わいです！</p>
+									<span>商品詳細を見る</span></a> </li>
+								<li class="listLineUp03">
+									<a href="../../products/doritos_mildsalt_1608/">
+									<span class="snacks-lineup_items_icon-renewal"> <img src="img/icon_renewal.png" alt="おいしくなって リニューアル" width="108" height="108"></span>						
+									<img src="img/pic_lineup03.jpg" width="194" height="252" alt="lightly salted"/>
+									<h4>Mild Salt</h4>
+									<p class="txtTtl01">マイルドソルト味</p>
+									<p>コーンの甘みと香ばしさを味わえるシンプルな塩味。そのまま食べてGood!ディップでもGood!</p>
+									<span>商品詳細を見る</span></a> </li>
+							</ul>
+							<h3 class="txtTtl02"></h3>
+							<div class="newSnackWrap01 snacks-lineup_items"> 
+								<!--#include virtual="/products/doritos.html" -->
+								<p class="viewMore01"><a href="#">もっと見る</a></p>
+							</div>
+						</div>
+					</div>
+					
+					<!-- / --> 
+				</div>
+			</section>
+		</article>
+		<p class="pageTop"><a href="#">PageTop</a></p>
+	</div>
+	<!--#include virtual="../../inc/g-footer.html" --> 
+</div>
+<script src="/shared/js/jquery.min.js"></script> 
+<script src="/shared/js/script.min.js"></script> 
+<script src="/shared/js/common.js"></script> 
+<script src="/shared/js/jQueryAutoHeight.js"></script> 
+<script type="text/javascript">
+	$(window).resize(function() {		
+		var wHeight = $(this).height();
+		var logo = $('#topPage h2');
+		var logo_h = 0.44*wHeight;
+		var logo_space = 0.13*wHeight;
+		if($(window).width()>480){				
+			logo.css('width',logo_h);
+			logo.css('height',logo_h);
+			logo.css('padding',logo_space);			
+			$('.scrollPage').height(wHeight);
+		}
+	});
+	function changeVideo(){
+		$('a.youtubeIframe').click(function() {
+			$('a.youtubeIframe').removeClass('current');
+			$(this).addClass('current');
+		});
+	}
+	$(document).ready(function() {
+		$(window).trigger('resize');	
+		changeVideo();	
+	});	
+    $(window).load(function() {
+        if($(window).width()>480){	
+            $('#eighthPage ul.newSnackList01 li div').autoHeight({height:'height'});
+        }
+	});	
+    </script>
+</body>
+</html>

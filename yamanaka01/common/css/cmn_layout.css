@@ -1,0 +1,269 @@
+@charset "UTF-8";
+/*
+ * cmn_layout.css
+ *
+ *  version --- 3.5
+ *  updated --- 2012/12/7
+ */
+
+
+/* !HTML5 elements
+---------------------------------------------------------- */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section
+{ display: block;}
+
+/* !Reseting
+---------------------------------------------------------- */
+body {
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", Arial, Helvetica, Verdana, sans-serif;
+	font-size: 12px; /* 10px; */
+	-webkit-text-size-adjust: none;
+	line-height: 1.5;
+	color: #ff0000;
+}
+/* ie7 */ *:first-child+html body { font-size: 75%; /* 62.5%; */}
+/* ie6Below */ * html body { font-size:75%; /* font-size: 62.5%; */}
+/* ie8 */ html>/**/body { font-size /*\**/: 75%\9;}
+body, div, pre, p, blockquote, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, form, fieldset, th, td
+{ margin: 0; padding: 0;}
+input, textarea
+{ margin: 0; font-size: 100%;}
+label
+{ cursor: pointer;}
+table
+{ border-collapse: collapse; border-spacing: 0; font-size: 100%;}
+fieldset, img
+{ border: 0;}
+img
+{ vertical-align: top;}
+address, caption, cite, code, dfn, em, th, var
+{ font-style: normal; font-weight: normal;}
+ol, ul
+{ list-style: none;}
+caption, th
+{ text-align: left;}
+h1, h2, h3, h4, h5, h6
+{ font-size: 100%; font-weight: normal;}
+q:after, q:before
+{ content:'';}
+a, input
+{ /* outline: none; */ }
+abbr, acronym
+{ border: 0;}
+
+/* !Reset Module
+---------------------------------------------------------- */
+.reset div, .reset dl, .reset dt, .reset dd, .reset ul, .reset ol, .reset li, .reset h1, .reset h2, .reset h3, .reset h4, .reset h5, .reset h6,
+.reset pre, .reset form, .reset fieldset, .reset p, .reset blockquote, .reset th, .reset td
+{ margin: 0; padding: 0;}
+.reset input, .reset textarea
+{ margin: 0; font-size: 100%;}
+.reset table
+{ border-collapse: collapse; border-spacing: 0; font-size: 100%;}
+.reset fieldset, .reset img, .reset abbr, .reset acronym
+{ border: 0;}
+.reset address, .reset caption, .reset cite, .reset code, .reset dfn, .reset em, .reset th, .reset var
+{ font-style: normal; font-weight: normal;}
+.reset ol, .reset ul
+{ list-style: none;}
+.reset caption, .reset th
+{ text-align: left;}
+.reset h1, .reset h2, .reset h3, .reset h4, .reset h5, .reset h6
+{ font-size: 100%; font-weight: normal;}
+.reset a, .reset input
+{ /* outline: none; */ }
+.reset q:after, .reset q:before
+{ content:'';}
+
+/* !Clearfix
+---------------------------------------------------------- */
+.clearfix,
+#contents,
+.section
+{
+	display: block;
+	min-height: 1%;
+}
+.clearfix:after,
+#contents:after,
+.section:after
+{
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+* html .clearfix,
+* html #contents,
+* html .section
+{
+	height: 1%;
+	/*\*//*/
+	height: auto;
+	overflow: hidden;
+	/**/
+}
+/* !Layout
+---------------------------------------------------------- */
+html { overflow-y: scroll;}
+body { text-align: center;}
+@media print {
+	html,
+	html body { *zoom: 0.65;}
+}
+/* !wrapper
+---------------------------------------------------------- */
+#wrapper {
+	margin: 0 auto;
+	width: 960px;
+	text-align: left;
+}
+/* !header
+---------------------------------------------------------- */
+#header {
+}
+	#headerIn {
+		margin: 0 auto;
+		width: 960px;
+		text-align: left;
+	}
+		#headerLogo {
+		}
+		#headerSearch {
+		}
+		#headerLinks {
+		}
+			#headerLinks li {
+			}
+/* !gNavi
+---------------------------------------------------------- */
+#gNavi {
+	display: block;
+	position: relative;
+	width: 960px;
+	height: 32px;
+}
+	#gNavi li {
+		overflow: hidden;
+		position: absolute;
+		left: 0;
+		top: 0;
+		width: 160px;
+		height: 32px;
+	}
+	#gNavi li#gNav01 { left: 0;}
+	#gNavi li#gNav02 { left: 160px;}
+	#gNavi li#gNav03 { left: 320px;}
+	#gNavi li#gNav04 { left: 480px;}
+	#gNavi li#gNav05 { left: 640px;}
+	#gNavi li#gNav06 { left: 800px;}
+		#gNavi li a {
+			display: block;
+		}
+		#gNavi li#gNav01 a { margin-left: 0;}
+		#gNavi li#gNav02 a { margin-left: -160px;}
+		#gNavi li#gNav03 a { margin-left: -320px;}
+		#gNavi li#gNav04 a { margin-left: -480px;}
+		#gNavi li#gNav05 a { margin-left: -640px;}
+		#gNavi li#gNav06 a { margin-left: -800px;}
+		#gNavi li a:hover,
+		#gNavi li a:focus {
+			margin-top: -32px;
+		}
+/* !breadcrumb
+---------------------------------------------------------- */
+#breadcrumb {
+	overflow: hidden;
+	*zoom: 1;
+}
+	#breadcrumb li {
+		float: left;
+		white-space: nowrap;
+	}
+	#breadcrumb li.home {
+	}
+		#breadcrumb li a {
+			white-space: nowrap;
+		}
+/* !mainimg
+---------------------------------------------------------- */
+#mainimg {
+}
+/* !contents
+---------------------------------------------------------- */
+#contents {
+	margin: 0 auto;
+	width: 960px;
+	text-align: left;
+}
+	#main {
+		float: right;
+		width: 640px;
+	}
+	#sub {
+		float: left;
+		width: 320px;
+	}
+/* !pageTop
+---------------------------------------------------------- */
+.pageTop {
+}
+/* !footer
+---------------------------------------------------------- */
+#footer {
+	margin: 0 auto;
+	width: 960px;
+	text-align: left;
+}
+	#footerIn {
+	}
+		#footerLinks {
+		}
+			#footerLinks li {
+			}
+		#copyright {
+		}
+/* !h(n)eading
+---------------------------------------------------------- */
+.h1_basic01 {}
+.h2_basic01 {}
+.h3_basic01 {}
+.h4_basic01 {}
+.h5_basic01 {}
+.h6_basic01 {}
+/* !Listing
+---------------------------------------------------------- */
+.ul_basic01 {
+}
+	.ul_basic01 li {
+	}
+
+.ol_basic01 {
+}
+	.ol_basic01 li {
+	}
+
+.dl_basic01 {
+}
+	.dl_basic01 dt {
+	}
+	.dl_basic01 dd {
+	}
+/* !Table
+---------------------------------------------------------- */
+.table_basic01 {
+}
+	.table_basic01 th,
+	.table_basic01 td {
+	}
+	.table_basic01 th {
+	}
+	.table_basic01 td {
+	}
+		.table_basic01 th div,
+		.table_basic01 td div {
+		}
+/* !Section
+---------------------------------------------------------- */
+.section01       { /* Basic Section */ }

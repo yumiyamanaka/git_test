@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <title>CAMPAIGN｜ジャパンフリトレー株式会社</title>
+    <meta property="og:title" content="CAMPAIGN｜ジャパンフリトレー株式会社" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.fritolay.co.jp/campaign/" />
+    <meta property="og:site_name" content="ジャパンフリトレー株式会社" />
+    <meta property="og:description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <meta property="og:image" content="http://www.fritolay.co.jp/common/img/fb/tn_jfl.jpg" />
+    <meta name="keywords" content="フリトレー, ジャパンフリトレー, frito-lay, ドリトス, チートス, 元祖たこやき亭, リッチギザ, マイクポップコーン, ポップコーン" />
+    <meta name="description" content="ジャパンフリトレー株式会社のオフィシャルサイトです。ドリトス、チートス、マイクポップコーン、元祖たこやき亭などのスナック菓子商品情報をはじめ、新商品情報、ユニークなコラボ商品情報などをご紹介します。" />
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.fritolay.co.jp/favicon.ico" />
+    <link rel="stylesheet" href="/shared/css/layout/layout.css"/>
+    <link rel="stylesheet" href="/shared/css/components/components.css"/>
+    <link rel="stylesheet" href="/shared/css/cmn_layout.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <!--#include virtual="/inc/head-script.html" -->
+
+  </head>
+  <body class="page-campaign">
+    <div class="g-outer is-rwd-def"><!--#include virtual="../inc/g-header.html" -->
+      <div class="g-layout with-rwd">
+        <article class="g-layout_main">
+          <div class="page-header">
+            <div class="page-header_inner">
+              <div class="breadcrumb">
+                <ul>
+                  <li class="breadcrumb_home"><a href="/">TOP</a></li>
+                  <li>キャンペーン</li>
+                </ul>
+              </div>
+              <div class="page-header_title">
+                <h1 class="h1_campaign">キャンペーン CAMPAIGN</h1>
+              </div>
+            </div>
+          </div>
+
+          <section class="campaign-main">
+            <div class="campaign-main_inner">
+              <div class="campaing-main-list01">
+                <h2>開催中のキャンペーン</h2>
+                <ul class="ul_list01">
+<li>
+  <figure><a href="/campaign/pop-1grandprix2016/"><img src="http://www.fritolay.co.jp/campaign/managed_img/160730_thumb_pc_.jpg" alt="POP-1グランプリ開催！"/></a></figure>
+  
+  <div class="ftBox">
+    <h3>POP-1グランプリ開催！</h3>
+    <p class="txtWrap01 multiline">9月9日の「ポップコーンの日」にちなんでPOP-1グランプリを開催！99種類のフレーバーの中からみんなの投票でグランプリを決めよう！</p>
+    <div class="time">【期間】2016年8月5日 〜2016年9月9日</div>
+    <div class="button"><a class="btn_more01" href="/campaign/pop-1grandprix2016/">詳しく見る</a></div>
+  </div>
+</li>
+<li>
+  
+  <figure><img src="http://www.fritolay.co.jp/campaign/cinemike_bunner.jpg" alt="シネマイク発売開始！"/></figure>
+  <div class="ftBox">
+    <h3>シネマイク発売開始！</h3>
+    <p class="txtWrap01 multiline">『シネマイク』は、ポップコーンNo.1ブランド「マイクポップコーン」とシネコンNo.1を誇る「TOHOシネマズ」とのコラボレーション企画です。できたてのマイクを映画館でお楽しみいただけます。</p>
+    <div class="time">【期間】2014年8月1日より</div>
+    
+  </div>
+</li>
+
+                </ul>
+              </div>
+              <div class="campaing-main-list02">
+                <h2>過去のキャンペーン</h2>
+                <ul class="ul_list01">
+<li>
+  <figure><a href="http://www.calbee.co.jp/daishukakusai/?p=ctop"><img src="http://www.fritolay.co.jp/campaign/managed_img/shukaku_bunner.jpg" alt="北海道の新じゃが収穫の季節。Calbee大収穫祭2015、開催中！"/></a></figure>
+  
+  <div class="ftBox">
+    <h3>北海道の新じゃが収穫の季節。Calbee大収穫祭2015、開催中！</h3>
+    <p class="txtWrap01 multiline">北海道のじゃがいもと、もふもふブランケットが10万名様に当たる！今年も、カルビーグループの一員として大収穫祭に参加します。</p>
+    <div class="time">【期間】2015年12月12日まで</div>
+    <div class="button"><a class="btn_more01" href="http://www.calbee.co.jp/daishukakusai/?p=ctop">詳しく見る</a></div>
+  </div>
+</li>
+<li>
+  <figure><a href="/campaign/tortilla2015/"><img src="http://www.fritolay.co.jp/campaign/managed_img/banner.jpg" alt="つけてたべよう！トルティーヤチップス"/></a></figure>
+  
+  <div class="ftBox">
+    <h3>つけてたべよう！トルティーヤチップス</h3>
+    <p class="txtWrap01 multiline">パリパリ食感の「トルティーヤチップス」と、いろんな味が楽しめちゃう「お菓子がおいしくなるソース」が新登場！トルティーヤチップスをソースにつけて、さらにおいしさアップ！</p>
+    
+    <div class="button"><a class="btn_more01" href="/campaign/tortilla2015/">詳しく見る</a></div>
+  </div>
+</li>
+<li>
+  <figure><a href="/campaign/pronto_2015/"><img src="http://www.fritolay.co.jp/campaign/banner.jpg" alt="マイクポップコーン × PRONTO　コラボレーションキャンペーン "/></a></figure>
+  
+  <div class="ftBox">
+    <h3>マイクポップコーン × PRONTO　コラボレーションキャンペーン </h3>
+    <p class="txtWrap01 multiline">大人のためのおつまみポップコーン「スタイリング ポップ」発売を記念して、全国の「カフェ＆バー プロント」でコラボレーションキャンペーンがスタート！</p>
+    <div class="time">【期間】2014年7月1日より</div>
+    <div class="button"><a class="btn_more01" href="/campaign/pronto_2015/">詳しく見る</a></div>
+  </div>
+</li>
+<li>
+  <figure><a href="/campaign/super_bowl2014/"><img src="http://www.fritolay.co.jp/campaign/managed_img/img_campaign02.jpg" alt="ドリトス・クラッシュ・ザ・スーパーボウルキャンペーン"/></a></figure>
+  
+  <div class="ftBox">
+    <h3>ドリトス・クラッシュ・ザ・スーパーボウルキャンペーン</h3>
+    <p class="txtWrap01 multiline">ドリトスの宣伝動画を作り、優勝すると最大で賞金1億円、さらにはクラッシュ・ザ・スーパーボールで動画を放送できる権利が得られる大会が行われました。今年選ばれたファイナリストの作品もご覧ください。</p>
+    <div class="time">【期間】2014年9月13日
+〜2014年11月10日</div>
+    <div class="button"><a class="btn_more01" href="/campaign/super_bowl2014/">詳しく見る</a></div>
+  </div>
+</li>
+
+                </ul>
+              </div>
+            </div>
+          </section>
+        </article>
+        <p class="pageTop"><a href="#">PageTop</a></p>
+      </div><!--#include virtual="../inc/g-footer.html" -->
+    </div>
+    <script src="/shared/js/jquery.min.js"></script>
+    <script src="/shared/js/script.min.js"></script>
+    <script src="/shared/js/common.js"></script>
+    <script src="/shared/js/ellipsis.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(e) {
+            $('.txtWrap01').ellipsis();
+        });
+    </script>
+  </body>
+</html>

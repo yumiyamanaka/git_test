@@ -1,0 +1,161 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: "Cambria Math";
+	color: #003;
+	font-size: 16px;
+	background-image: url(../images/sea.jpg);
+	margin-right: auto;
+	margin-left: auto;
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	background-color: #ffffff;
+}
+
+a {
+	text-decoration: none;
+	-webkit-transition: 0.5s;
+	-moz-transition: 0.5s;
+	-o-transition: 0.5s;
+	-ms-transition: 0.5s;
+	transition: 0.5s;
+}
+	a:hover,
+	a.selected {
+		color: #020281;
+	}
+a:hover {
+    opacity:0.6;
+    -moz-opacity:0.6;
+    filter:alpha(opacity = 50);
+}
+#header {
+	color: #006;
+	height: 50px;
+	margin-bottom: 50px;
+}
+#logo {
+	height: 50px;
+	width: 220px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	padding-top: 10px;
+	float: left;
+}
+#navi {
+	list-style-type: none;
+	float: right;
+    height: 50px;
+    margin-right: 10px;
+    padding-top: 10px;
+    width: 270px;
+}
+#heder-wrapper {
+	margin-right: auto;
+	margin-left: auto;
+	width: 980px;
+}
+#main-wrapper {
+	background-color: #FFF;
+	height: 880px;
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 150px;
+}
+#navi li {
+	float: left;
+	list-style-type: none;
+	width: 90px;
+	text-align: center;
+	font-family: "Cambria Math";
+	font-size: 12px;
+	color: #069;
+}
+#navi {
+	width: 270px;
+	padding-top: 10px;
+	float: right;
+	height: 50px;
+	margin-right: 10px;
+}
+#description {
+	width: 920px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 50px;
+	height: 220px;
+}
+#main-left h2 {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+#main-left {
+	float: left;
+	width: 470px;
+	padding-left: 20px;
+}
+#main-right {
+	width: 345px;
+	float: right;
+}
+#screenshot {
+	width: 920px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+	height: 510px;
+}
+#daiki-top {
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+}
+#daiki-top img {
+	height: 100%;
+	width: 100%;
+}
+#screenshot-left {
+	width:515px;
+	float: left;
+}
+#screenshot-right {
+	width: 345px;
+	float: right;
+}
+#daiki-works {
+	width: 90%;
+	margin-bottom: 30px;
+}
+#daiki-works img {
+	width: 90%;
+	height: 90%;
+}
+#daiki-sale {
+	width: 90%;
+}
+#daiki-sale img {
+	height: 90%;
+	width: 90%;
+}
+#screenshot img {
+	border: 1px solid #CCC;
+}
+#URL {
+	width: 860px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#work {
+	margin-bottom: 20px;
+}
+#work h4 {
+	margin-bottom: 5px;
+}
+#work-time h4 {
+	margin-bottom: 5px;
+}

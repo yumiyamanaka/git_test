@@ -1,0 +1,154 @@
+.snacks-tab {
+  $prefix: snacks-tab;
+  padding-bottom: 60px;
+
+  .#{$prefix}_content {
+    padding: 0 40px 40px;
+    background-color: #fff;
+
+    &:before {
+      position: relative;
+      display: block;
+      content: "";
+      top: -12px;
+      margin-right: -40px;
+      margin-left: -40px;
+      height: 12px;
+      background: url(../../../products/img/top06.png) repeat-x;
+    }
+  }
+
+  @include applyDeviceWidth480 {
+    padding-bottom: 10px;
+
+    .#{$prefix}_content {
+      padding: 0 10px 8px;
+
+      &:before {
+        margin-right: -10px;
+        margin-left: -10px;
+        top: -6px;
+        height: 6px;
+        background: url(/shared/img/layout/line_white_sp.png) repeat-x center 0;
+      }
+    }
+  }
+}
+
+.snacks-tabs {
+  $prefix: snacks-tabs;
+  position: relative;
+  height: 57px;
+
+  li {
+    position: absolute;
+    top: 0;
+    padding-top: 10px;
+    width: 49.8%;
+  }
+
+  a {
+    position: relative;
+    display: block;
+    background-color: #a9a9a9;
+    height: 47px;
+    border-radius: 4px 4px 0 0;
+
+    span {
+      position: relative;
+      overflow: hidden;
+      display: block;
+      margin: 0 auto;
+      top: 12px;
+      height: 18px;
+      text-indent: -9999px;
+    }
+
+    &:focus,
+    &:hover {
+      background-color: #e4001f;
+    }
+  }
+
+  li.is-current {
+    a {
+      margin-top: -10px;
+      height: 57px;
+      background-color: #e4001f;
+      span {
+        top: 16px;
+      }
+    }
+  }
+
+  .#{$prefix}_tab-new {
+    left: 0;
+    span {
+      width: 66px;
+      background: url(../../../products/img/top01.png);
+    }
+  }
+
+  .#{$prefix}_tab-all-year {
+    right: 0;
+    span {
+      width: 136px;
+      background: url(../../../products/img/top02.png);
+    }
+  }
+
+  @include applyDeviceWidth480 {
+    height: 34px;
+
+    li {
+      padding-top: 5px;
+      width: 48.4%;
+    }
+
+    a {
+      height: 29px;
+      span {
+        top: 7px;
+        height: 12px;
+      }
+    }
+
+    li.is-current {
+      a {
+        margin-top: -5px;
+        height: 34px;
+        span {
+          top: 9px;
+        }
+      }
+    }
+
+    .#{$prefix}_tab-new {
+      left: 0;
+      span {
+        width: 38px;
+        background: url(../../../products/img/sp02.png);
+        -webkit-background-size: 38px 12px;
+        background-size: 38px 12px;
+      }
+    }
+
+    .#{$prefix}_tab-all-year {
+      right: 0;
+      span {
+        width: 79px;
+        background: url(../../../products/img/sp03.png);
+        -webkit-background-size: 79px 12px;
+        background-size: 79px 12px;
+      }
+    }
+  }
+}
+
+.snacks-newsnack-items {
+  padding-top: 38px;
+
+  @include applyDeviceWidth480 {
+    padding-top: 5px;
+  }
+}

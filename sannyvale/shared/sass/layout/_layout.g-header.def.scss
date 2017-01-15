@@ -1,0 +1,250 @@
+.is-rwd-def .g-header {
+  @include g-header-box-shadow();
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 200px;
+  background-color: #ffffff;
+  //  overflow-x: hidden;
+  //  overflow-y: auto;
+
+  .g-header_inner {
+    position: absolute;
+    width: 200px;
+    min-height: 100%;
+    background-color: #ffffff;
+  }
+
+  .g-header_logo {
+    padding-top: 40px;
+    margin-bottom: 34px;
+    span {
+      display: block;
+      background: url(/shared/img/logo1.png) no-repeat 0 0;
+      margin: 0 auto;
+      width: 146px;
+      height: 126px;
+    }
+  }
+
+  &.is-opened {
+//    width: 400px;
+  }
+}
+
+.is-rwd-def .g-header-social {
+  margin: 0 20px;
+  padding-top: 10px;
+  background: url(/shared/img/layout/line_dash.png) repeat-x 0 0;
+
+  .g-header-social_fb {
+    position: relative;
+    overflow: hidden;
+    display: block;
+    padding: 5px;
+    border: 1px solid #c3d4ec;
+    background-color: #edeff4;
+    color: #305c9a;
+    font-size: 11px;
+    text-decoration: none;
+    zoom: 1;
+    i {
+      float: left;
+      display: inline-block;
+      margin-right: 5px;
+      width: 18px;
+      height: 18px;
+      background: url(/shared/img/icon/sns_facebook_01.png);
+    }
+    &:hover,
+    &:focus {
+      background-color: #fff;
+    }
+  }
+}
+
+.is-rwd-def .g-header-nav {
+  a {
+    display: block;
+    span {
+      overflow: hidden;
+      display: block;
+      text-indent: -9999px;
+    }
+  }
+  .g-header-nav_handle {
+    display: none;
+  }
+}
+
+.is-rwd-def .g-header-nav-item {
+  $prefix: g-header-nav-item;
+
+  .#{$prefix}_name {
+    position: relative;
+    margin: 0 20px;
+    background: url(/shared/img/layout/line_dash.png) repeat-x 0 0;
+    z-index: 1;
+    a {
+      box-sizing: border-box;
+      padding: 19px 0;
+      height: 51px;
+      &:focus,
+      &:hover {
+        background: url(/shared/img/arrow/red_01.png) no-repeat right center;
+      }
+    }
+    span {
+      margin: 0 auto;
+      height: 13px;
+      background: url(/shared/img/menu/g_header_nav_01.png);
+    }
+  }
+
+  .#{$prefix}_handle {
+    display: none;
+  }
+
+  .#{$prefix}_content {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 200px;
+    margin-left: 200px;
+    li {
+      text-align: center;
+      font-size: 14px;
+      &:first-child {
+        margin-top: 0;
+      }
+      i {
+        display: none;
+        position: absolute;
+        top: 50%;
+        right: 10px;
+        margin-top: -6px;
+        width: 8px;
+        height: 12px;
+        background: url(/shared/img/arrow/red_01.png) no-repeat 0 0;
+      }
+      span {
+        display: block;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        margin-top: -6px;
+        height: 12px;
+        background: url(/shared/img/gnav-sub_01.png);
+      }
+      a {
+        position: relative;
+        height: 51px;
+        &:focus,
+        &:hover {
+          i {
+            display: block;
+          }
+          background-color: #a6010d;
+        }
+      }
+    }
+  }
+
+  &.is-current {
+    .#{$prefix}_name {
+      margin-left: 0;
+      margin-right: -24px;
+      padding-right: 24px;
+      background-image: url(/shared/img/layout/ribbon.png);
+      background-repeat: no-repeat;
+      background-position: right 0;
+      a {
+        background-color: #e4001f;
+      }
+    }
+    & + li {
+      .#{$prefix}_name {
+        background: none;
+      }
+    }
+  }
+
+  &.is-show-content {
+    .#{$prefix}_content {
+      display: block;
+      background-color: #cc000e;
+    }
+  }
+
+  &.has-top {
+    .#{$prefix}_name span { width: 34px; background-position: 0 0; }
+  }
+
+  &.has-product {
+    ul { padding-top: 255px; }
+    .#{$prefix}_name span { width: 55px; background-position: 0 -20px; }
+    .g-nav_01 span { margin-left: -19px; width: 39px; background-position: 0 0; }
+    .g-nav_02 span { margin-left: -38px; width: 78px; background-position: 0 -20px; }
+  }
+
+  &.has-brand {
+    ul { padding-top: 305px; }
+    .#{$prefix}_name span { width: 55px; background-position: 0 -40px; }
+    .g-nav_01 span { margin-left: -41px; width: 83px; height: 13px; background-position: 0 -60px; }
+    .g-nav_02 span { margin-left: -55px; width: 111px; background-position: 0 -80px; }
+    .g-nav_03 span { margin-left: -23px; width: 47px; background-position: 0 -100px; }
+    .g-nav_04 span { margin-left: -24px; width: 49px; background-position: 0 -120px; }
+    .g-nav_05 span { margin-left: -32px; width: 65px; background-position: 0 -140px; }
+  }
+
+  &.has-special {
+    ul { padding-top: 356px; }
+    .#{$prefix}_name span { width: 128px; background-position: 0 -60px; }
+    .g-nav_01 span { margin-left: -54px; width: 108px; background-position: 0 -180px; }
+  }
+
+  &.has-campaign {
+    ul { padding-top: 407px; }
+    .#{$prefix}_name span { width: 77px; background-position: 0 -80px; }
+    .g-nav_01 span { margin-left: -54px; width: 109px; background-position: 0 -220px; }
+  }
+
+  &.has-news {
+    ul { padding-top: 459px; }
+    .#{$prefix}_name span { width: 108px; background-position: 0 -100px; }
+    .g-nav_01 span { margin-left: -66px; width: 132px; background-position: 0 -260px; }
+  }
+
+  &.has-company {
+    ul { padding-top: 306px; }
+    .#{$prefix}_name span { width: 55px; background-position: 0 -120px; }
+    .g-nav_01 span { margin-left: -68px; width: 139px; background-position: 0 -300px; }
+    .g-nav_02 span { margin-left: -26px; width: 53px; background-position: 0 -320px; }
+    .g-nav_03 span { margin-left: -26px; width: 53px; background-position: 0 -340px; }
+    .g-nav_04 span { margin-left: -52px; width: 105px; background-position: 0 -360px; }
+    .g-nav_05 span { margin-left: -26px; width: 53px; background-position: 0 -380px; }
+  }
+
+  &.is-current {
+    &.has-top      .#{$prefix}_name span { background-position: -200px 0; }
+    &.has-product  .#{$prefix}_name span { background-position: -200px -20px; }
+    &.has-brand    .#{$prefix}_name span { background-position: -200px -40px; }
+    &.has-special  .#{$prefix}_name span { background-position: -200px -60px; }
+    &.has-campaign .#{$prefix}_name span { background-position: -200px -100px; }
+    &.has-news     .#{$prefix}_name span { background-position: -200px -80px; }
+    &.has-company  .#{$prefix}_name span { background-position: -200px -120px; }
+  }
+}
+
+.is-rwd-def .g-header {
+  &.is-opened {
+    .g-header-nav-item.is-show-content {
+      .g-header-nav-item_content {
+        display: block;
+      }
+    }
+  }
+}

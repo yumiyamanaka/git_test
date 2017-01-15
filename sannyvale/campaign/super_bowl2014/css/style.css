@@ -1,0 +1,259 @@
+img { width: 100%;vertical-align: top; }
+.pc {
+	display: block;
+}
+.sp {
+	display: none;
+}
+.g-layout {
+	min-width: 980px;
+	padding-bottom: 60px;
+	background: url(../img/bg_super_bowl01.jpg) left top repeat;
+}
+.page-header {
+	width: 100%;
+	min-width: 980px;
+	height: 40px;
+	margin-bottom: 0;
+	background: none;
+}
+.page-header:after {
+	display: none;
+}
+	.page-header .page-header_inner {
+		padding: 15px 0 0 0;
+	}
+		.page-header .page-header_inner .breadcrumb {
+			padding: 0;
+		}
+			.page-header .page-header_inner .breadcrumb li,
+			.page-header .page-header_inner .breadcrumb a {
+				color: #fff;
+			}
+			.page-header .page-header_inner .breadcrumb a:hover {
+				text-decoration: none;
+			}
+.page-main {
+	width: 980px;
+	margin: 0 auto;
+}
+#mainimg {
+	width: 100%;
+	background: url(../img/bg_opacity_dark01.png) left top repeat;
+}
+	#mainimg .term {
+		width: 100%;
+	}
+	#mainimg .note {
+		padding: 10px 0 35px;
+		text-align: center;
+		line-height: 1;
+		color: #fff;
+	}
+
+#schedule {
+	width: 100%;
+	padding-bottom: 37px;
+	background: url(../img/bg_opacity_dark01.png) left top repeat;
+}
+	#schedule .pic {
+		width: 911px;
+		margin: 0 auto 23px;
+	}
+	#schedule .btn {
+		width: 880px;
+		margin: 0 auto;
+	}
+		#schedule .btn a {
+			display: block;
+			width: 880px;
+			height: 120px;
+			overflow: hidden;
+		}
+			#schedule .btn a:hover img {
+				margin-top: -120px;
+			}
+
+#dorotosArea {
+	position: relative;
+	width: 100%;
+}
+	#dorotosArea .btn {
+		position: absolute;
+		right: 110px;
+		bottom: 74px;
+	}
+		#dorotosArea .btn a {
+			display: block;
+			width: 393px;
+			height: 60px;
+			padding-top: 22px;
+			overflow: hidden;
+			background: url(../img/bg_btndetail01.png) left top repeat;
+			border: 1px solid #9d0a14;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			box-sizing: border-box;
+			font-size: 134%;
+			font-weight: bold;
+			color: #fff;
+			text-align: center;
+			text-decoration: none;
+			line-height: 1;
+		}
+			#dorotosArea .btn a:hover {
+				background: url(../img/bg_btndetail02.png) left top repeat;
+			}
+				
+@media screen and (max-width: 480px) {
+.pc {
+	display: none;
+}
+.sp {
+	display: block;
+}
+.g-layout {
+	min-width: inherit;
+	padding-bottom: 0;
+}
+.page-header {
+	display: none;
+	width: 100%;
+	min-width: inherit;
+	height: 30px;
+	margin-bottom: 0;
+	background: none;
+}
+.page-header:after {
+	display: none;
+}
+	.page-header .page-header_inner {
+		width: 100%;
+		margin: 0 auto; 
+		padding: 10px 10px 0;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+		.page-header .page-header_inner .breadcrumb {
+			padding: 0;
+		}
+			.page-header .page-header_inner .breadcrumb li,
+			.page-header .page-header_inner .breadcrumb a {
+				color: #fff;
+				font-size: 93%;
+				font-weight: bold;
+				line-height: 1;
+			}
+			.page-header .page-header_inner .breadcrumb li.campaign {
+				display: none;
+			}
+			.page-header .page-header_inner .breadcrumb a:hover {
+				text-decoration: none;
+			}
+.page-main {
+	width: 100%;
+	margin: 0 auto;
+}
+	.page-main .page-main_inner {
+		padding-bottom: 45px;
+		background: url(../img/bg_opacity_dark01.png) left top repeat;
+	}
+	
+#mainimg {
+	width: 100%;
+	padding: 0 10px;
+	background: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+	#mainimg .term {
+		width: 100%;
+		
+	}
+	#mainimg .note {
+		padding: 8px 10px 15px;
+		text-align: center;
+		font-size: 93%;
+		line-height: 1.6;
+		color: #fff;
+	}
+
+#schedule {
+	width: 100%;
+	padding-bottom: 37px;
+	background: none;
+}
+	#schedule .pic {
+		width: 100%;
+		margin: 0 0 20px;
+	}
+	#schedule .btn {
+		width: 100%;
+		height: 42px;
+		margin: 0;
+		padding: 0 10px;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+		#schedule .btn .inner {
+			background: url(../img/bg_btnwinner01.png) left top no-repeat;
+			background-size: 298px 42px;
+		}
+			#schedule .btn a {
+				display: block;
+				width: 100%;
+				height: 42px;
+				padding-top: 14px;
+				background: url(../img/bg_btnwinner02.png) right top no-repeat;
+				background-size: 298px 42px;
+				-webkit-box-sizing: border-box;
+				-moz-box-sizing: border-box;
+				box-sizing: border-box;
+			}
+			#schedule .btn a span {
+				display: block;
+				width: 136px;
+				height: 30px;
+				margin: 0 auto;
+			}
+				#schedule .btn a:hover img {
+					margin-top: 0;
+				}
+
+#dorotosArea {
+	position: relative;
+	width: 100%;
+}
+	#dorotosArea .btn {
+		position: absolute;
+		width: 215px;
+		left: 50%;
+		bottom: 10px;
+		margin-left: -108px;
+	}
+		#dorotosArea .btn a {
+			display: block;
+			width: 215px;
+			height: 35px;
+			padding-top: 11px;
+			overflow: hidden;
+			background: #2e0006;
+			border: 1px solid #970a13;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			box-sizing: border-box;
+			font-size: 100%;
+			font-weight: bold;
+			color: #fff;
+			text-align: center;
+			text-decoration: none;
+			line-height: 1;
+		}
+			#dorotosArea .btn a:hover {
+				background: #2e0006;
+			}
+						
+}
